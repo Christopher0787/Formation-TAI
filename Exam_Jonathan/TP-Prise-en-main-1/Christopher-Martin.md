@@ -11,6 +11,7 @@
 2. **Gestion des Accès**
     ` Enable pour être en mode privilégier `
     ` username Utilisateur 0 15 `
+    ` password motdepasse secret `
     ` switchport mode access `
     ` switchport access vlan 20 `
     ` line cosole 0 `

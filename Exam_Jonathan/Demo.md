@@ -7,6 +7,6 @@ texte non en gras
 
 ![Texte alternatif](chemin/vers/votre/image.extension)
 
-```python
+```powershell
 print("texte alternatif")
 ```

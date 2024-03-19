@@ -20,4 +20,4 @@ print("texte alternatif")
 
 `voici du code non spécifié`
 
-<image src="chemin/vers/votre/image.extension">
+<image src="./Images/S0-salon-de-geneve-2017-ferrari-812-superfast-toujours-plus-396271.jpg">

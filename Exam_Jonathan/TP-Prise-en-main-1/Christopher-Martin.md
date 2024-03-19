@@ -8,7 +8,8 @@
     *** No shutdown ou no shut ***
 
 2. **Gestion des Accès**
-
+    *** switchport mode access ***
+    *** switchport access vlan 20 ***
 
 3. **Configuration des Interfaces**
 

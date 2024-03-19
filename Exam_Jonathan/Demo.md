@@ -3,6 +3,7 @@
 ### Tritre 3
 #### Tritre 4
 **texte en gras**
+
 texte non en gras
 
 ![Texte alternatif](chemin/vers/votre/image.extension)
@@ -10,3 +11,11 @@ texte non en gras
 ```powershell
 print("texte alternatif")
 ```
+
+---
+
+-
+
+*
+
+`voici du code non spécifié`

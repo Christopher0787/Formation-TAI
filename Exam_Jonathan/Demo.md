@@ -6,7 +6,7 @@
 
 texte non en gras
 
-![Texte alternatif](chemin/vers/votre/image.extension)
+![Texte alternatif](./Images/ENZO.jpg.webp)
 
 ```powershell
 print("texte alternatif")

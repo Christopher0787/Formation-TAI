@@ -19,3 +19,5 @@ print("texte alternatif")
 *
 
 `voici du code non spécifié`
+
+<image src="chemin/vers/votre/image.extension">

@@ -28,3 +28,5 @@
 
 
 4. **Sauvegarde et Gestion des Configurations**
+    ` copy running-config tftp `
+    ` copy tftp running-config `

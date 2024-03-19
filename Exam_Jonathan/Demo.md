@@ -4,4 +4,9 @@
 #### Tritre 4
 **texte en gras**
 texte non en gras
-[!"./images/monImages.png] # Voici mon image
+
+![Texte alternatif](chemin/vers/votre/image.extension)
+
+```python
+print("texte alternatif")
+```

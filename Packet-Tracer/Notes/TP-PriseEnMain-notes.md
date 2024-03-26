@@ -30,3 +30,11 @@ Router(config-if)#
 ![Capture packet-tracer](./Images/Capture-Packet-Tracer.png)
 
 ---
+
+```cli
+
+Router>en
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#
+```

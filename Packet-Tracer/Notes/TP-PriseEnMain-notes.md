@@ -22,3 +22,5 @@ Router(config-if)#ip address 192.168.3.1 255.255.255.0
 Router(config-if)#no shutdown
 Router(config-if)#
 ```
+
+<img src="./Images/Capture-Packet-Tracer.png" alt="Capture Packet Tracer" width="100%" />

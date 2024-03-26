@@ -44,21 +44,22 @@ Router(config)#
 - **Exemple schema mermaid**
 
 ```mermaid
-graph LR
-    A[Connexion au périphérique] --> B{Mode utilisateur ?}
-    B -->|Non| C[Passer en mode d'administration (enable)]
-    C --> D[Configurer le mot de passe enable (enable password)]
-    D --> E[Configurer le mot de passe chiffré (enable secret)]
-    E --> F[Configurer l'authentification utilisateur (username/password)]
-    F --> G{Configuration réseau ?}
-    G -->|Oui| H[Accéder au mode de configuration (configure terminal)]
-    H --> I[Configurer les interfaces (interface, ip address, description, no shutdown)]
-    I --> J[Configurer le routage (router, network, ip route)]
-    J --> K[Configurer la sécurité (access-lists, etc.)]
-    K --> L[Sauvegarder la configuration (copy running-config startup-config)]
-    L --> M[Terminer la session]
-    G -->|Non| M[Terminer la session]
-    B -->|Oui| M[Terminer la session]
+graph LR;
+    A[Connexion au périphérique] --> B{Mode utilisateur ?};
+    B -->|Non| C[Passer en mode d'administration (enable)];
+    C --> D[Configurer le mot de passe enable (enable password)];
+    D --> E[Configurer le mot de passe chiffré (enable secret)];
+    E --> F[Configurer l'authentification utilisateur (username/password)];
+    F --> G{Configuration réseau ?};
+    G -->|Oui| H[Accéder au mode de configuration (configure terminal)];
+    H --> I[Configurer les interfaces (interface, ip address, description, no shutdown)];
+    I --> J[Configurer le routage (router, network, ip route)];
+    J --> K[Configurer la sécurité (access-lists, etc.)];
+    K --> L[Sauvegarder la configuration (copy running-config startup-config)];
+    L --> M[Terminer la session];
+    G -->|Non| M[Terminer la session];
+    B -->|Oui| M[Terminer la session];
+
 
 ```
 

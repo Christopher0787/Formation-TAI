@@ -24,3 +24,9 @@ Router(config-if)#
 ```
 
 <img src="./Images/Capture-Packet-Tracer..png.png" alt="Capture Packet Tracer" width="100%" />
+
+---
+
+![Capture packet-tracer](./Images/Capture-Packet-Tracer.png)
+
+---

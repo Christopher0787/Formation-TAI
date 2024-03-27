@@ -7,6 +7,8 @@
 - Relier avec un cable les PC au comutateur (Switch)
 - Cliquer sur le switch aller sur CLI
 
+![Topologie Exercice 1](../img/Exo-1-topo.png)
+
 ```cli
 Switch>en
 Switch#conf t

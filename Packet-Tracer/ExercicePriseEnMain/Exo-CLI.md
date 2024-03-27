@@ -32,7 +32,7 @@ Switch(config-if)#
 
 - Un comutateur (Switch)
 
-![Topologie Exercice 1](../img/Exo-2-topo.png)
+![Topologie Exercice 2](../img/Exo-2-topo.png)
 
 - **Mode utilisateur :**
 ```cli
@@ -60,7 +60,7 @@ Switch>
 
 - Un Routeur
 
-![Topologie Exercice 1](../img/Exo-3-topo.png)
+![Topologie Exercice 2](../img/Exo-3-topo.png)
 
 
 - **Mode utilisateur :**
@@ -113,7 +113,7 @@ Router#
 
 - Un Routeur cisco
 
-![Topologie Exercice 1](../img/Exo-4-topo.png)
+![Topologie Exercice 4](../img/Exo-4-topo.png)
 
 - **Mode Privilegier :**
 ```cli
@@ -132,3 +132,37 @@ Router(config-line)#
 ```	
 
 ---
+
+
+## Exercice 5 : Configuration d'une interface réseau sur un routeur cisco
+
+** Materiel requi **
+
+- Un Routeur cisco
+
+![Topologie Exercice 5](../img/Exo-5-topo.png)
+
+```cli
+Router>en
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#interface GigabitEthernet0/0/1
+Router(config-if)#ip address 192.168.2.1 255.255.255.0
+Router(config-if)#no shut
+
+Router(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/0/1, changed state to up
+
+Router(config-if)#exit
+Router(config)#
+```
+
+- **Configuration d'une interface réseau sur un routeur cisco en mode graphique**
+
+![Configuration d'une interface réseau sur un routeur cisco en mode graphique](../img/Exo-5-conf-netInterface-GUI.png)
+
+
+---
+
+
+

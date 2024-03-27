@@ -88,5 +88,20 @@ Switch#
 ![Topologie Exercice 5](../img/Exo-5-ssh-topo.png)
 
 ```cli	
-
+Switch>
+Switch>en
+Switch#conf t
+Switch(config)#line vty 0 15
+Switch(config-line)#crypto key generate rsa
+Switch(config)#hostname monSwitch
+monSwitch(config)#ip domain-name mondomain.local
+monSwitch(config)#crypto key generate rsa
+How many bits in the modulus [512]: 1024
+monSwitch(config)#exit
+monSwitch#
+monSwitch#write memory
+monSwitch#
 ```
+
+---
+

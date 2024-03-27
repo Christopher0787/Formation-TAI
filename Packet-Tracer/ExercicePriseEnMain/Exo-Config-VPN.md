@@ -148,3 +148,23 @@ Router#
 ```
 
 ---
+
+## Exercice 9 : Configuration du bagnière MOTD (Message of the Day)
+
+**Model router 4321**
+
+![Topologie Exercice 9](../img/Exo-9-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#banner motd #Message d'avertissement#
+Router(config)#exit
+Router#
+Router#exit
+Message d'avertissement
+Router>
+```
+
+---

@@ -104,3 +104,31 @@ Router#
 Router#
 ```
 
+---
+
+
+## Exercice 4 : Configuration de accès consol sur un routeur cisco
+
+** Materiel requi **
+
+- Un Routeur cisco
+
+![Topologie Exercice 1](../img/Exo-4-topo.png)
+
+- **Mode Privilegier :**
+```cli
+Router>en
+Router#
+```	
+
+- **Enter mode configuration globale :**
+```cli	
+Router>en
+Router#
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#line console 0
+Router(config-line)#
+```	
+
+---

@@ -92,4 +92,22 @@ Router(config)#
 
 ---
 
+## Exercice 6 : Configuration des Mot de passe pour l'accés console
+
+**Model router 4321**
+
+![Topologie Exercice 6](../img/Exo-6-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#line console 0
+Router(config-line)#password monmotdepasee
+Router(config-line)#login
+Router(config-line)#
+```
+
+---
 

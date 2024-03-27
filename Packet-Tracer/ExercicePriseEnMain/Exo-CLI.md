@@ -46,7 +46,7 @@ Switch#
 ```	
 
 - **Retour mode utilisateur :**
-Commande pour quittere le mode privilegier
+Commande pour quitter le mode privilegier
 ```cli	
 Switch#disable
 Switch>
@@ -59,3 +59,48 @@ Switch>
 ** Materiel requi **
 
 - Un Routeur
+
+![Topologie Exercice 1](../img/Exo-3-topo.png)
+
+
+- **Mode utilisateur :**
+```cli
+Would you like to enter the initial configuration dialog? [yes/no]: no
+
+
+Press RETURN to get started!
+
+
+
+Router>
+```
+
+- **Mode Privilegier :**
+```cli
+Router>en
+Router#
+```	
+
+- **Enter mode configuration globale :**
+```cli	
+Router>en
+Router#
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#
+```	
+
+- **Sortir du mode configuration globale :**
+Commande pour quitter le mode configuration globale 
+```cli	
+Router>en
+Router#
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#exit
+Router#
+%SYS-5-CONFIG_I: Configured from console by console
+
+Router#
+```
+

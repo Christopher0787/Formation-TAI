@@ -50,3 +50,27 @@ Router>en
 Password: 
 Router#
 ```
+---
+
+## Exercice 4 : Configuration de SSH
+
+**Model router 4321**
+
+![Topologie Exercice 4](../img/Exo-4-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#ip domain-name mondomaine.com
+Router(config)#hostname RouteurSSH
+RouteurSSH(config)#crypto key generate rsa
+RouteurSSH(config)#ip ssh version 2
+*Mar 1 0:3:48.512: %SSH-5-ENABLED: SSH 2 has been enabled
+RouteurSSH(config)#
+RouteurSSH(config)#exit
+RouteurSSH#
+RouteurSSH#show ip ssh
+SSH Enabled - version 2.0
+RouteurSSH#
+```

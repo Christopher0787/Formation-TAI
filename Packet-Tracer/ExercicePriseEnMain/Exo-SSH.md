@@ -80,3 +80,13 @@ Switch#
 Switch#write memory
 Switch#
 ```
+
+## Exercice 5 : Génération d'une clée de cryptographie RSA sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 5](../img/Exo-5-ssh-topo.png)
+
+```cli	
+
+```

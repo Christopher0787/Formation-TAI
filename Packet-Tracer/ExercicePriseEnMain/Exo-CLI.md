@@ -164,6 +164,7 @@ Router(config)#
 
 ---
 
+
 ## Exercice 7 : Configuration d'une interface SVI d'un switch
 
 **Materiel requis**

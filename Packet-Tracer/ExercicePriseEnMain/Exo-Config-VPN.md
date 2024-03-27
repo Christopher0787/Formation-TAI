@@ -74,3 +74,22 @@ RouteurSSH#show ip ssh
 SSH Enabled - version 2.0
 RouteurSSH#
 ```
+---
+
+## Exercice 5 : Création d'un utilisateur Administrateur
+
+**Model router 4321**
+
+![Topologie Exercice 5](../img/Exo-5-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#username admin privilege 15 secret monMotDePasse
+Router(config)#
+```
+
+---
+
+

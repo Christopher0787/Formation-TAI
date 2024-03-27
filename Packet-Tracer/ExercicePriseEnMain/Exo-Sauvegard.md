@@ -58,3 +58,19 @@ Router#
 ```
 
 ---
+
+## Exercice 4 : Réstoration de la configuration de démarrage
+
+**Model Routeur 4321**
+
+![Topologie Exercice 4](../img/Exo-4-Sauvegard-topo.png)
+
+```cli
+Router>
+Router>en
+Router#copy startup-config running-config
+Destination filename [running-config]? 
+Router#
+```
+
+---

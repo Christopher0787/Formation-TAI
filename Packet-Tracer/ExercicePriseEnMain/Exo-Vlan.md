@@ -184,3 +184,20 @@ Switch#
 ```
 
 ---
+
+## Exercice 6 : Vérification des Vlan créer
+
+**Model switch 2960**
+
+```cli
+Switch#show vlan brief
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+30   Voix                             active    Gig0/1
+
+Switch#
+```
+
+---
+

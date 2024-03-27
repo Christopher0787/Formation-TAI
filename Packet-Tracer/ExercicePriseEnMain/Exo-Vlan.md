@@ -201,3 +201,34 @@ Switch#
 
 ---
 
+## Exercice 7 : Modification de l'apartenence d'un port a un Vlan
+
+**Model switch 2960**
+
+![Topologie Exercice 7](../img/Exo-7-Vlan-topo.png)
+
+```cli
+Switch>en
+Switch#conf t
+Switch(config)#Vlan 10
+Switch(config-vlan)#name "Vlan Exo"
+Switch(config-vlan)#exit
+Switch(config)#int g0/1
+Switch(config-if)#switchport mode access
+Switch(config-if)#switchport access Vlan 10
+Switch(config-if)#exit
+Switch(config)#int Fa0/1
+Switch(config-if)#switchport mode access
+Switch(config-if)#switchport access Vlan 10
+Switch(config-if)#exit
+Switch(config)#exit
+Switch#
+Switch#show interfaces status
+
+Port      Name               Status       Vlan       Duplex  Speed Type
+Fa0/1                        notconnect   10         auto    auto  10/100BaseTX
+
+Switch#
+```
+---
+

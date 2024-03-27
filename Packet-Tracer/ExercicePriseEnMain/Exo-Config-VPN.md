@@ -129,3 +129,22 @@ Router(config-line)#
 
 ---
 
+## Exercice 8 : Activation du chiffrement des mots de passe
+
+**Model router 4321**
+
+![Topologie Exercice 8](../img/Exo-8-VPN-topo.png)
+
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#service password-encryption
+Router(config)#exit
+Router#
+Router#show running-config
+Router#
+```
+
+---

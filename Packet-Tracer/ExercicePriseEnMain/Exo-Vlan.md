@@ -125,3 +125,62 @@ Switch#
 ```
 
 ---
+
+## Exercice 5 : Création d'un Vlan voix
+
+**Model switch 2960**
+
+![Topologie Exercice 5](../img/Exo-5-Vlan-topo.png)
+
+```cli
+Switch>
+Switch>en
+Switch#conf t
+Switch(config)#Vlan 30
+Switch(config-vlan)#name Voix
+Switch(config-vlan)#exit
+Switch(config)#int g0/1
+Switch(config-if)#switchport mode access
+Switch(config-if)#switchport access Vlan 30
+Switch(config-if)#exit
+Switch(config)#mls qos
+Switch(config)#exit
+Switch#
+Switch#show Vlan brief
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+30   Voix                             active    Gig0/1
+  
+Switch#show interface gigabitEthernet0/1 switchport
+Name: Gig0/1
+Switchport: Enabled
+Administrative Mode: static access
+Operational Mode: down
+Administrative Trunking Encapsulation: dot1q
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 30 (Voix)
+Trunking Native Mode VLAN: 1 (default)
+Voice VLAN: none
+Administrative private-vlan host-association: none
+Administrative private-vlan mapping: none
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk private VLANs: none
+Operational private-vlan: none
+Trunking VLANs Enabled: All
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+Capture VLANs Allowed: ALL
+Protected: false
+Unknown unicast blocked: disabled
+Unknown multicast blocked: disabled
+Appliance trust: none
+
+
+Switch#
+```
+
+---

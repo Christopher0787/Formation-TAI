@@ -105,3 +105,21 @@ monSwitch#
 
 ---
 
+## Exercice 6 : Création d'un utilisateur pour SSH sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 6](../img/Exo-6-ssh-topo.png)
+
+```cli
+Switch>en
+Switch#conf t
+Switch(config)#username monUtilisateur secret monMotDePasseSecret
+Switch(config)#exit
+Switch#
+Switch#write memory
+Switch#
+```
+
+---
+

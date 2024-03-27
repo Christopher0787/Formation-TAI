@@ -7,6 +7,7 @@
 ![Topologie Exercice 1](../img/Exo-1-ssh-topo.png)
 
 ```cli
+Switch>
 Switch>en
 Switch#show version
 Switch Ports Model              SW Version            SW Image
@@ -18,6 +19,8 @@ Switch#
 
 
 ```cli
+Switch>
+Switch>en
 Switch#conf t              
 Switch(config)#hostname MonSwitch
 MonSwitch(config)#
@@ -31,6 +34,7 @@ MonSwitch(config)#
 
 
 ```cli
+Switch>
 Switch>en
 Switch#conf t
 Switch(config)#int Vlan 1
@@ -51,6 +55,7 @@ Switch#
 ![Topologie Exercice 3](../img/Exo-3-ssh-topo.png)
 
 ```cli
+Switch>
 Switch>en
 Switch#conf t
 Switch(config)#enable secret monmotdepassesecret
@@ -69,6 +74,7 @@ Switch#
 ![Topologie Exercice 4](../img/Exo-4-ssh-topo.png)
 
 ```cli
+Switch>
 Switch>en
 Switch#conf t
 Switch(config)#ip domain-name mondomaine.local
@@ -112,6 +118,7 @@ monSwitch#
 ![Topologie Exercice 6](../img/Exo-6-ssh-topo.png)
 
 ```cli
+Switch>
 Switch>en
 Switch#conf t
 Switch(config)#username monUtilisateur secret monMotDePasseSecret
@@ -123,3 +130,34 @@ Switch#
 
 ---
 
+## Exercice 7 : Configuration de acces VTY sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 7](../img/Exo-7-ssh-topo.png)
+
+```cli
+Switch>
+Switch>en
+Switch#conf t
+Switch(config)#line vty 0 15
+Switch(config-line)#transport input ssh
+Switch(config-line)#login local
+Switch(config-line)#exit
+Switch(config)#exit
+Switch#
+Switch#write memory
+Switch#
+```
+
+---
+
+## Exercice 8 : Analyse de la sécurité ssh sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 8](../img/Exo-8-ssh-topo.png)
+
+```cli	
+
+```

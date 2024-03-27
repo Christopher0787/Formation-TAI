@@ -159,5 +159,12 @@ Switch#
 ![Topologie Exercice 8](../img/Exo-8-ssh-topo.png)
 
 ```cli	
-
+Switch>
+Switch>en
+Switch#
+Switch#show ip ssh
+SSH Disabled - version 1.99
+Switch#
 ```
+- Quand tu a activer **SSH v2** au lieu de version 1.99 est la Clé **RSA** s'affiche.
+

@@ -75,15 +75,22 @@ Router#
 
 ---
 
-## Exercice 5 : Changement du répertoire et vérification du chemin
+## Exercice 6 : Listage des contenue de la NVRAM
 
 **Model Routeur 4321**
 
-![Topologie Exercice 5](../img/Exo-5-Sauvegard-topo.png)
+![Topologie Exercice 6](../img/Exo-6-Sauvegard-topo.png)
 
-`CD` permet de changer de répertoire courant
+```cli
+Router#dir nvram:
+Directory of nvram:/
 
-`PWD`permet de vérifier le chemin actuelle
+  238  -rw-         488          <no date>  startup-config
+
+488 bytes total (237588 bytes free)
+
+Router#
+```
 
 ---
 

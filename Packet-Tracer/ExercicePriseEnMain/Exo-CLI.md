@@ -262,3 +262,21 @@ ICMP redirect cache is empty
 
 ---
 
+## Exercice 9 : Changement du Vlan de gestion sur un switch cisco
+
+** Materiel requi **
+
+- Un comutateur (Switch)
+
+```cli
+Switch>en
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#Vlan 10                            
+Switch(config-vlan)#name Vlan10
+Switch(config-vlan)#exit
+Switch(config)#no Vlan 10
+Switch(config)#
+```
+
+---

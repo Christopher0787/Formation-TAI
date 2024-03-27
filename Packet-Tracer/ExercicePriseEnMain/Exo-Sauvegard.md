@@ -74,3 +74,16 @@ Router#
 ```
 
 ---
+
+## Exercice 5 : Changement du répertoire et vérification du chemin
+
+**Model Routeur 4321**
+
+![Topologie Exercice 5](../img/Exo-5-Sauvegard-topo.png)
+
+`CD` permet de changer de répertoire courant
+
+`PWD`permet de vérifier le chemin actuelle
+
+---
+

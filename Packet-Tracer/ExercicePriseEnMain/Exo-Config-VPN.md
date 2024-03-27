@@ -168,3 +168,22 @@ Router>
 ```
 
 ---
+
+## Exercice 10 : Sauvegard de la configuration dans la NVRAM
+
+**Model router 4321**
+
+![Topologie Exercice 10](../img/Exo-10-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#exit
+Router#
+Router#copy running-config startup-config
+Router#show startup-config
+```
+
+---
+

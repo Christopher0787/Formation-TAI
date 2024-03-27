@@ -224,3 +224,41 @@ ICMP redirect cache is empty
 
 ---
 
+## Exercice 8 : Vérification de la configuration SVI d'un switch cisco
+
+** Materiel requi **
+
+- Un comutateur (Switch)
+
+- Pour la commande `Switch#show Vlan` le résultat attendue est :
+```cli
+Switch#show vlan
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+10   Vlan gestion                     active    
+ 
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+10   enet  100010     1500  -      -      -        -    -        0      0
+```
+
+- Pour la commande `Switch#show ip interface brief` le résultat attendue est :
+```cli
+Switch#show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+Vlan10                 192.168.1.1     YES manual up                    down
+```
+
+- Pour la commande `Switch#show ip route` le résultat attendue est :
+```cli
+Switch#show ip route
+Default gateway is 192.168.1.1
+
+Host               Gateway           Last Use    Total Uses  Interface
+ICMP redirect cache is empty
+```
+
+---
+

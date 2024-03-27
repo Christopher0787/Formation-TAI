@@ -86,3 +86,42 @@ Switch#
 
 ---
 
+## Exercice 4 : Configuration d'un Vlan de gestion
+
+**Model switch 2960**
+
+![Topologie Exercice 4](../img/Exo-4-Vlan-topo.png)
+
+```cli
+Switch>
+Switch>en
+Switch#conf t
+Switch(config)#Vlan 20
+Switch(config-vlan)#name Gestion
+Switch(config-vlan)#exit
+Switch(config)#int g0/1
+Switch(config-if)#switchport mode access
+Switch(config-if)#switchport access Vlan 20
+Switch(config-if)#exit
+Switch(config)#int Vlan 20
+Switch(config-if)#
+Switch(config-if)#ip address 192.168.1.1 255.255.255.0
+Switch(config-if)#no shut
+Switch(config-if)#exit
+Switch(config)#exit
+Switch#
+Switch#show Vlan
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+20   Gestion                          active    Gig0/1
+  
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+20   enet  100020     1500  -      -      -        -    -        0      0
+
+Switch#
+```
+
+---

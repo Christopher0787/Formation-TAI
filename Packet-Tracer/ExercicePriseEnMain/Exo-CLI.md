@@ -2,7 +2,7 @@
 
 ## Exercice 1 : Configuration du CLI 
 
-** Materiel requi **
+**Materiel requis**
 
 - Un comutateur
 - 2 PC
@@ -28,7 +28,7 @@ Switch(config-if)#
 
 ## Exercice 2 : des modes d'execution sur un switch cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un comutateur (Switch)
 
@@ -56,7 +56,7 @@ Switch>
 
 ## Exercice 3 : Entrer et sortie du mode de configuration globale sur un routeur cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un Routeur
 
@@ -109,7 +109,7 @@ Router#
 
 ## Exercice 4 : Configuration de accès consol sur un routeur cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un Routeur cisco
 
@@ -136,7 +136,7 @@ Router(config-line)#
 
 ## Exercice 5 : Configuration d'une interface réseau sur un routeur cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un Routeur cisco
 
@@ -166,7 +166,7 @@ Router(config)#
 
 ## Exercice 7 : Configuration d'une interface SVI d'un switch
 
-** Materiel requi **
+**Materiel requis**
 
 - Un comutateur (Switch)
 
@@ -226,7 +226,7 @@ ICMP redirect cache is empty
 
 ## Exercice 8 : Vérification de la configuration SVI d'un switch cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un comutateur (Switch)
 
@@ -264,7 +264,7 @@ ICMP redirect cache is empty
 
 ## Exercice 9 : Changement du Vlan de gestion sur un switch cisco
 
-** Materiel requi **
+**Materiel requis**
 
 - Un comutateur (Switch)
 

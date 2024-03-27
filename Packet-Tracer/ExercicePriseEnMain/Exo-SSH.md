@@ -43,3 +43,23 @@ Switch#
 ```
 
 ---
+
+## Exercice 3 : Définition d'un mot de passe secret sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 3](../img/Exo-3-ssh-topo.png)
+
+```cli
+Switch>en
+Switch#conf t
+Switch(config)#enable secret monmotdepassesecret
+Switch#reload
+Switch>en
+Password: 
+Switch#
+```
+
+---
+
+## Exercice 4 : 

@@ -164,5 +164,63 @@ Router(config)#
 
 ---
 
+## Exercice 7 : Configuration d'une interface SVI d'un switch
 
+** Materiel requi **
+
+- Un comutateur (Switch)
+
+![Topologie Exercice 7](../img/Exo-7-topo.png)
+
+```cli
+Switch>en
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#Vlan 10
+Switch(config-vlan)#name "Vlan gestion"
+Switch(config-vlan)#exit
+Switch(config)#int Vlan 10
+Switch(config-if)#
+Switch(config-if)#ip address 192.168.1.1 255.255.255.0
+Switch(config-if)#no shut
+Switch(config-if)#exit
+Switch(config)#ip default-gateway 192.168.1.1
+Switch(config)#exit
+Switch#
+Switch#show Vlan
+Switch#show ip interface brief
+Switch#show ip route
+```
+
+- Pour la commande `Switch#show Vlan` le résultat attendue est :
+```cli
+Switch#show vlan
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+10   Vlan gestion                     active    
+ 
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+10   enet  100010     1500  -      -      -        -    -        0      0
+```
+
+- Pour la commande `Switch#show ip interface brief` le résultat attendue est :
+```cli
+Switch#show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+Vlan10                 192.168.1.1     YES manual up                    down
+```
+
+- Pour la commande `Switch#show ip route` le résultat attendue est :
+```cli
+Switch#show ip route
+Default gateway is 192.168.1.1
+
+Host               Gateway           Last Use    Total Uses  Interface
+ICMP redirect cache is empty
+```
+
+---
 

@@ -111,3 +111,21 @@ Router(config-line)#
 
 ---
 
+## Exercice 7 : Configuration des Mot de passe pour pour les lignes VTY
+
+**Model router 4321**
+
+![Topologie Exercice 7](../img/Exo-7-VPN-topo.png)
+
+```cli
+Router>
+Router>en
+Router#conf t
+Router(config)#line vty 0 15
+Router(config-line)#transport input ssh 
+Router(config-line)#login local
+Router(config-line)#
+```
+
+---
+

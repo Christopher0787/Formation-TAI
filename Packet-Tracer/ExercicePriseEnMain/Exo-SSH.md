@@ -62,4 +62,21 @@ Switch#
 
 ---
 
-## Exercice 4 : 
+## Exercice 4 : Définiton du domaine et activation de SSH V2 sur un switch cisco
+
+**Model switch 2960**
+
+![Topologie Exercice 4](../img/Exo-4-ssh-topo.png)
+
+```cli
+Switch>en
+Switch#conf t
+Switch(config)#ip domain-name mondomaine.local
+Switch(config)#line vty 0 15
+Switch(config-line)#transport input ssh
+Switch(config-line)#exit
+Switch(config)#exit
+Switch#
+Switch#write memory
+Switch#
+```

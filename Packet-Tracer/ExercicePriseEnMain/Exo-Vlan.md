@@ -64,3 +64,25 @@ Switch#
 
 ---
 
+## Exercise 3 : Changement du Vlan natif sur un port trunk
+
+**Model switch 2960**
+
+![Topologie Exercice 3](../img/Exo-3-Vlan-topo.png)
+
+```cli
+Switch>
+Switch>en
+Switch#conf t
+Switch(config)#int gigabitEthernet0/1
+Switch(config-if)#switchport mode trunk
+Switch(config-if)#switchport trunk native Vlan 99
+Switch(config-if)#exit
+Switch(config)#exit
+Switch#
+Switch#show interface trunk
+Switch#
+```
+
+---
+

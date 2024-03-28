@@ -60,7 +60,7 @@ Les réseaux informatiques se classent généralement en trois catégories princ
 
 ![Éléments-Physiques-Réseau](../img/éléments-physiques-réseau.png)
 
-# **Schéma Logique de Réseau
+# **Schéma Logique de Réseau**
 - Le schéma logique offre une représentation de l'architecture d'un réseau, détaillant les composants physiques et certains aspects de sa configuration logicielle.
 - C'est un outil essentiel pour les techniciens informatiques, car il permet de comprendre, créer et configurer des réseaux.
 

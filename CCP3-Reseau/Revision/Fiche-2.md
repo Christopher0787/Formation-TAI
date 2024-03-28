@@ -9,3 +9,10 @@ Le fonctionnement des réseaux informatiques repose sur des protocoles et des no
 Comprendre la notion de réseau informatique est essentiel dans notre société numérique, car elle nous permet de mieux appréhender le fonctionnement des services et des technologies que nous utilisons au quotidien. Cela nous aide également à comprendre les enjeux liés à la sécurité, à la confidentialité et à la performance des réseaux, ainsi qu'à apprécier l'importance de maintenir et de développer des infrastructures réseau robustes et fiables.
 
 ---
+
+# Qu'est-ce qu'un Réseau ?
+
+Un réseau informatique permet l'interconnexion d'une multitude de machines entre elles pour faciliter la transmission d'informations. Cette infrastructure complexe supporte les échanges de données sur de courtes à très longues distances, grâce à une série d'étapes impliquant la conversion, l'amplification, le chiffrement et l'atténuation des signaux.
+
+---
+

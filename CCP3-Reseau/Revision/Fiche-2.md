@@ -94,3 +94,32 @@ Cette analogie aide à visualiser le fonctionnement d'un réseau informatique et
 Comprendre les éléments physiques d'un réseau et leur organisation est fondamental pour les professionnels IT. Cela permet non seulement de configurer et de maintenir des réseaux efficacement mais aussi d'identifier et de résoudre les problèmes qui peuvent survenir dans l'infrastructure réseau.
 
 ---
+
+# **Distinction entre Schéma Logique et Schéma Physique**
+
+Dans le domaine de la technologie de l'information, deux types de schémas sont couramment utilisés pour la conception, la modélisation et le déploiement des réseaux informatiques : le schéma logique et le schéma physique. Chacun de ces schémas remplit des objectifs spécifiques et fournit des informations distinctes.
+**
+
+---
+
+## **Schéma Logique**
+
+- **Objectif :** Utilisé pour la conception, la modélisation et la configuration du réseau. Il aide à comprendre l'architecture et la configuration logicielle du réseau.
+- **Caractéristiques :** Montre l'organisation et les connexions des différents éléments du réseau, tels que les équipements terminaux, les équipements d'interconnexion et les supports de communication.
+
+---
+
+## **Schéma Physique**
+
+- **Objectif :** Utilisé pour le déploiement physique du réseau, y compris l'installation et le câblage du matériel. Il fournit une vue détaillée de l'emplacement physique et de la connexion des composants du réseau.
+- **Caractéristiques :** Indique la localisation exacte des équipements dans un environnement physique, décrit les détails de connexion comme le nombre de câbles utilisés et les types de connexions entre les équipements, et précise le nombre total de dispositifs connectés au réseau.
+
+---
+
+**Comparaison et Complémentarité**
+
+- **Représentation :** Les schémas logiques et physiques offrent une perspective différente sur le réseau. Le schéma logique se concentre sur l'organisation conceptuelle et les connexions logiques, tandis que le schéma physique fournit une vue concrète et détaillée de l'infrastructure matérielle du réseau.
+
+En résumé, le schéma logique permet de conceptualiser et de configurer le réseau, tandis que le schéma physique décrit sa mise en œuvre concrète et physique. Ils se complètent pour offrir une compréhension complète de l'architecture et du fonctionnement du réseau informatique.
+
+---

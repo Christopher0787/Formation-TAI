@@ -1,6 +1,6 @@
 # **Découverte de l'Organisation d'un Réseau**
 
-# Appréhendez la Notion de Réseau
+# **Appréhendez la Notion de Réseau**
 
 Dans notre utilisation quotidienne d'applications et de services numériques tels que la navigation sur Internet, la consultation des e-mails ou l'interaction sur les réseaux sociaux, nous sommes souvent peu conscients des réseaux informatiques qui sous-tendent ces activités. Un réseau informatique est un système de communication qui permet à des appareils informatiques de se connecter entre eux pour partager des ressources et des données. Il existe différents types de réseaux, du réseau local (LAN) qui relie des appareils dans un même lieu physique, au réseau étendu (WAN) qui relie des appareils sur de longues distances géographiques.
 
@@ -10,19 +10,19 @@ Comprendre la notion de réseau informatique est essentiel dans notre société 
 
 ---
 
-# Qu'est-ce qu'un Réseau ?
+# **Qu'est-ce qu'un Réseau ?**
 
 Un réseau informatique permet l'interconnexion d'une multitude de machines entre elles pour faciliter la transmission d'informations. Cette infrastructure complexe supporte les échanges de données sur de courtes à très longues distances, grâce à une série d'étapes impliquant la conversion, l'amplification, le chiffrement et l'atténuation des signaux.
 
 ---
 
-# L'Évolution des Réseaux
+# **L'Évolution des Réseaux**
 
 Les réseaux ont radicalement évolué depuis l'époque où la seule forme de transmission de données entre ordinateurs était physique, via des disquettes. Aujourd'hui, nous bénéficions d'Internet, un réseau mondial composé de millions de réseaux plus petits.
 
 ---
 
-# Types de Réseaux Informatiques
+# **Types de Réseaux Informatiques**
 
 Les réseaux informatiques se classent généralement en trois catégories principales en fonction de leur
 échelle géographique.
@@ -53,6 +53,16 @@ Les réseaux informatiques se classent généralement en trois catégories princ
 
 - Les **WAN** englobent des réseaux à l'échelle nationale ou mondiale, avec Internet étant le plus grand et le plus connu des **WANs**.
 - Internet connect des millards de dispositif à travers le monde, intrégrant à la fois des **MANs** et des **LANs**
+
+---
+
+# **Éléments Physique d'un Réseau Informatique**
+
+![Éléments-Physiques-Réseau](../img/éléments-physiques-réseau.png)
+
+# **Schéma Logique de Réseau
+- Le schéma logique offre une représentation de l'architecture d'un réseau, détaillant les composants physiques et certains aspects de sa configuration logicielle.
+- C'est un outil essentiel pour les techniciens informatiques, car il permet de comprendre, créer et configurer des réseaux.
 
 ---
 

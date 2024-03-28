@@ -52,3 +52,13 @@ Le serveur assume un rôle central dans la gestion de la connexion à Internet a
 
 ---
 
+![Serveur-role-utilisateur](../img/serveur-role-utilisateur.png)
+
+#### 3.4 Gestion des utilisateurs et autorisations d’accès au réseau
+
+Chaque employé possède un compte sur son ordinateur sécurisé par un mot de passe (les identifiants vous sont communiqués à votre arrivée dans l’entreprise par le service informatique). Lorsque l’ordinateur s’allume, le nom d’utilisateur et le mot de passe sont demandés par le serveur. C’est lui qui s’occupe d’authentifier l’utilisateur et de lui autoriser l’accès à son poste de travail.
+
+Cette méthode garantit que seuls les utilisateurs autorisés peuvent accéder aux ressources de l'entreprise, renforçant ainsi la sécurité du réseau. De plus, elle permet de tracer les activités des utilisateurs et de contrôler leur accès aux données sensibles, contribuant ainsi à prévenir les violations de sécurité et à assurer la conformité aux politiques de sécurité de l'entreprise.
+
+---
+

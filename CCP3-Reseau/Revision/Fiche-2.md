@@ -184,3 +184,23 @@ Choix privilégié pour offrir de la mobilité aux usagers, dans les université
 sécurisé que les connexions filaires.
 
 ---
+
+# **Critères de Choix**
+
+![Cable-Support-Distance](../img/cable-1.png)
+
+- *Votre choix de support de communication doit être basé sur plusieurs paramètres* :
+
+- Type d’Équipement à Raccorder : Différents équipements peuvent avoir des besoins spécifiques
+en termes de connectivité.
+
+- Distance entre les Équipements : La distance maximale supportée varie selon le type de câble.
+
+- Environnement Extérieur : Les conditions environnementales comme la perturbation
+électromagnétique peuvent influencer le choix.
+
+- Usage : Les besoins en termes de mobilité des usagers et les débits nécessaires sont également à
+prendre en compte.
+
+---
+

@@ -148,3 +148,39 @@ Toutes ces machines communiquent en utilisant le langage binaire, composé uniqu
 Cette variété de machines et leur capacité à communiquer via le langage binaire sont essentielles pour assurer le bon fonctionnement et la connectivité d'un réseau informatique, facilitant ainsi le partage d'informations et la collaboration entre utilisateurs.
 
 ---
+
+# **Processus de Conversion et Transmission**
+
+1. **Numérisation du Message** : Le message humain est d'abord converti en format numérique,
+permettant sa manipulation par la machine.
+2. **Transmission du Message** : Le message numérisé est ensuite transféré vers une autre machine
+via un support de communication, en fonction de l’usage prévu (échange de données, commande
+d'action, etc.).
+Le langage binaire et la capacité à traiter et transmettre des informations numériques constituent le
+fondement de la communication dans les réseaux informatiques. Comprendre ces principes est
+essentiel pour créer, configurer et gérer efficacement un réseau. Les supports de communication jouent
+également un rôle crucial en reliant ces machines entre elles, permettant ainsi l'échange d'informations
+à travers le réseau.
+
+---
+
+# **Détermination du Support de Communication Adapté**
+
+## **Types de Supports de Communication**
+
+![Cable-Cuivre-Optique](../img/cable-cuivre-optique.png)
+
+1. **Câble en Cuivre (Paires Torsadées)**
+Communément appelé câble réseau, câble Ethernet, ou câble RJ45, bien que ces termes ne
+soient pas totalement précis. C'est le support le plus fréquemment utilisé pour la connexion de
+PC, serveurs, téléphones, etc.
+2. **Câble Optique (Fibre Optique)**
+
+Utilisé pour des connexions à longue distance ou dans des environnements sujets à des
+perturbations électromagnétiques. Offre de hauts débits et une bonne sécurité mais est plus
+coûteux et fragile comparé au câble en cuivre.
+3. **L’Air (Communication Sans Fil)**
+Choix privilégié pour offrir de la mobilité aux usagers, dans les universités par exemple. Moins
+sécurisé que les connexions filaires.
+
+---

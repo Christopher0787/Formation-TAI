@@ -240,4 +240,39 @@ pour connecter l'ordinateur à un réseau. Cette carte électronique dispose d'u
 pour brancher le câble réseau (dans le cas d'une connexion filaire) ou fonctionne comme une
 antenne pour les connexions sans fil.
 
+2. **Équipement des Machines :**
+
+- Dans la plupart des cas, vous n'aurez pas besoin d'ajouter une carte réseau car elle est déjà
+intégrée. Si votre machine n'en dispose pas (ce qui est rare pour les équipements modernes),
+vous devrez en installer une adaptée au type de connexion que vous avez choisi (Ethernet pour
+câble cuivre, carte réseau sans fil pour Wi-Fi, etc.).
+
+3. **Connexion Physique (pour Réseaux Filaire) :**
+
+- Pour un réseau utilisant des câbles (cuivre ou fibre optique), connectez une extrémité du câble
+au port de la carte réseau de la machine, et l'autre extrémité à l'équipement d'interconnexion
+réseau (switch, routeur, etc.).
+
+4. **Configuration pour Réseau Sans Fil :**
+
+- Pour une connexion sans fil, assurez-vous que l'interface réseau sans fil (Wi-Fi) est activée sur
+la machine. La connexion physique n'est pas nécessaire dans ce cas, mais vous devrez
+configurer le réseau sans fil en sélectionnant le SSID (nom du réseau) approprié et en
+saisissant le mot de passe, si nécessaire.
+
+## **Points Clés**
+
+- **Compatibilité** : Assurez-vous que la carte réseau est compatible avec le type de connexion réseau
+que vous souhaitez établir (Ethernet, Wi-Fi, fibre optique).
+
+- **Installation Physique** : Pour les réseaux filaires, le raccordement se fait par l'insertion du câble
+adéquat dans le port de la carte réseau. Pour les réseaux sans fil, une configuration logicielle sera
+nécessaire pour établir la connexion.
+
+- **Sécurité** : Dans le cas des réseaux sans fil, prêtez une attention particulière à la sécurité de votre
+connexion en utilisant des protocoles de chiffrement forts pour protéger les données transmises.
+
+- En suivant ces étapes, vous établirez une connexion fiable et sécurisée entre vos machines et le
+réseau, permettant une communication efficace et un échange de données sans interruption.
+
 ---

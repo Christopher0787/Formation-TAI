@@ -88,3 +88,16 @@ Cette approche facilite la collaboration entre les membres d'une équipe et favo
 
 ---
 
+![Serveur-role-mise-a-jour](../img/serveur-role-mise-a-jour.png)
+
+#### 3.7 Installation de logiciels et mise à jour du parc informatique
+
+L'installation de logiciels et la mise à jour du parc informatique sont des processus essentiels pour maintenir la sécurité et la performance des systèmes informatiques en entreprise. Dans ce contexte, le serveur joue un rôle central en coordonnant ces opérations.
+
+Un exemple frappant est la distribution automatique des mises à jour de Windows via Windows Update. Ces mises à jour, qui sont essentielles pour corriger les failles de sécurité et les bugs, sont distribuées mensuellement aux ordinateurs du réseau. Cependant, en entreprise, c'est le serveur qui reçoit ces mises à jour et les redistribue ensuite aux ordinateurs connectés au réseau.
+
+L'administrateur système est chargé de sélectionner les mises à jour à appliquer, en tenant compte notamment de la compatibilité avec les logiciels professionnels utilisés par l'entreprise. Si une mise à jour risque de rendre incompatible un logiciel crucial pour l'activité de l'entreprise, elle peut être différée ou refusée.
+
+Cette approche permet de maintenir un environnement informatique sécurisé et performant en entreprise, tout en minimisant les risques liés aux mises à jour logicielles. En centralisant la gestion des mises à jour au niveau du serveur, l'entreprise peut assurer une cohérence et une efficacité dans la maintenance de son parc informatique.
+
+---

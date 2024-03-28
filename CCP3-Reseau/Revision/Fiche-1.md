@@ -114,3 +114,17 @@ Ce processus d'assistance à distance est particulièrement efficace pour résou
 
 ---
 
+![Serveur-role-vpn](../img/serveur-role-vpn.png)
+
+#### 3.9 Un réseau privé virtuel : VPN
+
+Le réseau privé virtuel (VPN) est une technologie essentielle pour les entreprises disposant de plusieurs sites géographiques. Un VPN crée un réseau chiffré au sein d'Internet, permettant ainsi à une entreprise répartie sur plusieurs sites distants, tels que Paris, Toulouse et Grenoble, de communiquer et de partager des documents de manière sécurisée.
+
+En substance, un VPN agit comme s'il n'y avait qu'un seul réseau interne, peu importe les distances géographiques entre les différents sites. Il permet ainsi de garantir une connectivité transparente et sécurisée, comme si tous les employés étaient situés dans un seul lieu physique.
+
+Pour établir cette connexion sécurisée, les données sont encapsulées et cryptées, puis transmises à travers Internet pour relier les différents sites de l'entreprise. Cela permet de garantir la confidentialité et l'intégrité des informations échangées entre les sites, même lorsqu'ils sont géographiquement dispersés.
+
+En résumé, un VPN offre à une entreprise la possibilité de connecter ses différents sites de manière sécurisée, favorisant ainsi la collaboration et le partage de ressources, tout en garantissant la confidentialité des données transitant sur le réseau.
+
+---
+

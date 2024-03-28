@@ -141,7 +141,7 @@ Dans un réseau informatique, on trouve divers types de machines qui remplissent
 
 5. **Objets connectés :** Des appareils tels que les réfrigérateurs, les fours, les voitures et autres intègrent désormais une connectivité réseau, leur permettant de communiquer et d'échanger des données avec d'autres appareils et systèmes.
 
-*Point Commun : Le Langage Binaire*
+**Point Commun : Le Langage Binaire**
 
 Toutes ces machines communiquent en utilisant le langage binaire, composé uniquement de "0" et de "1". Ce système de numérotation est à la base de la communication numérique entre les machines. Les messages humains, tels que la voix, les images, les vidéos ou le texte, sont convertis en messages numériques (langage binaire) par les machines pour permettre leur traitement et leur transmission dans le réseau.
 

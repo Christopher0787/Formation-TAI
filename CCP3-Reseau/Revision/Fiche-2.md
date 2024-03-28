@@ -231,6 +231,8 @@ connexions filaires.
 
 ## **Vérification de la Carte Réseau**
 
+![Cable-Réseau](../img/carte-reseau.png)
+
 1. **Identification de la Carte Réseau :**
 
 - Toutes les machines modernes sont équipées d'une carte réseau intégrée, qui est essentielle

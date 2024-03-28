@@ -289,6 +289,8 @@ réseau, permettant une communication efficace et un échange de données sans i
 2. **Accès aux Connexions Réseau :**
 - Dans la fenêtre “Exécuter”, tapez `ncpa.cpl` et appuyez sur `Entrée` ou cliquez sur `OK`.
 
+---
+
 ![Fenètre-Exécuter](../img/fenètre-2.png)
 
 3. **Visualisation des Cartes Réseau :**

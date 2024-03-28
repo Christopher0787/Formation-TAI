@@ -189,7 +189,7 @@ sécurisé que les connexions filaires.
 
 ![Cable-Support-Distance](../img/cable-1.png)
 
-- *Votre choix de support de communication doit être basé sur plusieurs paramètres* :
+- **Votre choix de support de communication doit être basé sur plusieurs paramètres** :
 
 - Type d’Équipement à Raccorder : Différents équipements peuvent avoir des besoins spécifiques
 en termes de connectivité.

@@ -276,3 +276,24 @@ connexion en utilisant des protocoles de chiffrement forts pour protéger les do
 réseau, permettant une communication efficace et un échange de données sans interruption.
 
 ---
+
+# **Accès aux Cartes Réseau sous Windows 10**
+
+## **Ouvrir les Connexions Réseau**
+
+![Fenètre-Exécuter](../img/fenètre-1.png)
+
+1. **Ouverture de la Fenêtre "Exécuter" :**
+- Utilisez le raccourci clavier `Windows + R` pour ouvrir la fenêtre “Exécuter”.
+
+2. **Accès aux Connexions Réseau :**
+- Dans la fenêtre “Exécuter”, tapez `ncpa.cpl` et appuyez sur `Entrée` ou cliquez sur `OK`.
+
+![Fenètre-Exécuter](../img/fenètre-2.png)
+
+3. **Visualisation des Cartes Réseau :**
+- Une nouvelle fenêtre s'ouvre, affichant toutes les “Connexions réseau” disponibles sur votre
+machine. Cette fenêtre liste les cartes ou interfaces réseau, filaires (Ethernet) et sans fil (Wi-Fi),
+présentes sur votre ordinateur.
+
+---

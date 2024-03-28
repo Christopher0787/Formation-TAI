@@ -37,5 +37,10 @@ Les réseaux informatiques se classent généralement en trois catégories princ
 - Les **MAN** couvrent une zone géographiqueplus étendue, comme une ville,interconnectant plusieurs **LANs**.
 - Un exemple typique est le réseau universitaire qui relie différentes facultés d'une même ville.
 
+## **WAN (Wide Area Network)**
 
+- Les **WAN** englobent des réseaux à l'échelle nationale ou mondiale, avec Internet étant le plus grand et le plus connu des **WANs**.
+- Internet connect des millards de dispositif à travers le monde, intrégrant à la fois des **MANs** et des **LANs**
+
+---
 

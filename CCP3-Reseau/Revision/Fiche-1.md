@@ -62,3 +62,16 @@ Cette méthode garantit que seuls les utilisateurs autorisés peuvent accéder a
 
 ---
 
+![agenda-partage](../img/agenda-partage.jpg)
+
+#### 3.5 Gestion des mails, des agendas partagés, des contacts partagés
+
+La gestion des mails, des agendas partagés et des contacts partagés est une fonctionnalité importante du serveur dans un environnement professionnel. Le serveur assume la responsabilité de recevoir et d'envoyer des courriels pour les utilisateurs de l'entreprise, tout en fournissant également un filtrage anti-spam pour réduire le volume de courrier indésirable.
+
+En outre, le serveur peut être configuré pour gérer les agendas individuels des employés, ainsi que des agendas partagés pour faciliter la planification des réunions et des événements d'équipe. Ceci est particulièrement utile pour coordonner les activités au sein de l'entreprise et garantir une meilleure efficacité dans la gestion du temps.
+
+De plus, la centralisation des contacts au niveau du serveur permet à chaque employé d'avoir accès à un carnet d'adresses complet de l'entreprise, facilitant ainsi la communication interne et externe.
+
+L'utilisation d'outils tels qu'Outlook avec Exchange permet de mettre en place des fonctionnalités avancées telles que la gestion d'agenda partagé, simplifiant ainsi la coordination des équipes et l'organisation des tâches au sein de l'entreprise. Cette intégration contribue à accroître la productivité et l'efficacité de l'ensemble de l'entreprise.
+
+---

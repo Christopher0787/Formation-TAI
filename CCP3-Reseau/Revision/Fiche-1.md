@@ -75,3 +75,16 @@ De plus, la centralisation des contacts au niveau du serveur permet à chaque em
 L'utilisation d'outils tels qu'Outlook avec Exchange permet de mettre en place des fonctionnalités avancées telles que la gestion d'agenda partagé, simplifiant ainsi la coordination des équipes et l'organisation des tâches au sein de l'entreprise. Cette intégration contribue à accroître la productivité et l'efficacité de l'ensemble de l'entreprise.
 
 ---
+
+![Serveur-role-partage-document](../img/serveur-role-partage-document.png)
+
+#### 3.6 Partage de ressources, documents et amélioration de la productivité
+
+La mise en place de dossiers partagés par le serveur constitue une stratégie clé pour le partage de ressources et de documents au sein de l'entreprise, ce qui améliore significativement la productivité des équipes. Ces dossiers sont accessibles de manière sélective, selon les besoins et les responsabilités de chaque employé.
+
+Par exemple, le service de comptabilité peut bénéficier de dossiers partagés pour collaborer sur des résultats financiers, des tableaux de calculs et d'autres documents nécessaires à leur travail quotidien. Ces dossiers sont uniquement accessibles aux membres du service de comptabilité et à la direction, garantissant ainsi la confidentialité des informations sensibles.
+
+Cette approche facilite la collaboration entre les membres d'une équipe et favorise un partage efficace des connaissances et des ressources. De plus, en centralisant les documents dans des dossiers partagés, le serveur contribue à organiser l'information de manière structurée, ce qui permet aux employés de trouver rapidement les données dont ils ont besoin pour accomplir leurs tâches. En fin de compte, cette gestion efficace des ressources et des documents conduit à une amélioration globale de la productivité au sein de l'entreprise.
+
+---
+

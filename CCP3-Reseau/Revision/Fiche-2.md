@@ -20,3 +20,12 @@ Un réseau informatique permet l'interconnexion d'une multitude de machines entr
 
 Les réseaux ont radicalement évolué depuis l'époque où la seule forme de transmission de données entre ordinateurs était physique, via des disquettes. Aujourd'hui, nous bénéficions d'Internet, un réseau mondial composé de millions de réseaux plus petits.
 
+---
+
+# Types de Réseaux Informatiques
+
+Les réseaux informatiques se classent généralement en trois catégories principales en fonction de leur
+échelle géographique.
+
+---
+

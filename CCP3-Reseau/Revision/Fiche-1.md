@@ -40,8 +40,13 @@ Le serveur joue également un rôle crucial dans la protection des données et l
 
 Grâce à ses fonctionnalités de sauvegarde, le serveur est capable de restaurer les fichiers perdus, offrant ainsi une assurance contre la perte de données critiques. Parfois, les documents sont sauvegardés en plusieurs exemplaires et à différentes dates, ce qui permet de récupérer des versions antérieures des fichiers, même plusieurs jours en arrière, en cas de besoin. Cette pratique garantit une sécurité supplémentaire et une réduction du risque de perte de données importante pour l'entreprise.
 
+---
+
+![Serveur-role-filtrage-internet](../img/serveur-role-filtrage-internet.png)
+
 #### 3.3 Gestion de la connexion à Internet et filtrage des sites
 
 Le serveur assume un rôle central dans la gestion de la connexion à Internet au sein de l'entreprise. Il est chargé de recevoir et de réguler la distribution de cette connexion aux employés en fonction de leurs autorisations définies. De plus, le serveur exerce souvent une fonction de filtrage des sites web, permettant de restreindre l'accès à certains sites pendant les heures de travail. Cette mesure vise à garantir que les employés utilisent la connexion Internet de manière appropriée et productive, tout en préservant la sécurité du réseau et en évitant les distractions potentielles. En fournissant un contrôle précis sur l'accès à Internet, le serveur contribue à maintenir un environnement de travail efficace et sécurisé au sein de l'entreprise.
 
+---
 

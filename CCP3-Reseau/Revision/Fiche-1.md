@@ -101,3 +101,16 @@ L'administrateur système est chargé de sélectionner les mises à jour à appl
 Cette approche permet de maintenir un environnement informatique sécurisé et performant en entreprise, tout en minimisant les risques liés aux mises à jour logicielles. En centralisant la gestion des mises à jour au niveau du serveur, l'entreprise peut assurer une cohérence et une efficacité dans la maintenance de son parc informatique.
 
 ---
+
+![Serveur-role-assistance-distance](../img/serveur-role-assistance-distance.png)
+
+#### 3.8 Assistance à distance
+
+L'assistance à distance est un processus clé pour résoudre les problèmes informatiques des employés de manière efficace et rapide. Lorsqu'un employé rencontre un problème informatique, il contacte le service des systèmes d'information de l'entreprise.
+
+Un technicien ou un spécialiste en informatique prend alors le contrôle de l'ordinateur à distance, grâce à des outils de prise en main à distance. Cette prise en main à distance permet au technicien de diagnostiquer et de résoudre le problème sans que l'employé ait besoin de se déplacer physiquement. Cela permet non seulement de gagner du temps, mais aussi d'économiser des ressources en évitant les déplacements inutiles.
+
+Ce processus d'assistance à distance est particulièrement efficace pour résoudre les problèmes mineurs ou courants, tels que des erreurs logicielles ou des configurations incorrectes. Il permet également d'offrir un support technique rapide et réactif aux employés, contribuant ainsi à maintenir la productivité et la continuité des opérations au sein de l'entreprise.
+
+---
+

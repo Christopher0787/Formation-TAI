@@ -66,3 +66,31 @@ Les réseaux informatiques se classent généralement en trois catégories princ
 
 ---
 
+# **Composants d'un Réseau**
+
+Les réseaux informatiques se composent de plusieurs éléments essentiels pour faciliter la communication et l'échange de données.
+
+1. **Équipements Terminaux (en bleu) :** Ce sont les dispositifs aux extrémités du réseau qui ont besoin d'échanger des données. Les équipements terminaux incluent les PC, téléphones, serveurs et imprimantes.
+
+2. **Équipements d'Interconnexion (en vert) :** Situés au cœur du réseau, ces équipements, tels que les switchs et routeurs, relient les équipements terminaux entre eux, facilitant ainsi la communication et le partage de ressources.
+
+3. **Supports de Communication :** Les liaisons physiques entre les équipements, généralement sous forme de câbles, constituent les supports de communication. Ils permettent la transmission de données d'un point à un autre du réseau.
+
+---
+
+## **Analogie avec un Réseau Routier**
+
+Pour mieux comprendre l'organisation d'un réseau informatique, on peut le comparer à un réseau routier :
+- **Équipements Terminaux :** Votre domicile et votre bureau correspondent aux équipements terminaux dans le réseau informatique, points de départ et d'arrivée des données.
+- **Équipements d'Interconnexion :** Les intersections, carrefours et ronds-points jouent le même rôle que les switchs et routeurs, en dirigeant le trafic.
+- **Supports de Communication :** Les routes et autoroutes sont analogues aux câbles du réseau, canaux par lesquels le trafic (données) circule.
+
+Cette analogie aide à visualiser le fonctionnement d'un réseau informatique et son organisation, en soulignant l'importance de chaque composant dans la transmission et la gestion des données.
+
+---
+
+## **Conclusion**
+
+Comprendre les éléments physiques d'un réseau et leur organisation est fondamental pour les professionnels IT. Cela permet non seulement de configurer et de maintenir des réseaux efficacement mais aussi d'identifier et de résoudre les problèmes qui peuvent survenir dans l'infrastructure réseau.
+
+---

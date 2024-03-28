@@ -226,3 +226,16 @@ environnements nécessitant une flexibilité de connexion.
 connexions filaires.
 
 ---
+
+# **Raccordement des Machines au Support de Communication**
+
+## **Vérification de la Carte Réseau**
+
+1. **Identification de la Carte Réseau :**
+
+- Toutes les machines modernes sont équipées d'une carte réseau intégrée, qui est essentielle
+pour connecter l'ordinateur à un réseau. Cette carte électronique dispose d'un port spécifique
+pour brancher le câble réseau (dans le cas d'une connexion filaire) ou fonctionne comme une
+antenne pour les connexions sans fil.
+
+---

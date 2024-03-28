@@ -27,5 +27,10 @@ Les réseaux ont radicalement évolué depuis l'époque où la seule forme de tr
 Les réseaux informatiques se classent généralement en trois catégories principales en fonction de leur
 échelle géographique.
 
----
+## **LAN (Local Area Network)**
+
+- Les LAN son des réseaux à l'échelle locale, tels que les réseaux domestiques ou ceux d'une entreprise.
+- Ils permettent la connecxion d'ordinateurs et d'autres dispositifs au sein d'un espace géographique limité, comme un bâtiment ou un campus.
+
+
 

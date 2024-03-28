@@ -16,3 +16,7 @@ Un réseau informatique permet l'interconnexion d'une multitude de machines entr
 
 ---
 
+# L'Évolution des Réseaux
+
+Les réseaux ont radicalement évolué depuis l'époque où la seule forme de transmission de données entre ordinateurs était physique, via des disquettes. Aujourd'hui, nous bénéficions d'Internet, un réseau mondial composé de millions de réseaux plus petits.
+

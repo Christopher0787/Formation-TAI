@@ -206,7 +206,7 @@ prendre en compte.
 
 # **Supports de Communication : Avantages et Limitations**
 
-- **Câble en Cuivre à Paires Torsadées** :
+## **Câble en Cuivre à Paires Torsadées :**
 Avantages : Compatible avec la plupart des équipements, offre de bons débits, sécurisé, solide,
 et peu coûteux.
 - **Limitations** : Non adapté pour des distances supérieures à 100 m ou dans des environnements
@@ -217,7 +217,9 @@ et peu coûteux.
 - **Avantages** : Idéale pour de longues distances et les environnements perturbés, offre des débits
 très élevés.
 - **Limitations** : Plus coûteuse et fragile, nécessitant une manipulation et installation soigneuse.
-Communication Sans Fil :
+
+## **Communication Sans Fil :**
+
 - **Avantages** : Offre une grande mobilité aux usagers, idéal pour les campus universitaires et les
 environnements nécessitant une flexibilité de connexion.
 - **Limitations**- : Moins sécurisée et potentiellement plus sujette à des interférences que les

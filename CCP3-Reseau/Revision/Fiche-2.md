@@ -116,6 +116,8 @@ Dans le domaine de la technologie de l'information, deux types de schémas sont 
 
 ---
 
+![Schéma-Physique-Logique](../img/schéma-physique-logique.png)
+
 **Comparaison et Complémentarité**
 
 - **Représentation :** Les schémas logiques et physiques offrent une perspective différente sur le réseau. Le schéma logique se concentre sur l'organisation conceptuelle et les connexions logiques, tandis que le schéma physique fournit une vue concrète et détaillée de l'infrastructure matérielle du réseau.

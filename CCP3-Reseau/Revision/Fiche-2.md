@@ -125,3 +125,26 @@ Dans le domaine de la technologie de l'information, deux types de schémas sont 
 En résumé, le schéma logique permet de conceptualiser et de configurer le réseau, tandis que le schéma physique décrit sa mise en œuvre concrète et physique. Ils se complètent pour offrir une compréhension complète de l'architecture et du fonctionnement du réseau informatique.
 
 ---
+# **Identification des Émetteurs-Récepteurs dans un Réseau**
+
+# **Types de Machines dans un Réseau**
+
+Dans un réseau informatique, on trouve divers types de machines qui remplissent des fonctions spécifiques et qui contribuent à la communication et au partage d'informations. Voici un aperçu des principaux types de machines :
+
+1. **Ordinateurs, tablettes, smartphones :** Ces appareils sont utilisés au quotidien pour accéder à des informations et communiquer, que ce soit pour le travail, les études ou les loisirs.
+
+2. **Serveurs :** Ils jouent un rôle crucial dans le stockage, l'hébergement et la consultation d'informations. Les serveurs peuvent être spécialisés dans différents domaines, tels que le stockage de données, le partage de fichiers ou l'hébergement de sites web.
+
+3. **Téléphones fixes :** Autrefois utilisés uniquement pour les appels vocaux, les téléphones fixes sont devenus des terminaux numériques, similaires aux ordinateurs, capables de se connecter au réseau pour accéder à des services en ligne.
+
+4. **Imprimantes et photocopieuses :** Ces périphériques de sortie sont connectés au réseau pour permettre l'impression et la numérisation de documents, facilitant ainsi le partage d'informations entre les utilisateurs.
+
+5. **Objets connectés :** Des appareils tels que les réfrigérateurs, les fours, les voitures et autres intègrent désormais une connectivité réseau, leur permettant de communiquer et d'échanger des données avec d'autres appareils et systèmes.
+
+*Point Commun : Le Langage Binaire*
+
+Toutes ces machines communiquent en utilisant le langage binaire, composé uniquement de "0" et de "1". Ce système de numérotation est à la base de la communication numérique entre les machines. Les messages humains, tels que la voix, les images, les vidéos ou le texte, sont convertis en messages numériques (langage binaire) par les machines pour permettre leur traitement et leur transmission dans le réseau.
+
+Cette variété de machines et leur capacité à communiquer via le langage binaire sont essentielles pour assurer le bon fonctionnement et la connectivité d'un réseau informatique, facilitant ainsi le partage d'informations et la collaboration entre utilisateurs.
+
+---

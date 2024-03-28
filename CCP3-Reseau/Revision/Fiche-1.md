@@ -27,7 +27,7 @@ Vous l’aurez compris, le serveur a un rôle essentiel dans le réseau d’entr
 
 ---
 
-![serveur-role-securite](../img/serveur-role-securite.png)
+![Serveur-role-securite](../img/serveur-role-securite.png)
 
 #### 3.1 Rôle de sécurité
 Parce que les données d’une entreprise sont privées et ne doivent pas tomber à la portée de tous, le serveur doit protéger l’entreprise des intrusions extérieures via Internet. Il ne laisse pas n’importe qui accéder au réseau, seules les personnes autorisées peuvent le faire. Le serveur est équipé d’un pare-feu qui repousse les intrusions et d’un antivirus qui permet de se prémunir contre les attaques venant d’Internet.

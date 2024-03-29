@@ -92,3 +92,39 @@ Windows 11 est disponible en plusieurs éditions, chacune conçue pour répondre
 Le coût des licences est similaire à celui de Windows 10, avec une structure de prix adaptée à chaque édition.
 
 ---
+
+# Prérequis pour Windows 11
+
+Pour installer ou mettre à jour vers Windows 11, votre ordinateur doit répondre à des exigences matérielles spécifiques.
+
+## Configuration Matérielle Minimale:
+1. **Processeur**
+   - Fréquence : 1 GHz ou plus rapide.
+   - Coeurs : Minimum deux coeurs.
+   - Compatibilité : Doit être un processeur 64 bits.
+
+2. **Mémoire Vive (RAM)**
+   - Minimum : 4 Go.
+
+3. **Stockage**
+   - Capacité minimale : 64 Go.
+   - Stockage supplémentaire requis pour les mises à jour et fonctionnalités additionnelles.
+
+4. **Carte Graphique**
+   - Compatibilité : Doit supporter DirectX12.
+   - Résolution minimale : 720px.
+   - Taille d'écran : Minimum 9 pouces.
+
+5. **Réseau et Connectivité**
+   - Carte réseau nécessaire.
+   - Connexion Internet requise pour les mises à jour et l'activation de fonctionnalités.
+
+## Prérequis Spécifiques pour Certaines Fonctionnalités:
+
+- **BitLocker To Go :** Nécessite une clé USB.
+- **Cortana :** Exige l'utilisation d'un microphone.
+- **Direct Storage :** Requiert un disque dur SSD NVMe (Solid-State Drive Non-Volatile Memory Express).
+
+Ces prérequis garantissent que votre système peut prendre en charge les fonctionnalités et les performances offertes par Windows 11. Veillez à vérifier que votre matériel répond à ces exigences avant de procéder à l'installation ou à la mise à jour vers Windows 11.
+
+---

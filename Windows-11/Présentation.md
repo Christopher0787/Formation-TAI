@@ -311,32 +311,35 @@ L'activation de Secure Boot est essentielle pour garantir un environnement de d�
 Avant d'installer Windows 11, il est essentiel de vérifier la compatibilité de votre ordinateur avec le système d'exploitation. Plusieurs étapes et options sont disponibles pour mener à bien cette installation.
 
 ## **1. Vérification de la Compatibilité :**
-    - **Mise à Niveau depuis Windows 10 :** 
+
+###  **Mise à Niveau depuis Windows 10 :** 
         - Notification via Windows Update : L'ordinateur informe si la mise à niveau est prête.
         - Consultation du Bilan de Santé du PC : Disponible dans Windows Update.
         - Utilisation de l'Outil PC Health Check : Téléchargement depuis le site de Microsoft, cet outil indique si l'ordinateur répond aux exigences de Windows 11.
 
 ## **2. Options de Support d'Installation :**
-    - **Assistant d'Installation :** 
+
+###  **Assistant d'Installation :** 
         - Utilisation : Installation de Windows 11 sur l'appareil en cours d'utilisation.
         - Disponibilité : Sur le site de Microsoft.
         - Droits d'Administrateur : Nécessaires pour exécuter l'outil.
-        
-    - **Image ISO :**
+
+###  **Image ISO :**
         - Utilité : Création d'une machine virtuelle, DVD-ROM ou clé USB bootable.
         - Téléchargement : Disponible sur le `Microsoft Volume Licensing Service Center (VLSC)` ou le site de Microsoft.
 
-    - **Support d'Installation :**
+###  **Support d'Installation :**
         - Idéal Pour : Installation propre de Windows 11.
         - Outils Requis : DVD-ROM ou clé USB (8 Go minimum) et Media Creation Tool.
         - Formatage : Clé USB formatée et données effacées.
 
 ## **3. Nouvelle Installation :**
-    - **Démarrage sur le Support d'Installation :**
+
+###  **Démarrage sur le Support d'Installation :**
         - Accès BIOS/UEFI : Pour modifier l'ordre de priorité de démarrage.
         - Touche de Démarrage : Utilisation générale de [F11] ou [F12].
 
-    - **Sélection des Paramètres d'Installation :**
+###  **Sélection des Paramètres d'Installation :**
         - Options : Langue, format de l'heure, devise, clavier ou méthode de saisie.
         - Modification : Cliquer sur la flèche à droite de l'option pour changer les paramètres.
 

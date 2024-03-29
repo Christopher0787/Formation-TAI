@@ -8,6 +8,9 @@ nouvelle génération de Windows, succédant à Windows 10, qui était censé ê
 ## **Nouveauté et Améliorations**
 
 1. **Design et interface Utilisateur**
+
+---
+
 # Windows 11 : Amélioration de l'Expérience Utilisateur
 
 ## 1. Design et Interface Utilisateur
@@ -41,3 +44,5 @@ nouvelle génération de Windows, succédant à Windows 10, qui était censé ê
 
 ## Conclusion
 Globalement, Windows 11 se positionne comme une mise à jour majeure, visant à améliorer l'expérience utilisateur sur plusieurs fronts, depuis la productivité jusqu'aux loisirs, en passant par la sécurité et l'efficacité.
+
+---

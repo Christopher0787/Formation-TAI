@@ -165,3 +165,29 @@ Le TPM (Trusted Platform Module) est un élément crucial pour l'installation et
 L'intégration du TPM avec Windows 11 renforce la sécurité du système, assurant une protection robuste des données et du démarrage du système contre les menaces potentielles.
 
 ---
+
+# Secure Boot pour Windows 11
+
+Le Secure Boot est une autre exigence importante pour l'installation de Windows 11, activant une fonction de sécurité présente sur la plupart des matériels modernes.
+
+## Qu'est-ce que le Secure Boot ?
+
+1. **Définition**
+   - Fonction de sécurité utilisant le micrologiciel UEFI.
+   - Crée un environnement sécurisé pour le démarrage de Windows.
+   - Empêche les logiciels malveillants de détourner le système pendant le démarrage.
+
+2. **Fonctionnement**
+   - Permet à l'ordinateur de démarrer uniquement avec des logiciels fiables fournis par le fabricant de l'équipement (OEM).
+
+## Vérification et Activation de Secure Boot
+
+1. **Vérification de l'activation**
+   - Pour vérifier si Secure Boot est activé sur votre ordinateur :
+     - Sélectionnez le menu démarrer.
+     - Allez dans informations système.
+     - Identifiez les lignes "Mode BIOS" et "Etat du démarrage sécurisé".
+
+L'activation du Secure Boot garantit un niveau supplémentaire de sécurité lors du démarrage de Windows 11, empêchant les logiciels malveillants de compromettre le système dès le démarrage. Assurez-vous que cette fonctionnalité est activée pour bénéficier d'une protection maximale.
+
+---

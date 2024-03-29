@@ -31,19 +31,19 @@ L'identification et l'authentification sont des processus essentiels pour accéd
 
 Les comptes locaux offrent une alternative indépendante des services Microsoft et des annuaires centralisés, idéale pour une utilisation hors ligne.
 
-## **2.1 Comptes Locaux**
+# **2.1 Comptes Locaux**
 
-## **2.1.1 Création d'un Compte Local**
+# **2.1.1 Création d'un Compte Local**
 
-### **Définition** 
+## **Définition** 
  - Un compte local fonctionne en mode hors ligne, permettant l'accès même sans connexion internet.
 
-### **Types de Comptes sur Systèmes d'Exploitation Microsoft :**
+## **Types de Comptes sur Systèmes d'Exploitation Microsoft :**
 
   - **Comptes Utilisateurs :** Offrent un accès restreint aux tâches.
   - **Comptes Administrateur :** Fournissent un accès étendu pour les tâches administratives.
 
-### **Étapes de Création ou Modification :**
+## **Étapes de Création ou Modification :**
 
   1. Accès aux Paramètres : Cliquez sur le menu Démarrer, puis sélectionnez Paramètres.
   2. Accès aux Comptes : Choisissez Comptes.
@@ -57,7 +57,7 @@ Les comptes locaux offrent une alternative indépendante des services Microsoft 
      - Répondez aux questions de sécurité.
   5. Finalisation : Cliquez sur Suivant pour valider.
 
-### **Modification du Type de Compte :**
+## **Modification du Type de Compte :**
 
   - Utilisez la flèche à droite du nom du compte.
   - Sélectionnez "Changer le type de compte".

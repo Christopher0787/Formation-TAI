@@ -226,3 +226,64 @@ L'activation de Secure Boot est essentielle pour garantir un environnement de d�
 
 ---
 
+# **Fonctionnalités**
+
+# **Tableau Comparatif Windows 10 vs Windows 11**
+
+| Fonctionnalité                | Windows 10                           | Windows 11                          |
+|-------------------------------|--------------------------------------|-------------------------------------|
+| Nouvelle interface           | Non disponible                       | Disponible                          |
+| Sort de veille à l'approche  | Non disponible                       | Disponible                          |
+| Smart App Control            | Non disponible                       | Disponible                          |
+| Réorganisation simplifiée    | Non disponible                       | Disponible                          |
+| Sous-titrages en direct      | Non disponible                       | Disponible                          |
+| Narrateur naturel            | Non disponible                       | Disponible                          |
+| Amazon Appstore              | Non disponible                       | Disponible                          |
+| Effets Windows Studio        | Non disponible                       | Disponible                          |
+| Barre de commande            | Non disponible                       | Disponible                          |
+| HDR automatique              | Non disponible                       | Disponible                          |
+| Widgets                      | Non disponible                       | Disponible                          |
+| Sauvegarde Windows           | Disponible (Sauvegarder uniquement)  | Disponible (Sauvegarder et restaurer) |
+| Paint                        | Disponible                           | Disponible (avec fonctionnalités supplémentaires) |
+| Synchronisation PC et téléphone | Disponible (Android uniquement)  | Disponible (Android et iPhone)     |
+| Écran tactile                | Disponible                           | Disponible                          |
+| Rechercher                   | Disponible                           | Disponible                          |
+| TPM                          | Disponible                           | Disponible                          |
+| Microsoft Edge               | Disponible                           | Disponible                          |
+| Sauvegarde OneDrive          | Disponible                           | Disponible                          |
+| Application Sécurité Windows | Disponible                           | Disponible                          |
+| Alignement automatique       | Disponible                           | Disponible                          |
+| Groupes de bureaux           | Disponible                           | Disponible                          |
+| Thèmes de contrastes         | Disponible                           | Disponible                          |
+| Commande vocale              | Disponible                           | Disponible                          |
+| Microsoft Store repensé      | Disponible                           | Disponible                          |
+| Outil Capture                | Disponible                           | Disponible                          |
+| Application Journal          | Disponible                           | Disponible                          |
+| Clipchamp                    | Disponible                           | Disponible                          |
+| Stylet numérique             | Disponible                           | Disponible                          |
+| Emojis                       | Disponible                           | Disponible                          |
+| DirectStorage                | Disponible                           | Disponible                          |
+| DirectX 12 Ultimate          | Disponible                           | Disponible                          |
+| Son 3D spatial               | Disponible                           | Disponible                          |
+| PC Game Pass                 | Disponible                           | Disponible                          |
+| Xbox Game Bar                | Disponible                           | Disponible                          |
+| Prise en main                | Disponible                           | Disponible                          |
+| Compte Microsoft             | Disponible                           | Disponible                          |
+| Transfert de fichier OneDrive| Disponible                           | Disponible                          |
+| Windows sur ARM              | Disponible                           | Disponible                          |
+
+# **Tableau Comparatif Window 11 Familial vs Windows 11 Professional**
+
+| Fonctionnalité                  | Windows 11 Professionnel       | Windows 11 Famille          |
+|--------------------------------|---------------------------------|-----------------------------|
+| Chiffrement de lecteur BitLocker | Disponible                    | Non disponible              |
+| Chiffrement du périphérique    | Disponible                    | Disponible                  |
+| Localiser mon appareil         | Disponible                    | Disponible                  |
+| Pare-feu et protection du réseau | Disponible                  | Disponible                  |
+| Protection Internet            | Disponible                    | Disponible                  |
+| Contrôle parental et protection | Disponible                   | Disponible                  |
+| Démarrage sécurisé             | Disponible                    | Disponible                  |
+| Windows Hello                  | Disponible                    | Disponible                  |
+| Sécurité Windows               | Disponible                    | Disponible                  |
+
+---

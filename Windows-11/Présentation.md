@@ -98,6 +98,7 @@ Le coût des licences est similaire à celui de Windows 10, avec une structure d
 Pour installer ou mettre à jour vers Windows 11, votre ordinateur doit répondre à des exigences matérielles spécifiques.
 
 ## Configuration Matérielle Minimale:
+
 1. **Processeur**
    - Fréquence : 1 GHz ou plus rapide.
    - Coeurs : Minimum deux coeurs.
@@ -126,5 +127,41 @@ Pour installer ou mettre à jour vers Windows 11, votre ordinateur doit répondr
 - **Direct Storage :** Requiert un disque dur SSD NVMe (Solid-State Drive Non-Volatile Memory Express).
 
 Ces prérequis garantissent que votre système peut prendre en charge les fonctionnalités et les performances offertes par Windows 11. Veillez à vérifier que votre matériel répond à ces exigences avant de procéder à l'installation ou à la mise à jour vers Windows 11.
+
+---
+
+# Le TPM pour Windows 11
+
+Le TPM (Trusted Platform Module) est un élément crucial pour l'installation et le fonctionnement de Windows 11, avec des exigences spécifiques en matière de sécurité et de démarrage.
+
+## Exigences TPM pour Windows 11:
+
+1. **Boot UEFI et TPM**
+   - Le démarrage UEFI (Unified Extensible Firmware Interface) est requis.
+   - La présence d'une puce TPM sur la carte mère est nécessaire.
+   - La plupart des ordinateurs récents prennent en charge TPM 2.0, qui est le standard depuis le 28 juillet 2016.
+
+2. **Fonctions du TPM**
+   - Gère le chiffrement des données.
+   - Stocke des informations sensibles telles que les données biométriques pour Windows Hello et les clés de chiffrement pour BitLocker.
+   - La puce TPM vérifie l'intégrité de Windows avant le chargement du système d'exploitation.
+   - Aide les logiciels antivirus à prévenir l'installation de rootkits.
+
+3. **Avantages Sécuritaires**
+   - Les données sont stockées sur le matériel, les rendant insensibles aux attaques logicielles.
+   - Assure la protection des données sensibles directement sur la carte mère.
+   - Contribue à la sécurité du démarrage et du fonctionnement du système.
+
+4. **Intégration avec Windows 11**
+   - Windows contrôle le TPM pendant le démarrage pour garantir qu'aucun système d'exploitation malveillant n'est chargé.
+
+**TPM matériel vs TPM logiciel:**
+- TPM matériel : Plus sécurisé car isolé et indépendant.
+- TPM logiciel (micrologiciels) : Utilise le CPU pour les fonctions cryptographiques, potentiellement plus sujet à la falsification.
+
+5. **Norme TPM 2.0**
+   - Windows 11 exige la conformité à la norme TPM 2.0, indépendamment du type de TPM (matériel ou logiciel).
+
+L'intégration du TPM avec Windows 11 renforce la sécurité du système, assurant une protection robuste des données et du démarrage du système contre les menaces potentielles.
 
 ---

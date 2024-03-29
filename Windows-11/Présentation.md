@@ -287,3 +287,21 @@ L'activation de Secure Boot est essentielle pour garantir un environnement de d�
 | Sécurité Windows               | Disponible                    | Disponible                  |
 
 ---
+
+**Améliorations dans Windows 11**
+
+Windows 11 se distingue de son prédécesseur, Windows 10, par des changements significatifs dans son design et son fonctionnement.
+
+**Principales Améliorations de Performance :**
+
+1. **Gestion de la Mémoire :** Windows 11 optimise la gestion de la mémoire en favorisant les applications en premier plan, ce qui permet d'allouer plus de ressources pour améliorer leur performance. Par exemple, même sous une charge processeur élevée, des applications telles que Microsoft Excel s'ouvrent rapidement, démontrant ainsi l'efficacité de cette gestion de la mémoire.
+
+2. **Menu Démarrer et Effets Visuels :** Windows 11 optimise également le processus de gestion du menu Démarrer et d'autres effets visuels, ce qui améliore l'expérience utilisateur globale.
+
+3. **Sortie de Veille :** Une amélioration notable de la sortie de veille est observée dans Windows 11. Contrairement à Windows 10, où la RAM était complètement mise hors tension en mode veille, dans Windows 11, la RAM reste sous tension, ce qui permet un réveil plus rapide du PC.
+
+4. **Navigateur Edge :** Le navigateur Edge dans Windows 11 offre des performances accrues grâce à une meilleure gestion des onglets en veille. Cette optimisation permet d'économiser jusqu'à 32% de mémoire et 37% d'utilisation du processeur, ce qui se traduit par une expérience de navigation plus fluide et réactive.
+
+En résumé, Windows 11 apporte des améliorations significatives dans la gestion de la mémoire, le fonctionnement du menu Démarrer, la sortie de veille et les performances du navigateur Edge, offrant ainsi une expérience utilisateur améliorée et plus fluide par rapport à Windows 10.
+
+---

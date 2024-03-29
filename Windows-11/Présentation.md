@@ -190,4 +190,39 @@ Le Secure Boot est une autre exigence importante pour l'installation de Windows 
 
 L'activation du Secure Boot garantit un niveau supplémentaire de sécurité lors du démarrage de Windows 11, empêchant les logiciels malveillants de compromettre le système dès le démarrage. Assurez-vous que cette fonctionnalité est activée pour bénéficier d'une protection maximale.
 
+# Indicateurs clés pour l'installation sécurisée de Windows 11
+
+Pour une installation sécurisée de Windows 11, deux indicateurs clés doivent être vérifiés :
+
+1. **Mode BIOS sur UEFI**
+   - Le mode BIOS doit être configuré sur UEFI (Unified Extensible Firmware Interface) pour garantir une compatibilité avec Windows 11 et profiter des fonctionnalités de démarrage sécurisé.
+
+2. **État du démarrage sécurisé activé**
+   - L'état du démarrage sécurisé doit être activé dans les paramètres du BIOS pour empêcher les logiciels malveillants de s'introduire pendant le processus de démarrage.
+
+## Installation de Windows 11 avec Secure Boot
+
+1. **Activation de Secure Boot**
+   - Nécessaire pour une installation sécurisée de Windows 11, cette fonction garantit l'intégrité du démarrage du système.
+
+2. **Conversion de MBR en GPT (si Secure Boot est désactivé)**
+   - Créez une sauvegarde de l'ordinateur.
+   - Convertissez l'installation de MBR (Master Boot Record) en GPT (GUID Partition Table) pour être compatible avec Secure Boot.
+
+3. **Commandes pour la conversion**
+   - Utilisez les commandes suivantes dans l'invite de commandes en mode Récupération :
+     - `mbr2gpt /validate`
+     - `mbr2gpt /convert`
+
+4. **Validation de la conversion**
+   - Un succès de la conversion retourne le code 0. En cas d'échec, une erreur peut survenir.
+
+5. **Activation dans le BIOS**
+   - Activez Secure Boot dans les paramètres du BIOS, en suivant la procédure spécifique à la marque et au modèle de la carte mère.
+
+**Conclusion**
+
+L'activation de Secure Boot est essentielle pour garantir un environnement de démarrage sécurisé pour Windows 11, protégeant ainsi le système contre les menaces potentielles dès le démarrage. Veillez à configurer correctement ces paramètres lors de l'installation ou de la mise à niveau vers Windows 11 pour bénéficier d'une sécurité maximale.
+
 ---
+

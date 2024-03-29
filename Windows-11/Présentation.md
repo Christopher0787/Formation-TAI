@@ -51,36 +51,36 @@ Globalement, Windows 11 se positionne comme une mise à jour majeure, visant à 
 
 Windows 11 est disponible en plusieurs éditions, chacune conçue pour répondre à des besoins spécifiques.
 
-## Éditions de Windows 11
+# Éditions de Windows 11
 
-1. **Windows 11 Familial (Home)**
+## 1. Windows 11 Familial (Home) 
    - Destiné aux utilisateurs grand public.
    - Fonctionnalités adaptées à l'usage quotidien.
 
-2. **Windows 11 Professionnel pour l'éducation**
+## 2. Windows 11 Professionnel pour l'éducation
    - Conçu spécifiquement pour le secteur de l'éducation.
 
-3. **Windows 11 Professionnel (Pro)**
+## 3. Windows 11 Professionnel (Pro)
    - Fonctionnalités avancées comme Bitlocker, stratégies de groupe, domaine, bureau à distance.
    - Licence unique pour chaque installation.
 
-4. **Windows 11 Entreprise**
+## 4. Windows 11 Entreprise
    - Mêmes fonctionnalités que l'édition Professionnelle.
    - Utilise une Volume Licence Key (VLK) pour les grandes entreprises.
 
-5. **Windows 11 SE (Éducation)**
+## 5. Windows 11 SE (Éducation)
    - Optimisé pour le secteur éducatif.
    - Fonctionne bien sur des ordinateurs économiques.
    - Système sans distractions, axé sur la gestion à distance et le cloud.
 
-6. **Windows 11 Pro pour les stations de travail (Workstation)**
+## 6. Windows 11 Pro pour les stations de travail (Workstation)
    - Pour les utilisateurs avec des besoins avancés (bases de données, CAO, recherche, production média).
    - Supporte des charges de travail exigeantes.
 
-7. **Windows 11 Réalité Mixte**
+## 7. Windows 11 Réalité Mixte
    - Base logicielle pour périphériques de réalité virtuelle et augmentée.
 
-8. **Windows 11 IoT (Entreprise)**
+## 8. Windows 11 IoT (Entreprise)
    - Successeur de Windows Embedded.
    - Utilisé pour des appareils spécialisés comme des guichets automatiques, terminaux de point de vente, etc.
 

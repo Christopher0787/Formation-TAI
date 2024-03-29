@@ -67,3 +67,48 @@ Les comptes locaux offrent une alternative indépendante des services Microsoft 
 La création et la modification des comptes locaux offrent une flexibilité et un contrôle accrus sur l'accès aux ressources, en fonction des besoins spécifiques de l'utilisateur.
 
 ---
+
+# **Droits des Groupes d'Utilisateurs dans Windows 11**
+
+Dans Windows 11, les droits des groupes d'utilisateurs sont définis pour assurer une utilisation sécurisée et efficace du système.
+
+## **2.1.2 Droits du Groupe Utilisateurs**
+
+ - **Usage Quotidien** : idéal pour la navigation internet, création de fichiers/dossiers, lancement d'applications. 
+
+ - **Pour Ordinateurs Personnels** : Convient aux comptes individuels au sein d'une famille. 
+
+# **Remarque sur la Sécurité**
+
+ - **Accés Limité et Restreint** : Prévention de l'installation de logiciels malveillants sans autorisation de l'administrateur.
+
+## **2.1.3 Droits du Groupe Administrateurs**
+
+# **Compte Administrateur**
+
+ - **Création Automatique** : Un compte Administrateur est créé lors de l'installation de Windows 11.
+
+ - **Compte Par Défaut**  : Ne peut être supprimé, mais peut être désactivé.
+
+ - **Différenciation**  : Ne pas confondre le compte Administrateur individuel avec le groupe de sécurité
+Administrateurs.
+
+# **Fonctions du Compte Administrateur**
+
+ - **Tâches d'Administration** : Gestion complète des fichiers/dossiers et des comptes utilisateurs.
+
+ - **Droits d'Accès Étendus** : Accès total à l'ensemble du système.
+
+ - **Session Interactive** : Possibilité d'ouvrir une session interactive.
+
+# **Remarque sur la Sécurité**
+
+ - **Compte Désactivé par Défaut** : Windows 11 désactive le compte Administrateur par défaut.
+
+ - **Création d'un Compte Administrateur** : Possibilité de spécifier un nom d'utilisateur administrateur
+lors de l'installation.
+
+ - **SID (Security Identifier)** : Identifiant de sécurité constant, cible privilégiée pour les pirates
+informatiques.
+
+---

@@ -321,6 +321,7 @@ Avant d'installer Windows 11, il est essentiel de vérifier la compatibilité de
         - Utilisation : Installation de Windows 11 sur l'appareil en cours d'utilisation.
         - Disponibilité : Sur le site de Microsoft.
         - Droits d'Administrateur : Nécessaires pour exécuter l'outil.
+        
     - **Image ISO :**
         - Utilité : Création d'une machine virtuelle, DVD-ROM ou clé USB bootable.
         - Téléchargement : Disponible sur le `Microsoft Volume Licensing Service Center (VLSC)` ou le site de Microsoft.

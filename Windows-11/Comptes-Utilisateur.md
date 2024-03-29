@@ -84,7 +84,7 @@ Dans Windows 11, les droits des groupes d'utilisateurs sont définis pour assure
 
 ## **2.1.3 Droits du Groupe Administrateurs**
 
-# **Compte Administrateur**
+## **Compte Administrateur**
 
  - **Création Automatique** : Un compte Administrateur est créé lors de l'installation de Windows 11.
 
@@ -93,7 +93,7 @@ Dans Windows 11, les droits des groupes d'utilisateurs sont définis pour assure
  - **Différenciation**  : Ne pas confondre le compte Administrateur individuel avec le groupe de sécurité
 Administrateurs.
 
-# **Fonctions du Compte Administrateur**
+## **Fonctions du Compte Administrateur**
 
  - **Tâches d'Administration** : Gestion complète des fichiers/dossiers et des comptes utilisateurs.
 
@@ -101,7 +101,7 @@ Administrateurs.
 
  - **Session Interactive** : Possibilité d'ouvrir une session interactive.
 
-# **Remarque sur la Sécurité**
+## **Remarque sur la Sécurité**
 
  - **Compte Désactivé par Défaut** : Windows 11 désactive le compte Administrateur par défaut.
 

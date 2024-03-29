@@ -302,6 +302,6 @@ L'activation de Secure Boot est essentielle pour garantir un environnement de d�
 
 4. **Navigateur Edge :** Le navigateur Edge dans Windows 11 offre des performances accrues grâce à une meilleure gestion des onglets en veille. Cette optimisation permet d'économiser jusqu'à 32% de mémoire et 37% d'utilisation du processeur, ce qui se traduit par une expérience de navigation plus fluide et réactive.
 
--En résumé, Windows 11 apporte des améliorations significatives dans la gestion de la mémoire, le fonctionnement du menu Démarrer, la sortie de veille et les performances du navigateur Edge, offrant ainsi une expérience utilisateur améliorée et plus fluide par rapport à Windows 10.
+- En résumé, Windows 11 apporte des améliorations significatives dans la gestion de la mémoire, le fonctionnement du menu Démarrer, la sortie de veille et les performances du navigateur Edge, offrant ainsi une expérience utilisateur améliorée et plus fluide par rapport à Windows 10.
 
 ---

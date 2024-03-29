@@ -46,3 +46,49 @@ nouvelle génération de Windows, succédant à Windows 10, qui était censé ê
 Globalement, Windows 11 se positionne comme une mise à jour majeure, visant à améliorer l'expérience utilisateur sur plusieurs fronts, depuis la productivité jusqu'aux loisirs, en passant par la sécurité et l'efficacité.
 
 ---
+
+# **Windows 11 - Licences**
+
+Windows 11 est disponible en plusieurs éditions, chacune conçue pour répondre à des besoins spécifiques.
+
+## Éditions de Windows 11
+
+1. **Windows 11 Familial (Home)**
+   - Destiné aux utilisateurs grand public.
+   - Fonctionnalités adaptées à l'usage quotidien.
+
+2. **Windows 11 Professionnel pour l'éducation**
+   - Conçu spécifiquement pour le secteur de l'éducation.
+
+3. **Windows 11 Professionnel (Pro)**
+   - Fonctionnalités avancées comme Bitlocker, stratégies de groupe, domaine, bureau à distance.
+   - Licence unique pour chaque installation.
+
+4. **Windows 11 Entreprise**
+   - Mêmes fonctionnalités que l'édition Professionnelle.
+   - Utilise une Volume Licence Key (VLK) pour les grandes entreprises.
+
+5. **Windows 11 SE (Éducation)**
+   - Optimisé pour le secteur éducatif.
+   - Fonctionne bien sur des ordinateurs économiques.
+   - Système sans distractions, axé sur la gestion à distance et le cloud.
+
+6. **Windows 11 Pro pour les stations de travail (Workstation)**
+   - Pour les utilisateurs avec des besoins avancés (bases de données, CAO, recherche, production média).
+   - Supporte des charges de travail exigeantes.
+
+7. **Windows 11 Réalité Mixte**
+   - Base logicielle pour périphériques de réalité virtuelle et augmentée.
+
+8. **Windows 11 IoT (Entreprise)**
+   - Successeur de Windows Embedded.
+   - Utilisé pour des appareils spécialisés comme des guichets automatiques, terminaux de point de vente, etc.
+
+## Coût des Licences
+- Windows 11 Familial (OEM) : 133,29 € TTC.
+- Windows 11 Professionnel (OEM) : 174,97 € TTC.
+- Windows 11 Station de travail : 285,22 € TTC.
+
+Le coût des licences est similaire à celui de Windows 10, avec une structure de prix adaptée à chaque édition.
+
+---

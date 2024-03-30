@@ -248,7 +248,7 @@ Standard pour votre environnement de test sous VirtualBox.
 
 ## **Étapes :**
 
-![Windows Serveur VirtualBox](../img/Windows-serveur-vm.png)
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm.png)
 
 ## **1. Nom de la Machine Virtuelle :**
 

@@ -156,7 +156,7 @@ dans ce groupe.
 
 ## **Identifiant d'Ouverture de Session**
 
-- **Champ Active Directory** : Stocké dans le champ sAMAccountName .
+- **Champ Active Directory** : Stocké dans le champ `sAMAccountName` .
 
  - **Identifiant Unique** : Doit être unique dans le domaine ou le système.
 
@@ -171,9 +171,9 @@ pour les versions antérieures à Windows 2000.
 
 ## **Options de Connexion**
 
-1. **Format Domaine** : DOMAINE\Utilisateur .
+1. **Format Domaine** : `DOMAINE\Utilisateur` .
 
-2. **Format Email** : Utilisateur@DOMAINE .
+2. **Format Email** : `Utilisateur@DOMAINE` .
 
  - Ces formats fournissent des moyens flexibles pour les utilisateurs de se connecter à leurs comptes
 dans différents contextes, notamment dans un environnement Active Directory.

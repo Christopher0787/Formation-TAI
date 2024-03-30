@@ -141,3 +141,41 @@ Principaux Groupes Spéciaux.
 
  - **Changement Important** : Depuis Windows Server 2003, la connexion anonyme n'est plus incluse
 dans ce groupe.
+
+---
+
+# **Compte Utilisateur**
+
+# **Composition d'un Compte Utilisateur**
+
+## **Informations Personnelles**
+
+ - **Données Incluses** : Nom de connexion, prénom, nom, nom d'affichage, numéro de téléphone.
+
+ - **Objectif** : Permettent à un utilisateur de se connecter à une machine.
+
+## **Identifiant d'Ouverture de Session**
+
+- **Champ Active Directory** : Stocké dans le champ sAMAccountName .
+
+ - **Identifiant Unique** : Doit être unique dans le domaine ou le système.
+
+ - **Longueur Maximale** : 20 caractères.
+
+## **Remarque**
+
+ - **Compatibilité Windows 2000** : Le nom d'ouverture de session est tronqué au vingtième caractère
+pour les versions antérieures à Windows 2000.
+
+# **Méthodes de Connexion**
+
+## **Options de Connexion**
+
+1. **Format Domaine** : DOMAINE\Utilisateur .
+
+2. **Format Email** : Utilisateur@DOMAINE .
+
+ - Ces formats fournissent des moyens flexibles pour les utilisateurs de se connecter à leurs comptes
+dans différents contextes, notamment dans un environnement Active Directory.
+
+---

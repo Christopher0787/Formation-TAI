@@ -40,7 +40,7 @@ Windows Server 2019 se décline en trois éditions, chacune ciblant des besoins 
  - Adaptée aux entités avec des besoins de virtualisation limités ou une faible densité de serveurs.
 
  - La tarification est basée sur le nombre de cœurs sur le serveur physique (environ 900 €).
- 
+
  - Nécessite l'acquisition de licences d'accès clients en plus des licences Windows Pro pour les
 postes de travail.
 
@@ -76,23 +76,23 @@ Standard a été prise pour répondre aux besoins de TAI S.A.
 
 ## **Démarche :**
 
-**1. Téléchargement de l'ISO :**
+## **1. Téléchargement de l'ISO :**
 
  - Accéder au site officiel de Microsoft pour récupérer l'image ISO de Windows Server 2019
 Standard.
 
-**2. Installation sur Machine Virtuelle (VM) :**
+## **2. Installation sur Machine Virtuelle (VM) :**
 
  - Utiliser un environnement de virtualisation tel que VirtualBox.
 
  - Créer une nouvelle VM et monter l'ISO pour installer Windows Server 2019 Standard.
 
-**3. Configuration Initiale :**
+## **3. Configuration Initiale :**
 
  - Suivre les étapes d'installation en spécifiant les paramètres nécessaires (langue, heure, clavier,
 etc.).
 
-**4. Rôles et Fonctionnalités :**
+## **4. Rôles et Fonctionnalités :**
 
  - Installer les rôles nécessaires. Pour l'Active Directory :
 
@@ -102,18 +102,18 @@ etc.).
 
  - Suivre l'Assistant pour la configuration du domaine.
 
-**5. Configuration de l'Active Directory :**
+## **5. Configuration de l'Active Directory :**
 
  - Promouvoir le serveur en contrôleur de domaine.
 
  - Configurer le domaine, le nom NetBIOS, et le niveau fonctionnel du domaine.
 
-**6. Gestion des Utilisateurs et des Groupes :**
+## **6. Gestion des Utilisateurs et des Groupes :**
 
  - Utiliser la Console Utilisateurs et Ordinateurs Active Directory pour créer des utilisateurs et des
 groupes.
 
-**7. Configuration du Serveur de Fichiers :**
+## **7. Configuration du Serveur de Fichiers :**
 
  - Accéder au Gestionnaire de Serveur.
 
@@ -121,13 +121,13 @@ groupes.
 
  - Configurer les partages et les autorisations d'accès.
 
-**8. Test et Qualification :**
+## **8. Test et Qualification :**
 
  - Effectuer des tests pour s'assurer que l'Active Directory fonctionne correctement.
 
  - Vérifier l'accès au serveur de fichiers depuis les postes de travail.
 
-**Remarques :**
+## **Remarques :**
 
  - L'utilisation d'une version d'évaluation permet de tester la solution avant de procéder à un
 déploiement complet.
@@ -143,48 +143,48 @@ déploiement complet.
 
 **Étapes :**
 
-**1. Accéder au Site Officiel :**
+## **1. Accéder au Site Officiel :**
 
  - Ouvrir un navigateur web et accéder au site officiel de Microsoft : ISO de Windows Server 2019
 Standard.
 
-**2. Navigation vers les Produits Serveur :**
+## **2. Navigation vers les Produits Serveur :**
 
  - Naviguer vers la section des produits serveur ou serveurs et cloud, généralement sous l'onglet
 "Produits".
 
-**3. Sélection de Windows Server 2019 :**
+## **3. Sélection de Windows Server 2019 :**
 
  - Rechercher et sélectionner Windows Server 2019 dans la liste des produits disponibles.
 
-**4. Choix de l'Édition :**
+## **4. Choix de l'Édition :**
 
  - Choisir l'édition appropriée, dans ce cas, Windows Server 2019 Standard.
 
-**5. Sélection du Format de Téléchargement :**
+## **5. Sélection du Format de Téléchargement :**
 
  - Opter pour le format d'image ISO pour faciliter l'installation sur une machine virtuelle.
 
-**6. Formulaire de Contact (le cas échéant) :**
+## **6. Formulaire de Contact (le cas échéant) :**
 
 - Remplir le formulaire de contact si nécessaire, en veillant à utiliser une adresse e-mail valide.
 
-**7. Validation et Téléchargement :**
+## **7. Validation et Téléchargement :**
 
  - Valider les informations fournies.
 
  - Procéder au téléchargement de l'ISO en cliquant sur le bouton dédié.
 
-**8. Enregistrement de la Clé Produit (le cas échéant) :**
+## **8. Enregistrement de la Clé Produit (le cas échéant) :**
 
  - Si une clé produit est nécessaire, elle peut être fournie à ce stade ou lors de l'installation.
 
-**9. Vérification de l'Intégrité de l'ISO (Optionnel) :**
+## **9. Vérification de l'Intégrité de l'ISO (Optionnel) :**
 
  - Avant l'installation, il est recommandé de vérifier l'intégrité de l'ISO en comparant la somme de
 contrôle fournie par Microsoft.
 
-**Remarques :**
+## **Remarques :**
 
  - Le formulaire de contact peut être nécessaire pour des raisons de suivi ou de collecte de données
 marketing.

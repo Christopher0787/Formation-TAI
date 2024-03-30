@@ -257,6 +257,8 @@ Standard pour votre environnement de test sous VirtualBox.
  - Cela sélectionnera automatiquement le type "Microsoft Windows" et la version "Windows 2019
 (64 bits)".
 
+---
+
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm1.png)
 
 ## **Étapes :**
@@ -265,6 +267,8 @@ Standard pour votre environnement de test sous VirtualBox.
 
  - Affectez une quantité de mémoire vive à la machine virtuelle. Pour commencer, restez sur 2048
 Mio.
+
+---
 
 ## **Étapes :**
 
@@ -277,3 +281,4 @@ Mio.
  - Spécifiez l'espace de stockage (disque dur) pour la machine virtuelle. Vous pouvez choisir de
 créer un disque dynamiquement alloué et définir une taille suffisante, par exemple, 100 Gio.
 
+---

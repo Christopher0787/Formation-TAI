@@ -112,3 +112,32 @@ lors de l'installation.
 informatiques.
 
 ---
+
+# **Groupes Spéciaux dans Windows 11**
+
+# **Caractéristiques des Groupes Spéciaux**
+
+ - **Création Automatique** : Formés lors de l'installation de Windows 11.
+ - **Usage** : Utilisés pour attribuer des accès aux ressources partagées sur un réseau.
+ - **Restriction** : Ne peuvent pas être utilisés comme propriétaires de ressources.
+Principaux Groupes Spéciaux.
+
+## 1. **Anonymous Logon**
+
+ - **Définition** : Compte par défaut pour les utilisateurs sans droits spécifiques.
+ - **Usage** : Généralement pour les accès limités ou non authentifiés.
+
+## 2. **Utilisateurs Authentifiés**
+
+ - **Membres** : Utilisateurs ayant un compte et ayant réussi l'authentification.
+
+ - **Accès** : Accès standard aux ressources partagées, comme les dossiers partagés en entreprise.
+
+## 3. **Tout le Monde**
+
+ - **Inclusion** : Tous les utilisateurs et invités authentifiés du réseau.
+
+ - **Accès Étendu** : Accès large aux ressources.
+
+ - **Changement Important** : Depuis Windows Server 2003, la connexion anonyme n'est plus incluse
+dans ce groupe.

@@ -265,3 +265,15 @@ Standard pour votre environnement de test sous VirtualBox.
 
  - Affectez une quantité de mémoire vive à la machine virtuelle. Pour commencer, restez sur 2048
 Mio.
+
+## **Étapes :**
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm2.png)
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm3.png)
+
+## **3. Configuration du Disque Dur Virtuel :**
+
+ - Spécifiez l'espace de stockage (disque dur) pour la machine virtuelle. Vous pouvez choisir de
+créer un disque dynamiquement alloué et définir une taille suffisante, par exemple, 100 Gio.
+

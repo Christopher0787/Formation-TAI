@@ -24,22 +24,27 @@ est plus sage pour le moment de rester sur la version 2019.
 
 Windows Server 2019 se décline en trois éditions, chacune ciblant des besoins spécifiques :
 
- - **Windows Server 2019 Essentials :**
+## **Windows Server 2019 Essentials :**
 
  - Destinée aux petites entreprises et organisations jusqu'à 25 utilisateurs et 50 équipements.
+
  - Coût d'environ 500 €.
+
  - Permet de faire fonctionner tous les services nécessaires à moindre coût.
+
  - Convient pour des besoins limités, mais au-delà de 25 utilisateurs, une mise à niveau vers une
 édition Standard est nécessaire.
 
- - **Windows Server 2019 Standard :**
+## **Windows Server 2019 Standard :**
 
  - Adaptée aux entités avec des besoins de virtualisation limités ou une faible densité de serveurs.
+
  - La tarification est basée sur le nombre de cœurs sur le serveur physique (environ 900 €).
+ 
  - Nécessite l'acquisition de licences d'accès clients en plus des licences Windows Pro pour les
 postes de travail.
 
- - **Windows Server 2019 Datacenter :**
+## **Windows Server 2019 Datacenter :**
 
  - Édition haut de gamme permettant la création illimitée de machines virtuelles sous Windows
 Server.

@@ -239,3 +239,29 @@ ultérieure sur une machine virtuelle.
 Standard pour votre environnement de test sous VirtualBox.
 
 ---
+
+# **Installation de Windows Server 2019 Standard sur une Machine Virtuelle**
+
+## **Objectif :**
+
+ - Installer Windows Server 2019 Standard sur une machine virtuelle à l'aide de VirtualBox.
+
+## **Étapes :**
+
+![Windows Serveur VirtualBox](../img/Windows-serveur-vm.png)
+
+## **1. Nom de la Machine Virtuelle :**
+
+ - Choisissez "Nouvelle" et entrez le nom de votre système : "Windows Server 2019 Standard".
+
+ - Cela sélectionnera automatiquement le type "Microsoft Windows" et la version "Windows 2019
+(64 bits)".
+
+![Windows Serveur VirtualBox](../img/Windows-serveur-vm1.png)
+
+## **Étapes :**
+
+## **2. Allocation de Mémoire Vive :**
+
+ - Affectez une quantité de mémoire vive à la machine virtuelle. Pour commencer, restez sur 2048
+Mio.

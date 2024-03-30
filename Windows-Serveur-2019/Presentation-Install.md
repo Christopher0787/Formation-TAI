@@ -353,4 +353,86 @@ expérience utilisateur graphique.
  - Personnalisez le mot de passe du compte Administrateur local.
 
  - Une fois terminé, cliquez sur "Suivant".
- 
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm8.png)
+
+## **4. Connexion et Gestionnaire de Serveur :**
+
+ - Connectez-vous avec le compte Administrateur et attendez que le profil local soit créé.
+
+ - Vous serez dirigé vers le bureau du serveur, et le Gestionnaire de Serveur se lancera
+automatiquement.
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm9.png)
+
+# **Pourquoi une Version Récente de Windows Server :**
+
+Vous pouvez rencontrer différentes versions de Windows Server dans un environnement d'entreprise
+existant en raison de la complexité de la mise à jour.
+Les mises à jour vers les versions les plus récentes offrent des fonctionnalités améliorées, des
+correctifs de sécurité, et des avantages tels que le cryptage des machines virtuelles, la protection
+avancée de Windows Defender, le support du cloud hybride, etc.
+
+## **Remarque :**
+
+L'installation peut prendre quelques minutes. Une fois terminée, vous serez prêt à explorer
+et à utiliser Windows Server 2019 pour vos besoins de gestion de serveur. Continuez votre exploration
+en vous familiarisant avec le Gestionnaire de Serveur et en découvrant les rôles et fonctionnalités que
+Windows Server propose pour répondre aux besoins spécifiques de votre entreprise.
+
+# **Importance de la Mise à Jour vers des Versions Récentes de Windows Server**
+
+Lorsque vous intégrez une entreprise, vous pouvez rencontrer différentes versions de Windows Server
+en raison de l'historique informatique de l'entreprise. La mise à jour vers une nouvelle version est
+souvent complexe, car elle implique l'arrêt des serveurs. La sécurité des données est au cœur de ces
+
+préoccupations, rendant difficile l'arrêt des services pour effectuer la mise à jour, car cela entraînerait
+une indisponibilité des données, ce qui est contraire au critère de sécurité de la disponibilité.
+
+## **Pourquoi Mettre à Jour vers une Version Plus Récente de Windows Server?**
+
+## **Apport de Nouvelles Fonctionnalités :**
+
+Les versions les plus récentes, comme Windows Server 2019, introduisent de nombreuses
+fonctionnalités et correctifs.
+
+## **Exemples de Nouvelles Fonctionnalités de Windows Server 2019 :**
+
+ - Cryptage des Machines Virtuelles : Ajout d'une couche de sécurité supplémentaire pour les
+environnements virtualisés.
+
+ - Amélioration de la Protection Avancée de Windows Defender : Renforcement de la protection contre
+les menaces.
+
+ - Support du Cloud Hybride : Facilitation de l'intégration avec des services cloud.
+
+ - Évolutions de la Plateforme d'Applications : Améliorations pour le développement et l'exécution
+d'applications.
+
+## **Nouveautés Attendues dans Windows Server 2022 :**
+
+ - Virtualisation Imbriquée : Possibilité de créer des machines virtuelles à l'intérieur d'autres machines
+virtuelles.
+
+ - Remplacement d'Internet Explorer par le Navigateur Edge : Mise à jour des outils Internet.
+
+ - Compression Automatique des Fichiers avant le Transfert sur le Réseau : Optimisation des
+transferts de fichiers.
+
+## **Avantages de la Mise à Jour :**
+
+ - Sécurité Renforcée : Les nouvelles versions corrigent les vulnérabilités et renforcent la sécurité.
+
+ - Nouvelles Technologies : Les fonctionnalités avancées répondent aux besoins évolutifs des
+entreprises.
+
+ - Optimisation des Performances : Les mises à jour visent à améliorer l'efficacité opérationnelle.
+
+ - Compatibilité avec les Nouvelles Applications : Les versions récentes supportent souvent les
+applications modernes.
+
+En somme, bien que la mise à jour puisse être complexe, les avantages des nouvelles fonctionnalités et
+les améliorations de sécurité offrent des gains significatifs pour le système informatique et l'ensemble
+du système d'information de l'entreprise.
+
+---

@@ -276,6 +276,8 @@ Mio.
 
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm3.png)
 
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm4.png)
+
 ## **3. Configuration du Disque Dur Virtuel :**
 
  - Spécifiez l'espace de stockage (disque dur) pour la machine virtuelle. Vous pouvez choisir de

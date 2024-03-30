@@ -195,3 +195,47 @@ marketing.
 à jour de Windows Server 2019 Standard.
 
 ---
+
+# **Choix de la Version Française de Windows Server 2019**
+
+## **Objectif :**
+
+ - Sélectionner et télécharger la version française de l'image ISO de Windows Server 2019 Standard.
+
+## **Étapes :**
+
+## **1. Accès à la Page de Téléchargement :**
+
+ -Après avoir validé les informations et options, vous serez redirigé vers la page de
+téléchargement.
+
+## **2. Langue et Édition :**
+
+ - Assurez-vous que la langue sélectionnée est le français.
+ - Vérifiez également que l'édition choisie est Windows Server 2019 Standard.
+## **3. Téléchargement de l'ISO en Français :**
+
+ - Si la langue est correcte, procédez au téléchargement de l'ISO en cliquant sur le lien ou le
+bouton dédié.
+
+## **4. Attente du Téléchargement :**
+
+ - Attendez que le téléchargement soit complet. La durée dépend de la vitesse de votre connexion
+Internet.
+
+## **5. Vérification de l'Intégrité (Optionnel) :**
+
+ -En option, vérifiez l'intégrité de l'ISO en comparant la somme de contrôle fournie par Microsoft.
+
+## **Remarques :**
+
+ - Il est crucial de choisir la langue désirée pour garantir une expérience utilisateur dans la langue
+souhaitée pendant l'installation et l'utilisation de Windows Server 2019 Standard.
+
+ - L'ISO téléchargé devrait être stocké dans un emplacement facilement accessible pour l'installation
+ultérieure sur une machine virtuelle.
+
+ - En suivant ces étapes, vous vous assurez d'obtenir la version française de Windows Server 2019
+Standard pour votre environnement de test sous VirtualBox.
+
+---

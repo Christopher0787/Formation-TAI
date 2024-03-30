@@ -257,7 +257,7 @@ Standard pour votre environnement de test sous VirtualBox.
  - Cela sélectionnera automatiquement le type "Microsoft Windows" et la version "Windows 2019
 (64 bits)".
 
-![Windows Serveur VirtualBox](../img/Windows-serveur-vm1.png)
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm1.png)
 
 ## **Étapes :**
 

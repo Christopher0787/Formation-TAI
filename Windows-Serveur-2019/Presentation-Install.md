@@ -284,3 +284,73 @@ Mio.
 créer un disque dynamiquement alloué et définir une taille suffisante, par exemple, 100 Gio.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm5.png)
+
+## **Étapes :**
+
+## **4. Finalisation de la Configuration :**
+
+ - Une fois ces étapes terminées, votre machine virtuelle est prête à démarrer.
+
+## **Étapes :**
+
+## **5. Configuration Supplémentaire (Optionnel) :**
+
+ - Si nécessaire, vous pouvez ajuster d'autres paramètres de la machine virtuelle, tels que les
+paramètres réseau.
+
+## **6. Lancement de la Machine Virtuelle :**
+
+ - Sélectionnez la machine virtuelle nouvellement créée et cliquez sur "Démarrer".
+
+ - L'assistant d'installation de Windows Server 2019 se lancera.
+## **7. Installation de Windows Server 2019 :**
+
+ - Suivez les instructions de l'assistant pour installer Windows Server 2019 en utilisant l'ISO
+téléchargé précédemment.
+
+# **Remarques :**
+
+ - Assurez-vous que l'espace de stockage spécifié est disponible sur votre ordinateur.
+
+ - Ces paramètres peuvent être ajustés en fonction des ressources disponibles sur votre machine
+hôte.
+
+ - Assurez-vous que l'ISO de Windows Server 2019 est accessible pour la machine virtuelle.
+
+ - Pendant l'installation, configurez les paramètres régionaux, le mot de passe administrateur, et
+d'autres options selon les besoins.
+
+---
+
+# **Installation de Windows Server 2019**
+
+ - Si vous avez suivi les étapes précédentes, vous êtes maintenant à l'étape de l'installation de Windows
+Server 2019. Voici comment procéder :
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm6.png)
+
+## **1. Choix de l'Édition et du Type d'Installation :**
+
+ - Sélectionnez "Windows Server 2019 Standard Evaluation (Expérience utilisateur...)" pour une
+expérience utilisateur graphique.
+
+ - Cliquez sur "Suivant" pour accéder à l'écran de choix du type d'installation.
+
+## **2. Type d'Installation - Personnalisé :**
+
+ - Choisissez l'option "Personnalisé" pour configurer l'installation selon vos besoins.
+
+ - Sélectionnez le disque d'installation (dans ce cas, un disque virtuel de 100 Gio).
+
+ - Cliquez sur "Suivant" pour lancer l'installation.
+
+ ![Windows Serveur VirtualBox](./img/Windows-serveur-vm7.png)
+
+## **3. Configuration du Mot de Passe Administrateur :**
+
+ - Personnalisez le mot de passe du compte Administrateur local.
+
+ - Une fois terminé, cliquez sur "Suivant".
+ 

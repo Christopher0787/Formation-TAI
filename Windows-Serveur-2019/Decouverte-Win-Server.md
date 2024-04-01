@@ -63,3 +63,47 @@ aux besoins changeants de l'entreprise tout en profitant des avantages offerts p
 cloud.
 
 ---
+
+# **Windows Admin Center**
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm11.png)
+
+**Windows Admin Center** est une interface de gestion basée sur le web pour les serveurs Windows,
+conçue pour simplifier et centraliser l'administration des serveurs. Elle offre une alternative aux outils
+d'administration traditionnels basés sur des interfaces utilisateur graphiques (GUI) locales.
+
+# **Caractéristiques et Fonctionnalités Clés**
+
+ - **Interface Web :** Windows Admin Center est accessible via un navigateur web, permettant aux
+administrateurs de gérer leurs serveurs à partir de n'importe quel appareil disposant d'une
+connexion réseau.
+
+ - **Gestion Centralisée :** Il offre une interface centralisée pour la gestion des serveurs, permettant aux
+administrateurs de configurer, surveiller et dépanner plusieurs serveurs à partir d'un emplacement
+unique.
+
+ - **Prise en Charge des Versions Récentes de Windows Server :** Windows Admin Center prend en
+charge les versions récentes de Windows Server, y compris Windows Server 2012, 2012 R2, 2016,
+2019 et les versions ultérieures.
+
+ - **Gestion des Rôles et Fonctionnalités :** Il permet la gestion des rôles, des fonctionnalités et des
+services installés sur les serveurs, simplifiant ainsi les opérations d'administration.
+
+ - **Surveillance des Performances :** Windows Admin Center offre des outils de surveillance des
+performances pour suivre l'utilisation des ressources telles que le processeur, la mémoire et le
+stockage.
+
+ - **Gestion des Machines Virtuelles :** Il offre des fonctionnalités de gestion des machines virtuelles
+via Hyper-V, permettant de créer, modifier et surveiller des machines virtuelles.
+
+ - **Gestion du Stockage :** Windows Admin Center permet la gestion du stockage, y compris la
+configuration des pools de stockage et des espaces de stockage direct.
+
+ - **Outils de Sécurité :** Il propose des outils de sécurité pour la gestion des mises à jour, la
+configuration du pare-feu, et d'autres paramètres de sécurité.
+
+En résumé, Windows Admin Center simplifie l'administration des serveurs Windows en fournissant une
+interface web centralisée, accessible à distance, pour la gestion de divers aspects tels que les rôles, les
+fonctionnalités, la surveillance des performances, et d'autres paramètres.
+
+---

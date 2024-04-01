@@ -234,3 +234,46 @@ Une fois logué, le gestionnaire de serveur apparaît et, par souci pratique, on
 renforcée d'IE (On -> Off), afin d'éviter de devoir autoriser chaque accès à un nouveau composant.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm18.png)
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm19.png)
+
+# **Gestion des Mises à Jour : Simplification du Processus**
+
+En accord avec la configuration par défaut de Windows, les mises à jour sont téléchargées et installées
+de manière automatique. Si tel n'est pas le cas, une solution simple consiste à cliquer sur "Installer
+
+maintenant". Suivez les indications pour un processus d'installation qui prendra quelques minutes.
+Cette action garantit que votre système est équipé des dernières améliorations et correctifs de sécurité.
+
+---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm20.png)
+
+# **Nommage Stratégique des Serveurs : Suivez ces Principes**
+
+Nommer judicieusement un serveur, selon les enseignements du cours sur Active Directory, est d'une
+importance cruciale. Un nom adéquat facilite le suivi du cycle de vie de l'équipement, et une approche
+réfléchie dans cette démarche est essentielle.
+
+Évitez de nommer le serveur en fonction de son rôle ou de son identité publique. Privilégiez plutôt une
+nomenclature cohérente, logique et simple. Notez que, grâce au protocole DNS, des noms alternatifs
+pourront toujours être attribués.
+
+Un exemple de codification pertinente serait SRVADPAR01. Ce nom suggère un serveur (SRV) avec le
+rôle ADDS, basé à Paris (PAR), et c'est le premier serveur de cette catégorie (01). Adopter une telle
+approche facilitera la gestion et la compréhension du réseau.
+
+# **Une Convention de Nommage Intelligente : Simplifiez la Gestion**
+
+En adoptant une convention de nommage réfléchie, la localisation et la fonction de vos serveurs seront
+instantanément apparentes. Une recherche rapide avec des termes clés, tels que "PAR" pour Paris ou
+"AD" pour Active Directory, vous permettra de regrouper et de retrouver rapidement des serveurs
+spécifiques.
+
+Par exemple, pour renommer un serveur, accédez simplement à son nom depuis le tableau de bord :
+[insérez la démarche spécifique pour renommer un serveur ici]. Cela garantit une gestion efficace et
+une compréhension instantanée de votre réseau.
+
+---

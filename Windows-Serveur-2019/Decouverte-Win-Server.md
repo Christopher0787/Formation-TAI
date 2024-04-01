@@ -119,3 +119,49 @@ fonctionnalités, la surveillance des performances, et d'autres paramètres.
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm14.png)
 
 ---
+
+# **Rôles et Groupes de Serveurs**
+
+## **Services de Fichiers et de Stockage**
+
+L'option "Services de Fichiers et de Stockage" dans Windows Server 2019 propose des fonctionnalités
+dédiées à la gestion et à la distribution des données au sein du réseau. Elle permet de configurer des
+services tels que le partage de fichiers, les quotas de stockage, ou encore le déploiement de systèmes
+de fichiers distribués. Cette fonctionnalité est cruciale pour assurer une gestion efficace des données au
+sein de l'entreprise, en fournissant des outils pour centraliser, organiser et sécuriser les fichiers. En
+facilitant la gestion des données, cette option contribue à optimiser les performances du réseau et à
+garantir un accès sécurisé aux informations essentielles pour les utilisateurs du serveur.
+
+## **Serveur Local dans "Rôles et Groupes de Serveurs"**
+
+Lorsque vous cliquez sur "Serveur Local" dans cette section, vous avez accès à des détails spécifiques
+à la machine locale, en mettant en avant les rôles et fonctionnalités actuellement installés. Cela inclut
+des informations détaillées sur chaque rôle ou fonctionnalité, leur état, ainsi que la possibilité d'ajouter
+ou de retirer des rôles et fonctionnalités.
+En résumé, l'option "Serveur Local" dans la section "Rôles et Groupes de Serveurs" offre une vue
+détaillée des composants actuels du serveur sur lequel vous travaillez dans le contexte des rôles et
+fonctionnalités. Cela permet aux administrateurs de gérer efficacement les rôles spécifiques du serveur
+sans avoir à naviguer à travers divers menus.
+
+## **Tous les Serveurs dans "Rôles et Groupes de Serveurs"**
+
+L'option "Tous les Serveurs" dans la section "Rôles et Groupes de Serveurs" du Gestionnaire de
+Serveur dans Windows Server 2019 offre une vue consolidée de tous les serveurs dans votre
+environnement réseau.
+En cliquant sur "Tous les Serveurs", vous accédez à une vue centralisée qui répertorie tous les serveurs
+gérés. Cela permet aux administrateurs de surveiller l'état et les rôles des différents serveurs depuis
+une seule interface. Vous pouvez obtenir des informations essentielles sur chaque serveur, y compris
+les rôles installés, l'état actuel, et effectuer des actions de gestion, telles que l'ajout ou la suppression
+de rôles et de fonctionnalités sur plusieurs serveurs simultanément.
+En résumé, l'option "Tous les Serveurs" simplifie la gestion centralisée des serveurs dans un
+environnement réseau, offrant une visibilité unifiée pour faciliter la maintenance et la configuration des
+serveurs dans votre infrastructure.
+
+## **Note :** Si vous avez fermé la fenêtre du gestionnaire de serveur, vous pouvez facilement le retrouver en
+suivant ces étapes :
+
+ - Allez dans le menu Windows, puis dans le gestionnaire de serveur (en passant par les outils
+d'administration Windows si celui-ci n'apparaît pas directement).
+
+---
+

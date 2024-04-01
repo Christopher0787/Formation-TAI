@@ -412,6 +412,7 @@ exemple, il est logique de fermer les ports non utilisés, comme le port 80 sur 
 rôle de serveur web.
 
 ## **Note :** 
+
 Assurez-vous de comprendre ces configurations pour garantir une mise en réseau correcte de
 votre serveur. Dans le prochain chapitre, vous explorerez en détail la configuration avancée du pare-feu
 Windows.
@@ -438,6 +439,7 @@ Pour configurer le pare-feu, deux méthodes sont fournies :
 configuration plus détaillés.
 
 ## **Note :** 
+
 La configuration précise du pare-feu dépend des besoins de votre serveur et des services que
 vous souhaitez autoriser ou restreindre. Assurez-vous de comprendre les implications de chaque
 paramètre pour éviter des problèmes de connectivité. Dans le prochain chapitre, nous explorerons en
@@ -445,3 +447,29 @@ détail la configuration avancée du pare-feu Windows.
 
 ---
 
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm28.png)
+
+# **Personnalisation des Paramètres de Notification du Pare-feu Windows**
+
+La configuration par défaut du pare-feu Windows est solide, bloquant toutes les connexions vers des
+applications non listées. Pour améliorer encore la sécurité, suivez ces étapes supplémentaires :
+
+## **1. Accéder aux Paramètres de Notification :**
+
+ - Ouvrez les paramètres du pare-feu Windows et cliquez sur **"Modifier les paramètres de notification".**
+
+## **2. Choisir l'Option de Blocage et de Notification :**
+
+ - Sélectionnez l'option "Bloquer toutes les connexions et m’avertir en cas d’accès".
+
+ - Cette configuration assure que chaque tentative de connexion non autorisée génère une
+notification, vous donnant ainsi un contrôle accru sur le trafic entrant et sortant de votre serveur.
+
+## **Remarque importante :**
+
+Il est crucial de comprendre l'impact de ces paramètres sur la connectivité de
+votre serveur. Assurez-vous d'autoriser explicitement les connexions nécessaires pour les services que
+vous souhaitez offrir. Dans le cas contraire, vous pourriez involontairement bloquer des services
+essentiels.
+
+---

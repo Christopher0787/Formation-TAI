@@ -391,3 +391,57 @@ votre infrastructure Windows. Dans les prochains chapitres, vous explorerez plus
 du DNS dans les environnements Windows.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm26.png)
+
+# **NetBIOS et Pare-feu Windows**
+
+## **NetBIOS :**
+
+NetBIOS n'est pas un protocole mais plutôt un système de nommage et une interface logicielle facilitant
+les communications entre ordinateurs d'un réseau. Bien qu'en déclin avec l'avènement du protocole
+DNS, il est toujours utilisé par Microsoft sur TCP/IP pour assurer la compatibilité avec des systèmes
+hérités tels que Windows NT et XP. La case "Activer la recherche LMHOSTS" est liée à l'utilisation du
+fichier LMHOSTS pour associer manuellement des noms NetBIOS à des adresses IP.
+
+## **Pare-feu Windows :**
+
+Windows intègre un pare-feu, similaire à Iptables sous Linux, qui permet de contrôler les flux entrants et
+sortants du serveur. Configurer le pare-feu correctement est essentiel pour renforcer la sécurité. Par
+exemple, il est logique de fermer les ports non utilisés, comme le port 80 sur un serveur qui n'a pas le
+rôle de serveur web.
+
+## **Note :** 
+Assurez-vous de comprendre ces configurations pour garantir une mise en réseau correcte de
+votre serveur. Dans le prochain chapitre, vous explorerez en détail la configuration avancée du pare-feu
+Windows.
+
+---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm27.png)
+
+# **Configuration du Pare-feu Windows et Serveur DHCP**
+
+## **Serveur DHCP :**
+
+Dans cet exemple, le serveur est configuré en tant que serveur DHCP à Paris (SRVDHCPPAR01). Il
+utilise IPv4 avec une adresse, un masque, une passerelle, et un serveur DNS, excluant NetBIOS et
+d'autres services réseaux Microsoft.
+
+## **Configuration du Pare-feu Windows :**
+
+Pour configurer le pare-feu, deux méthodes sont fournies :
+
+ - Cliquez sur la ligne "Pare-feu Windows : Privé Actif" pour accéder à une configuration simplifiée.
+
+ - Entrez "Defender" dans la barre de recherche pour accéder à une fenêtre offrant des paramètres de
+configuration plus détaillés.
+
+## **Note :** 
+La configuration précise du pare-feu dépend des besoins de votre serveur et des services que
+vous souhaitez autoriser ou restreindre. Assurez-vous de comprendre les implications de chaque
+paramètre pour éviter des problèmes de connectivité. Dans le prochain chapitre, nous explorerons en
+détail la configuration avancée du pare-feu Windows.
+
+---
+

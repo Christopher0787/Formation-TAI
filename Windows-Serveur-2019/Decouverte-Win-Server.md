@@ -305,3 +305,35 @@ réseau et les exigences de votre infrastructure. Une configuration précise gar
 fluide et sécurisée entre les composants de votre réseau.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm23.png)
+
+# **Optimisation des Protocoles Réseau : Attention aux Détails !**
+
+Microsoft, par défaut, active plusieurs services sur une interface réseau :
+
+ - **Client pour les réseaux Microsoft**
+
+ - **Partage de fichiers et imprimantes réseaux Microsoft**
+
+ - **Planificateur de paquets QoS**
+
+ - **Protocole Internet version 4 (TCP/IPv4)**
+
+ - **Pilote de protocole LLDP Microsoft**
+
+ - **Protocole Internet version 6 (TCP/IPv6)**
+
+ - **Répondeur de découverte de la topologie de la couche liaison**
+
+ - **Pilote E/S de mappage de découverte de topologie de la couche de liaison**
+
+L'IPv6 est activé par défaut. Si votre réseau n'en a pas besoin, il est recommandé de le désactiver, sauf
+si des rôles Microsoft spécifiques l'utilisent. Avant de le désactiver, examinez en détail les rôles pour
+comprendre son utilisation.
+
+Pour ajuster les paramètres, sélectionnez les propriétés de "Protocole Internet version 4 (TCP/IPv4)" et
+cliquez sur "Avancés". Cette configuration fine assure que votre serveur s'adapte précisément aux
+besoins de votre réseau, évitant ainsi des problèmes potentiels et optimisant les performances.
+
+---

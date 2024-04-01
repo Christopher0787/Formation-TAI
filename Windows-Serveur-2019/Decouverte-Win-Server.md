@@ -165,3 +165,72 @@ d'administration Windows si celui-ci n'apparaît pas directement).
 
 ---
 
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm15.png)
+
+# **Préparez votre système à la mise en réseau**
+
+Bienvenue dans ce chapitre crucial de la préparation de votre Windows Server pour le réseau.
+L'importance de cette étape réside dans le fait que la plupart des erreurs se produisent ici. Il est
+essentiel de comprendre chaque détail, car Microsoft a automatisé de nombreux aspects.
+
+La négligence de la préparation peut créer des vulnérabilités significatives, mettant en danger la
+sécurité du réseau. Pire encore, elle pourrait offrir un accès non autorisé au serveur, exposant ainsi les
+données sensibles qu'il héberge.
+
+Dans ce chapitre, nous plongerons dans les étapes critiques pour préparer efficacement votre Windows
+Server, établissant ainsi une base robuste pour le réseau. Notre objectif est de vous armer contre les
+erreurs fréquentes et de renforcer la sécurité de votre système. Restez attentifs, chaque étape compte
+dans cette première ligne de défense contre les menaces.
+
+## **Préparez votre machine virtuelle : Configuration réseau et Mises à jour**
+
+Dans cette phase initiale, équivalente à brancher un câble réseau sur un serveur physique, votre
+machine virtuelle, par défaut sous VirtualBox, bénéficie d'une protection extérieure grâce au réseau
+NAT géré par la plateforme.
+
+En résumé, votre serveur n'est pas directement accessible depuis Internet, mais il a la capacité d'y
+accéder !
+
+Vérifiez la configuration réseau. Si VirtualBox est correctement configuré, vous devriez disposer d'une
+adresse IP, d'un masque, d'une passerelle, et d'un serveur DNS par défaut.
+
+Maintenant que vous avez ces informations, par où commencer ? Quelle est la première action à
+entreprendre ?
+
+De manière similaire à une distribution Linux où vous exécuteriez des commandes telles que sudo apt
+update suivi de sudo apt upgrade , vous allez vérifier les correctifs disponibles pour vos éditions,
+versions, et options d'installation de Windows auprès des serveurs de Microsoft !
+
+Rendez-vous dans la section "Serveur local" du Gestionnaire de serveur pour effectuer ces
+vérifications. Procédez ensuite aux mises à jour nécessaires pour garantir la robustesse de votre
+environnement. Une machine bien entretenue constitue la première ligne de défense contre les
+vulnérabilités potentielles.
+
+---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm16.png)
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm17.png)
+
+# **Configuration réseau et Mises à jour : Informations Essentielles**
+
+Toutes les informations cruciales pour la mise en réseau se trouvent ici :
+
+ - **Nom du Serveur :** WIN-1HOJWCE0IT
+
+ - **Groupe de Travail :** WORKGROUP
+
+ - **Mises à Jour :** Les dernières mises à jour installées
+
+ - **Mode de Mise à Jour :** "Télécharger les mises à jour uniquement à l’aide de..."
+
+ - **Date de la Dernière Recherche :** [Date]
+
+Il vous suffit alors de cliquer sur "Télécharger les mises à jour uniquement à l’aide de..." pour accéder à
+l'interface facilitant le processus de mises à jour. Cela vous assure de maintenir votre système à jour,
+une étape cruciale pour garantir la stabilité et la sécurité de votre serveur.
+
+Une fois logué, le gestionnaire de serveur apparaît et, par souci pratique, on désactive la sécurité
+renforcée d'IE (On -> Off), afin d'éviter de devoir autoriser chaque accès à un nouveau composant.
+
+---

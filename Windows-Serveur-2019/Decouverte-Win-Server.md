@@ -108,4 +108,14 @@ En résumé, Windows Admin Center simplifie l'administration des serveurs Window
 interface web centralisée, accessible à distance, pour la gestion de divers aspects tels que les rôles, les
 fonctionnalités, la surveillance des performances, et d'autres paramètres.
 
+- **On exécute le fichier téléchargé en acceptant les choix par défaut**
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm13.png)
+
+ - L'interface sera accessible via https:// nomDuServeur
+
+- Inthernet Explorer n'est pas adéquat pour exécuter cette interface en ligne, on télégargera donc Google Chrome.
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm14.png)
+
 ---

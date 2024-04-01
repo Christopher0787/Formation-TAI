@@ -473,3 +473,96 @@ vous souhaitez offrir. Dans le cas contraire, vous pourriez involontairement blo
 essentiels.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm29.png)
+
+# **Configuration Avancée du Pare-feu Windows pour une Connectivité Sécurisée**
+
+ - Pour assurer une connectivité sécurisée, il est essentiel de personnaliser les paramètres du pare-feu
+Windows. Voici les étapes pour renforcer la sécurité tout en maintenant la connectivité nécessaire :
+
+## **1. Modifier les Paramètres de Notification :**
+
+ - Dans la fenêtre du pare-feu Windows, cliquez sur "Modifier les paramètres de notification".
+
+## **2. Sélectionner l'Option de Blocage et de Notification :**
+
+ - Choisissez l'option "Bloquer toutes les connexions et m’avertir en cas d’accès". Cela
+générera des notifications pour chaque tentative de connexion non autorisée.
+
+## **3. Configurer la Sortie Réseau du Serveur :**
+
+ - Assurez-vous que votre serveur peut sortir sur le réseau en configurant ces paramètres, ce qui
+est crucial pour la configuration des rôles, fonctionnalités et services.
+
+## **4. Comprendre les Profils de Connexion :**
+
+ - Notez que votre serveur peut être classé dans deux profils de connexion : privé ou public.
+Windows ajuste automatiquement les règles du pare-feu en fonction de ces profils.
+
+En adoptant ces mesures, votre serveur peut interagir de manière sécurisée avec le réseau, empêchant
+l'accès non autorisé tout en permettant des connexions nécessaires pour la configuration et le
+fonctionnement des services.
+Résumé: Préparation d'un Serveur Windows pour la Mise en Réseau
+Avant de connecter un serveur Windows à un réseau, une configuration minutieuse est essentielle,
+surtout dans un environnement de production. Les points clés incluent :
+
+## **1. Changements Prioritaires :**
+
+ - Plusieurs paramètres par défaut nécessitent une modification immédiate, tels que le nom du
+serveur, l'adresse IP, les paramètres DNS, et NetBIOS.
+
+## **2. Pare-feu Windows Intégré :**
+
+ - Le pare-feu intégré offre une sécurité en bloquant tous les ports par défaut. Personnalisez les
+réglages pour permettre des connexions nécessaires tout en bloquant celles non autorisées.
+## **3. Gestion Maîtrisée :**
+
+ - La mise en réseau doit être effectuée avec une compréhension approfondie pour éviter des
+vulnérabilités potentielles et assurer une sécurité adéquate.
+
+La préparation minutieuse garantit que le serveur est opérationnel, sécurisé et prêt à être connecté au
+réseau, minimisant ainsi les risques et maximisant la stabilité du système.
+
+# **Introduction aux Rôles et Fonctionnalités de Windows Server**
+
+Dans ce chapitre, nous allons explorer les divers rôles et fonctionnalités offerts par Windows Server. Il
+est crucial de comprendre leur fonctionnement avant de les implémenter. Ce guide est destiné à ceux
+qui souhaitent acquérir des connaissances fondamentales sur ces concepts.
+
+## **Compréhension des Termes : Rôle, Fonctionnalité et Service dans Windows Server**
+
+Un serveur Windows, au sein d'une entreprise, peut assumer un ou plusieurs rôles. Ces rôles couvrent
+des fonctions variées telles que :
+
+ - Gestion de fichiers,
+ - Supervision d'un annuaire (Active Directory Domain Services, AD DS),
+ - Gestion de certificats (Active Directory Certificate Services, AD CS),
+ - Configuration réseau (DHCP, etc.).
+
+## **Services essentiels pour les rôles :**
+
+Chaque rôle s'appuie sur des services pour fonctionner. Ces services sont l'équivalent des démons
+dans les systèmes Linux/Unix. Par exemple, le service "srvchost.exe" avec l'option "-k DHCPServer" est
+vital pour le rôle DHCP.
+
+## **Fonctionnalités complémentaires :**
+
+Pour améliorer son efficacité, un rôle peut nécessiter certaines fonctionnalités spécifiques. Par exemple,
+le rôle Serveur Web, qui héberge des sites web, pourrait requérir la fonctionnalité .Net Framework,
+particulièrement si le développement de l'application web utilise un langage de programmation
+dynamique.
+En résumé, les concepts clés sont :
+
+ - **Rôle :** La fonction principale assumée par un serveur Windows dans l'infrastructure d'une
+entreprise.
+
+ - **Service :** Programme ou processus essentiel au bon fonctionnement d'un rôle spécifique sur le
+serveur, similaire aux démons dans les systèmes Linux/Unix.
+
+ - **Fonctionnalité :** Élément complémentaire nécessaire à un rôle pour maximiser son efficacité.
+
+Cette compréhension approfondie des rôles, services et fonctionnalités vous prépare à gérer
+efficacement les serveurs Windows dans un environnement d'entreprise.
+
+---

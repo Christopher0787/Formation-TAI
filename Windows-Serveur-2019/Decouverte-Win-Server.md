@@ -68,6 +68,8 @@ cloud.
 
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm11.png)
 
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm12.png)
+
 **Windows Admin Center** est une interface de gestion basée sur le web pour les serveurs Windows,
 conçue pour simplifier et centraliser l'administration des serveurs. Elle offre une alternative aux outils
 d'administration traditionnels basés sur des interfaces utilisateur graphiques (GUI) locales.

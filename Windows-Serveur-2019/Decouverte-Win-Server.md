@@ -277,3 +277,31 @@ Par exemple, pour renommer un serveur, accédez simplement à son nom depuis le 
 une compréhension instantanée de votre réseau.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm21.png)
+
+# **Attribution de l'Adresse IP : L'Identité Virtuelle de Votre Serveur**
+
+Une fois que vous avez redémarré pour appliquer le nouveau nom, pensez à attribuer une adresse IP à
+votre serveur dans votre réseau. Cette adresse IP est l'identité virtuelle qui permet aux autres dispositifs
+du réseau de localiser et d'interagir avec votre serveur. Assurez-vous de choisir une adresse IP qui
+correspond à la structure de votre réseau, en tenant compte des différents sous-réseaux et des rôles
+spécifiques. Pour effectuer cette configuration, [insérez la démarche spécifique ici]. L'attribution
+réfléchie des adresses IP contribue à une organisation claire et à une gestion simplifiée de votre
+environnement informatique.
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm22.png)
+
+# **Configuration de la Couche TCP/IP : Adaptation au Contexte Réseau**
+
+La configuration de la couche TCP/IP de votre serveur dépend étroitement de la topologie de votre
+réseau. Si votre serveur est derrière un routeur avec de la translation d'adresse, la configuration doit
+être ajustée en conséquence. Sur le tableau de bord, en cliquant sur "Adresse IPv4 attribuée par DHCP,
+compatible IPv6", vous accédez à la configuration des interfaces réseau. Familière pour ceux qui
+connaissent Windows en tant que système bureautique, faites un clic droit sur la carte réseau active et
+sélectionnez "Propriétés". Là, vous pouvez définir manuellement l'adresse IP, la passerelle par défaut,
+et les serveurs DNS. Assurez-vous que ces paramètres sont cohérents avec la structure de votre
+réseau et les exigences de votre infrastructure. Une configuration précise garantit une communication
+fluide et sécurisée entre les composants de votre réseau.
+
+---

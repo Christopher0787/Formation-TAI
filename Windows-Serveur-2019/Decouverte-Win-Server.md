@@ -292,6 +292,8 @@ environnement informatique.
 
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm22.png)
 
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm23.png)
+
 # **Configuration de la Couche TCP/IP : Adaptation au Contexte Réseau**
 
 La configuration de la couche TCP/IP de votre serveur dépend étroitement de la topologie de votre
@@ -304,9 +306,6 @@ et les serveurs DNS. Assurez-vous que ces paramètres sont cohérents avec la st
 réseau et les exigences de votre infrastructure. Une configuration précise garantit une communication
 fluide et sécurisée entre les composants de votre réseau.
 
----
-
-![Windows Serveur VirtualBox](./img/Windows-serveur-vm23.png)
 
 # **Optimisation des Protocoles Réseau : Attention aux Détails !**
 

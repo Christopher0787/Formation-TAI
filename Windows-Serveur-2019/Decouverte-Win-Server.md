@@ -290,6 +290,8 @@ spécifiques. Pour effectuer cette configuration, [insérez la démarche spécif
 réfléchie des adresses IP contribue à une organisation claire et à une gestion simplifiée de votre
 environnement informatique.
 
+---
+
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm22.png)
 
 ![Windows Serveur VirtualBox](./img/Windows-serveur-vm23.png)

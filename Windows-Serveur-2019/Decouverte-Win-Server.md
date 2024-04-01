@@ -338,3 +338,56 @@ cliquez sur "Avancés". Cette configuration fine assure que votre serveur s'adap
 besoins de votre réseau, évitant ainsi des problèmes potentiels et optimisant les performances.
 
 ---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm24.png)
+
+# **Configuration Précise de l'Interface Réseau**
+
+Dans l'onglet "Avancé" de "Protocole Internet version 4 (TCP/IPv4)", vous pouvez ajuster finement les
+paramètres réseau :
+
+## **Onglet Général :**
+
+ - **Configuration de l'adresse IP**
+
+ - **Configuration du masque**
+
+ - **Configuration des alias**
+
+ - **Configuration des passerelles**
+
+Cette étape essentielle assure que votre serveur est correctement positionné dans votre réseau.
+
+## **Onglet DNS :**
+
+ - **Configuration des serveurs DNS**
+
+Cela garantit la résolution correcte des noms. Veillez à spécifier les serveurs DNS appropriés pour votre
+réseau.
+
+Une configuration précise de ces paramètres assure que votre serveur s'intègre efficacement dans
+votre infrastructure réseau, évitant ainsi les erreurs potentielles et maximisant ses performances.
+
+---
+
+![Windows Serveur VirtualBox](./img/Windows-serveur-vm25.png)
+
+# **Configuration Avancée du DNS et WINS**
+
+## **Onglet DNS :**
+L'onglet DNS, équivalent au fichier “resolv.conf” sous Linux, vous permet de spécifier comment les
+requêtes DNS sont effectuées. Vous pouvez ajouter des suffixes et gérer l'enregistrement du nom de la
+
+machine et de son adresse dans votre DNS interne.
+
+## **Onglet WINS :**
+
+Le protocole WINS, propre à Microsoft, permet de retrouver une adresse IP à partir d’un nom NetBIOS.
+Bien que moins utilisé depuis l'avènement de l'Active Directory, il reste parfois nécessaire dans des
+environnements hérités.
+
+Une compréhension approfondie de ces paramètres est essentielle pour une intégration réussie dans
+votre infrastructure Windows. Dans les prochains chapitres, vous explorerez plus en détail le rôle crucial
+du DNS dans les environnements Windows.
+
+---

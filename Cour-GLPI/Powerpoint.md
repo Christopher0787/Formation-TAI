@@ -1,4 +1,4 @@
-# **Cour GLPI**
+# **Cour GLPI (Gestion Libre de Parc Informatique)**
 
 ## **Gestion de parc informatique**
 
@@ -31,6 +31,12 @@
  # **Logiciels de Gestion de parc informatique**
 
  - incident
+    - Panne souris
+    - Clavier
+    - Disque dur
+    - Imprimante
+    - téléphone
+
  - utilisateur
  - contrat
  - numero
@@ -72,3 +78,4 @@
 
 - localhost.62354
 
+---

@@ -64,6 +64,15 @@
 - Mineure
 - Non prioritaire
 
+# **Le cycle de vie d'un ticket incident est le suivant**
+
+- Enregistrement
+- Classification
+- Traitement
+- Solution
+- Validation
+- Clôture
+
 # **Le Serveur GLPI et ebèrger sur LINUX**
 
 # **L'interface web GLPI**

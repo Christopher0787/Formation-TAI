@@ -30,7 +30,9 @@
     - Crée un mot de passe
     - Entré le mot de passe qui Vien d'être crée
 
--Etape 5: 
+# **Créer une adresse IPv4**
+
+-Etape 1: 
     
     - Serveur local
     - Cliquer sur l'adresse IPv4
@@ -43,8 +45,10 @@
     - Passerelle par défaut ; 192.168.1.14
     - OK
     - Renommer le serveur
-    
--Etape 6: 
+
+# **Installer un DHCP** 
+
+-Etape 1: 
 
     - Tableau de bord
     - Ajouter des rôle et des fonctionnalités
@@ -57,7 +61,7 @@
     - installer
     
     
--Etape 7:
+-Etape 2:
 
     - Gestionnaire du serveur DHCP
     - Outil

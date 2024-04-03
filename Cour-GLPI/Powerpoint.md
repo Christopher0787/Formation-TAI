@@ -31,12 +31,6 @@
  # **Logiciels de Gestion de parc informatique**
 
  - incident
-    - Panne souris
-    - Clavier
-    - Disque dur
-    - Imprimante
-    - téléphone
-
  - utilisateur
  - contrat
  - numero

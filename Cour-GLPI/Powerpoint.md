@@ -82,3 +82,19 @@
 - localhost.62354
 
 ---
+
+# **La Gestion de Services (ITSM : Informatique Technology Service Management)**
+
+- La gestion des incidents.
+- La gestion des problèmes.
+- La gestion des demande de services.
+- La gestion des changements.
+- La gestion des configuration.
+
+## **Selon Wikipedia : ITIL (Information Technology Infrastructure Library)**
+
+- Comment organiser un système d'information ?
+- Comment améliorer l'efficacité du système d'information ?
+- comment réduire les risques ?
+- comment augmenter la qualité des services informatiques ?
+

@@ -64,9 +64,12 @@ FAI = Fournisseur accès internet
 
 ## **Le nombre d'échange sur la plage DHCP :**
 
-D = DISCOVER
-O = OFFER
-R = REQUEST
-A = ACKNOWLEDGE
+- D = DISCOVER
+
+- O = OFFER
+
+- R = REQUEST
+
+- A = ACKNOWLEDGE
 
 ---

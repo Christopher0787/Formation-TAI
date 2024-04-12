@@ -140,11 +140,11 @@ Le nom convivial localhost tu mappe adresse IP vers un nom d'hôte convivial
 
 ## **TYPE DE SERVEURS DNS :**
 
-    1. Résolveur récursif.
+    1) - Résolveur récursif.
 
-    2. Serveur de noms racine.
+    2) - Serveur de noms racine.
 
-    3. Serveur de nom TLD (TOP LEVEL DOMAIN) / .com, .fr, .org . 
+    3) - Serveur de nom TLD (TOP LEVEL DOMAIN) / .com, .fr, .org . 
 
 - Serveur de nom faisant autorité.
 

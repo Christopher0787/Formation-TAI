@@ -47,31 +47,31 @@
 
 **Type :**
 
-- A = Relier mon adresse IPv4 au nom de Domaine.
+- **A** = Relier mon adresse IPv4 au nom de Domaine.
 
-- AAAA = Relier mon adresse IPv6 au nom de Domaine.
+- **AAAA** = Relier mon adresse IPv6 au nom de Domaine.
 
-- CNAME **(CANONICAL NAME)** = Permet de renseigner un nom canonique.
+- **CNAME (CANONICAL NAME)** = Permet de renseigner un nom canonique.
 
-- MX **(MAIL EXCHANGE RECORD)** = Serveur de messagerie.
+- **MX (MAIL EXCHANGE RECORD)** = Serveur de messagerie.
 
-- PTR **(POINTER RECORD)** = Il permet la recherche inverser .
+- **PTR (POINTER RECORD)** = Il permet la recherche inverser .
 
-- SRV **(SERVICE LOCATOR RECORD)** = Spécifier l'emplacement d'un serveur VOIP (VOICE OVER INTERNET PROTOCOL).
+- **SRV (SERVICE LOCATOR RECORD)** = Spécifier l'emplacement d'un serveur VOIP (VOICE OVER INTERNET PROTOCOL).
 
-- NS **(NAME SERVER)** = permet de changer le serveur DNS autoritaire sur le nom de domaine.
+- **NS (NAME SERVER)** = permet de changer le serveur DNS autoritaire sur le nom de domaine.
 
-- TXT  = Texte qui contient des information indicatives.
+- **TXT**  = Texte qui contient des information indicatives.
 
-- SOA **(START OF AUTHORITY)** = Information générales de la zone telles que son nom ou la date de dernière mise à jour.
+- **SOA (START OF AUTHORITY)** = Information générales de la zone telles que son nom ou la date de dernière mise à jour.
 
-- NS **(NAME SERVER)** = Informations sur le serveurs DNS du domaine.
+- **NS (NAME SERVER)** = Informations sur le serveurs DNS du domaine.
 
-- ICANN **(INTERNET CORPORATION for ASSIGNED NAME and NUMBERS)** --> Organisme qui gère les nom domaine 
+- **ICANN (INTERNET CORPORATION for ASSIGNED NAME and NUMBERS)** --> Organisme qui gère les nom domaine 
 
-- AFNIC **(ASSOCIATION FRANCAISE pour le NOMAGE INTERNET en COOP2RATION)**
+- **AFNIC (ASSOCIATION FRANCAISE pour le NOMAGE INTERNET en COOP2RATION)**
 
-- Le FQDN **(FULLY QUALIFIED DOMAIN NAME)** = WWW.Mon-site.fr 
+- **Le FQDN (FULLY QUALIFIED DOMAIN NAME)** = WWW.Mon-site.fr 
 
 **Arborescence DNS :**
 

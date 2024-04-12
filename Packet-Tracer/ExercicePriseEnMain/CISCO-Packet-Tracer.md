@@ -127,6 +127,7 @@
 
 - 2: Cliquer sur l'onglet "CLI"
 
+
 - Entrez la commandes :
 
 - No # appuyez sur entrer

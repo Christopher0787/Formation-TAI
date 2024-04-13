@@ -88,3 +88,9 @@
 
     - Active X Data Object
 
+## **ADP**
+
+    - Automatic Data Processing (Traitement Automatique de Données)
+
+    - Assistant Électronique de Poche (voir PDA)
+

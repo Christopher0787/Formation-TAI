@@ -26,5 +26,5 @@
 
 ## **ACAP**
 
-    - *Application Configuration Access Protocol*
+    - Application Configuration Access Protocol
 

@@ -3,13 +3,23 @@
 ## **B to B**	
 
     - Business to Business
-    
+
 ## **B&W**  	
 
     - Black and White
-BAL	          Boîte Aux Lettres (mail box)
-BAP	          Bandwidth Allocation Protocol
-BASIC	Beginners All purpose Symbolic Instruction Code
+
+## **BAL**
+
+    - Boîte Aux Lettres (mail box)
+
+## **BAP**
+
+    - Bandwidth Allocation Protocol
+
+## **BASIC**
+
+    - Beginners All purpose Symbolic Instruction Code
+    
 BBS	          Bulletin Board System
 BCC    	Blind Carbon Copy
 BCD	          Binary Coded Decimal (Décimal codé binaire)

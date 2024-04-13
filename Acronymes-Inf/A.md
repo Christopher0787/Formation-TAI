@@ -16,4 +16,8 @@
 
     - Asynchronous Balanced Mode
 
-    
+ ## **ABR**
+
+    - Available Bit Rat
+
+   

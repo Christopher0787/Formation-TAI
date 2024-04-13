@@ -28,3 +28,7 @@
 
     - Application Configuration Access Protocol
 
+## **ACD**
+
+    - Automatic Call Distributor  "Distributeur Automatique d'Appels"
+

@@ -52,3 +52,7 @@
 
     - Access Control List
 
+## **ACPI**
+
+    - Advanced Configuration and Power Interface
+

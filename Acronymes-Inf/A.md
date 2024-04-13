@@ -71,3 +71,16 @@
 ## **ACU**
 
     - Automatic Calling Unit
+
+## **ADAE**
+
+    - Agence pour le Développemnt de l'Administration Electrique.
+
+## **ADC**
+
+    - Analog-To-Digital (voir CAN, Convertisseur Analogique Numérique)
+
+## **ADMD**
+
+    - ADministrative Management Domain
+

@@ -84,3 +84,7 @@
 
     - ADministrative Management Domain
 
+## **ADO**
+
+    - Active X Data Object
+

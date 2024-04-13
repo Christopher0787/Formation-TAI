@@ -109,3 +109,8 @@
 ## **AEP**
 
     - Apple Talk Echo Protocol
+
+## **AF**
+
+    - Audio Frequency / Audio File (Audiofréquence)
+

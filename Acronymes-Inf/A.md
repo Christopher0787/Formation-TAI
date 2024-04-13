@@ -32,3 +32,7 @@
 
     - Automatic Call Distributor  "Distributeur Automatique d'Appels"
 
+## **ACF**
+
+    - Advanced Communication Function
+

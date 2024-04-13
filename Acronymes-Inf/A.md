@@ -44,3 +44,7 @@
 
     - Automicity Consistency Isolation Durability
 
+## **ACK**
+
+    - ACKnowledge
+

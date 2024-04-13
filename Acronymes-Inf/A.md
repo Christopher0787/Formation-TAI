@@ -40,3 +40,7 @@
 
     - Asynchronous Communication Interface Adapter
 
+## **ACID**
+
+    - Automicity Consistency Isolation Durability
+

@@ -98,3 +98,14 @@
 
     - Adaptive Differential Pulse Code Modulation 
 
+## **AIP**
+
+    - Address Internet Protocol (Adresse Physique sur Internet)
+
+## **ADSL**
+
+    - Asymetric Digital Subscriber Line (RNA, Raccordement Numérique Asymétrique)
+
+## **AEP**
+
+    - Apple Talk Echo Protocol

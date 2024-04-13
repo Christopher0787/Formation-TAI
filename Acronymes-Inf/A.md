@@ -94,3 +94,7 @@
 
     - Assistant Électronique de Poche (voir PDA)
 
+## **ADPCM**
+
+    - Adaptive Differential Pulse Code Modulation 
+

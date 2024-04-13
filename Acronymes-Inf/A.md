@@ -56,3 +56,18 @@
 
     - Advanced Configuration and Power Interface
 
+## **ACR**
+
+    - Attenuation Crosstalk Ratio
+
+## **ACSE**
+
+    - Application Control Service Element
+
+## **ACTS**
+
+    - Advanced Communication Technologies and Services
+
+## **ACU**
+
+    - Automatic Calling Unit

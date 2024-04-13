@@ -122,3 +122,7 @@
 
     - Accelerated Graphic Port
 
+## **ALGOL**
+
+    - ALGOrithmic Language
+

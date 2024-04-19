@@ -28,13 +28,13 @@
 
     - Convertisseur Analogique-Numérique (Voir ADC)
 
-CAO	
+## **CAO**	
 
-Conception Assistée par Ordinateur
+    - Conception Assistée par Ordinateur
 
-CAPS	
+## **CAPS**	
 
-CAPitalS
+    - CAPitalS
 
 CASE
 

@@ -188,17 +188,17 @@
 
     - DeMilitarized zone
 
-DNA
+## **DNA**
 
-Digital Network Architecture
+    - Digital Network Architecture
 
-DNC
+## **DNC**
 
-Direct Numerical Control.
+    - Direct Numerical Control.
 
-DNS
+## **DNS**
 
-Domain Name Server
+    - Domain Name Server
 
 DOC
 

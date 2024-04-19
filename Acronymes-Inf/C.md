@@ -439,13 +439,13 @@
 
     - Comité Technique.
 
-CTI	
+## **CTI**	
 
-Couplage de la Téléphonie et de l'Informatique
+    - Couplage de la Téléphonie et de l'Informatique
 
-CTS	
+## **CTS**	
 
-Clear To Send
+    - Clear To Send
 
 CVC	
 

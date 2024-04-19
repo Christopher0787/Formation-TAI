@@ -88,21 +88,18 @@
 
     - Compact Disc
 
-CDA	
+## **CDA**	
 
-Compound Document Architecture / Communication Decency Act
+    - Compound Document Architecture / Communication Decency Act
 
-CdCF	
+## **CDCF**	
 
-Cahier des Charges Fonctionnel.
+    - Cahier des Charges Fonctionnel.
 
-CdCF	
 
-Cahier des Charges Fonctionnel
+## **CD-DA**	
 
-CD-DA	
-
-Compact Disk-Digital Audio (Disque compact audionumérique)
+    - Compact Disk-Digital Audio (Disque compact audionumérique)
 
 CDE	
 

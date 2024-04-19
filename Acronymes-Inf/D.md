@@ -128,13 +128,13 @@
 
     - Document Interchange Architecture
 
-DIGIT
+## **DIGIT**
 
-DIGital unIT
+    - DIGital unIT
 
-DIL
+## **DIL**
 
-Dual In Line
+    - Dual In Line
 
 DIMM
 

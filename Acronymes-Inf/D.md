@@ -212,21 +212,21 @@
 
     - Department of Defense.
 
-## **DOE**
+## **DoE**
 
     - Department of Energy
 
-DON
+## **DON**
 
-Disque Optique Numérique (Voir CD-ROM)
+    - Disque Optique Numérique (Voir CD-ROM)
 
-DOS
+## **DOS**
 
-Disk Operating System
+    - Disk Operating System
 
-dpi (ppp)
+## **dpi (ppp)**
 
-Dots Per Inch (Points par Pouce)
+    - Dots Per Inch (Points par Pouce)
 
 DPMI
 

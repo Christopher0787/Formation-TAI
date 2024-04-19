@@ -64,21 +64,21 @@
 
     - Data Carrier Detect
 
-DCE
+## **DCE**
 
-Distributed Computing Environment / Data Communication Equipment (Voir ETCD)
+    - Distributed Computing Environment / Data Communication Equipment (Voir ETCD)
 
-DCT
+## **DCT**
 
-Discrete Cosine Transform
+    - Discrete Cosine Transform
 
-DCTE
+## **DCTE**
 
-Data Circuit Terminating Equipment
+    - Data Circuit Terminating Equipment
 
-DDC
+## **DDC**
 
-Data Display Channel
+    - Data Display Channel
 
 DDCMP
 

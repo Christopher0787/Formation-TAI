@@ -172,21 +172,21 @@
 
     - Direct Memory Access (Accès direct à la mémoire)
 
-DME
+## **DME**
 
-Distributed Management Environment
+    - Distributed Management Environment
 
-DMI
+## **DMI**
 
-Desktop Management Interface
+    - Desktop Management Interface
 
-DMTF
+## **DMTF**
 
-Desktop Management Task Force
+    - Desktop Management Task Force
 
-DMZ
+## **DMZ**
 
-DeMilitarized zone
+    - DeMilitarized zone
 
 DNA
 

@@ -117,29 +117,29 @@
 
     - Code Division Multiplexing (Voir MRC)
 
-CDMA	
+## **CDMA**	
 
-Code Division Multiple Access
+    - Code Division Multiple Access
 
-CD-Photo	
+## **CD-Photo**	
 
-Compact Disc-Photo
+    - Compact Disc-Photo
 
-CD-R	
+## **CD-R**	
 
-Compact Disc-Recordable (Disque compact inscriptible)
+    - Compact Disc-Recordable (Disque compact inscriptible)
 
-CD-ROM	
+## **CD-ROM**	
 
-Compact Disc-Read Only Memory (DON, Disque Optique Numérique)
+    - Compact Disc-Read Only Memory (DON, Disque Optique Numérique)
 
-CD-RW	
+## **CD-RW**	
 
-Compact Disc-Read Write
+    - Compact Disc-Read Write
 
-CDS	
+## **CDS**	
 
-Cell Directory Service
+    - Cell Directory Service
 
 CD-V	
 

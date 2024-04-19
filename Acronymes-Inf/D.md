@@ -240,17 +240,17 @@
 
     - Dynamic Random Access Memory (Mémoire dynamique à accès aléatoire)
 
-DSA
+## **DSA**
 
-Dynamic Scalable Architecture / Distributed System Architecture
+    - Dynamic Scalable Architecture / Distributed System Architecture
 
-DSCP
+## **DSCP**
 
-Differentiated Services Code Point
+    - Differentiated Services Code Point
 
-DSI
+## **DSI**
 
-Directeur des Systèmes d'Informations
+    - Directeur des Systèmes d'Informations
 
 DSL
 

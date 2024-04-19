@@ -56,13 +56,13 @@
 
     - Direct Broadcasting System
 
-DCA
+## **DCA**
 
-Document Contents Architecture
+    - Document Contents Architecture
 
-DCD
+## **DCD**
 
-Data Carrier Detect
+    - Data Carrier Detect
 
 DCE
 

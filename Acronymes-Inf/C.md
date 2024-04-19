@@ -285,17 +285,17 @@
 
     - Certified Network Engineer
 
-CENT	
+## **CENT**	
 
-Centre National d'Etudes des Télécommunications
+    - Centre National d'Etudes des Télécommunications
 
-CENT
+## **CENT**
     
-Centre de Recherche et Développement de France Télécom
+    - Centre de Recherche et Développement de France Télécom
 
-CNIL	
+## **CNIL**	
 
-Commission Nationale de l'Informatique et des Libertés
+    - Commission Nationale de l'Informatique et des Libertés
 
 COB	
 

@@ -44,17 +44,17 @@
     
     - Community Antenna TeleVision
 
-CATV	
+## **CATV**	
 
-CAble TV
+    - CAble TV
 
-CAV	
+## **CAV**	
 
-Constant Angular Velocity
+    - Constant Angular Velocity
 
-CB	
+## **CB**	
 
-Canal Banalisé (Citizen's Band radio)
+    - Canal Banalisé (Citizen's Band radio)
 
 CBC	
 

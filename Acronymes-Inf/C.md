@@ -64,13 +64,13 @@
 
     - Connectionless Broadband Data Service
 
-CBR	
+## **CBR**	
 
-Constant Bit Rate
+    - Constant Bit Rate
 
-CBT	
+## **CBT**	
 
-Core Based Tree
+    - Core Based Tree
 
 CC	
 

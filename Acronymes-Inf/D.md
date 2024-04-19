@@ -136,17 +136,17 @@
 
     - Dual In Line
 
-DIMM
+## **DIMM**
 
-Dual In-line Memory Module
+    - Dual In-line Memory Module
 
-DIN
+## **DIN**
 
-Deutsches Institut für Norming
+    - Deutsches Institut für Norming
 
-DIP
+## **DIP**
 
-Dual Inline Package
+    - Dual Inline Package
 
 DISP
 

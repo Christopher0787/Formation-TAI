@@ -100,13 +100,13 @@
 
     - Digital Data Storage
 
-DECT
+## **DECT**
 
-Digital Enhanced Cordless Telephone
+    - Digital Enhanced Cordless Telephone
 
-DES
+## **DES**
 
-Data Encryption Standard
+    - Data Encryption Standard
 
 DFT
 

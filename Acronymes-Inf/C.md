@@ -221,21 +221,21 @@
 
     - Cour de Justice des Communautés Européennes
 
-CLI	
+## **CLI**	
 
-Command Line Interpreter
+    - Command Line Interpreter
 
-CLIP	
+## **CLIP**	
 
-Calling Line Identification Presentation
+    - Calling Line Identification Presentation
 
-CLIR	
+## **CLIR**	
 
-Calling Line Identification Restriction
+    - Calling Line Identification Restriction
 
-CLNP	
+## **CLNP**	
 
-Connection Less Network Protocol
+    - Connection Less Network Protocol
 
 CLNS	
 

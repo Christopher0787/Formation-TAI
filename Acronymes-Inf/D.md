@@ -268,18 +268,18 @@
 
     - Data set Ready
 ---
-DSS
+## **DSS**
 
-Data Signature Standard
+    - Data Signature Standard
+---
+## **DSSSL**
 
-DSSSL
+    - Document Style Semantic and Specification Language (langage de style, sémantique et spécifications de document)
+---
+## **DTD**
 
-Document Style Semantic and Specification Language (langage de style, sémantique et spécifications de document)
-
-DTD
-
-Document Type Definition
-
+    - Document Type Definition
+---
 DTE
 
 Data Terminal Equipment (Voir ETTD)

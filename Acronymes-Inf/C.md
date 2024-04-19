@@ -383,17 +383,17 @@
 
     - Cyclic Redundancy Check (Contrôle par redondance cyclique)
 
-CRITT	
+## **CRITT**	
 
-Centres Régionaux d'Innovation et de Transfert de Technologie.
+    - Centres Régionaux d'Innovation et de Transfert de Technologie.
 
-CRT	
+## **CRT**	
 
-Cathode Ray Tube (Ecran à tube cathodique)
+    - Cathode Ray Tube (Ecran à tube cathodique)
 
-CSA	
+## **CSA**	
 
-Conseil Supérieur de l'Audiovisuel
+    - Conseil Supérieur de l'Audiovisuel
 
 CSCW	
 

@@ -205,21 +205,21 @@
 
     - Classless Inter-Domain Routing
 
-CIM	
+## **CIM**	
 
-Computer Integrated Manufacturing / Common Information Model
+    - Computer Integrated Manufacturing / Common Information Model
 
-CIPM
+## **CIPM**
 
-Comité International des Poids et Mesures
+    - Comité International des Poids et Mesures
 
-CISC	
+## **CISC**	
 
-Complex Instruction Set Computer
+    - Complex Instruction Set Computer
 
-CJCE	
+## **CJCE**	
 
-Cour de Justice des Communautés Européennes
+    - Cour de Justice des Communautés Européennes
 
 CLI	
 

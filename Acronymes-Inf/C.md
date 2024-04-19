@@ -249,41 +249,41 @@
 
     - Constant Linear Velocity
 
-CMIP	
+## **CMIP**	
 
-Common Management Information Protocol
+    - Common Management Information Protocol
 
-CMIS	
+## **CMIS**	
 
-Common Management Information Service
+    - Common Management Information Service
 
-CMJN	
+## **CMJN**	
 
-Cyan, Magenta, Jaune, Noir (CMYK, Cyan, Magenta, Yellow, blacK en anglais)
+    - Cyan, Magenta, Jaune, Noir (CMYK, Cyan, Magenta, Yellow, blacK en anglais)
 
-CMOS	
+## **CMOS**	
 
-Complementary Metal Oxyde Semiconductor
+    - Complementary Metal Oxyde Semiconductor
 
-CMOT	
+## **CMOT**	
 
-Common Management Over TCP/Ip
+    - Common Management Over TCP/Ip
 
-CMYK	
+## **CMYK**	
 
-Cyan, Magenta, Yellow, blacK
+    - Cyan, Magenta, Yellow, blacK
 
-CN	
+## **CN**	
 
-Commande Numérique.
+    - Commande Numérique.
 
-CNA	
+## **CNA**	
 
-Convertisseur Numérique/Analogique
+    - Convertisseur Numérique/Analogique
 
-CNE	
+## **CNE**	
 
-Certified Network Engineer
+    - Certified Network Engineer
 
 CENT	
 

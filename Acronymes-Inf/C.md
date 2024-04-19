@@ -36,13 +36,13 @@
 
     - CAPitalS
 
-CASE
+## **CASE**
 
-Computer Aided Software Engineering.
+    - Computer Aided Software Engineering.
 
-CATV
+## **CATV**
     
-Community Antenna TeleVision
+    - Community Antenna TeleVision
 
 CATV	
 

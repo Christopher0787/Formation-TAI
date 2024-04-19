@@ -92,13 +92,13 @@
 
     - Data Definition Language
 
-DDP
+## **DDP**
 
-Datagram Delivery Protocol
+    - Datagram Delivery Protocol
 
-DDS
+## **DDS**
 
-Digital Data Storage
+    - Digital Data Storage
 
 DECT
 

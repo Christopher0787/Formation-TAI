@@ -160,17 +160,17 @@
 
     - Dynamic Link Library
 
-DLPI
+## **DLPI**
 
-Data Link Provider Interface
+    - Data Link Provider Interface
 
-DLT
+## **DLT**
 
-Digital Linear Tape
+    - Digital Linear Tape
 
-DMA
+## **DMA**
 
-Direct Memory Access (Accès direct à la mémoire)
+    - Direct Memory Access (Accès direct à la mémoire)
 
 DME
 

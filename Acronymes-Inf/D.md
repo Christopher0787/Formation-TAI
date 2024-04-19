@@ -311,19 +311,20 @@
 ## **DVD**
 
     - Digital Video Disk / Digital Versatile Disk
-
+---
 ## **DVD -R**
 
     - Digital Versatile Disc Rewritable
+--
+## **DVD -RAM**
 
-DVD -RAM
+    - Digital Versatile Disc - Random Access Memory
+---
+## **DVD -ROM**
 
-Digital Versatile Disc - Random Access Memory
+    - Digital Versatile Disc - Read Only Memory
+---
+## **DWDM**
 
-DVD -ROM
-
-Digital Versatile Disc - Read Only Memory
-
-DWDM
-
-Dense Wavelength Division Multiplexing (Voir MRL)
+    - Dense Wavelength Division Multiplexing (Voir MRL)
+---

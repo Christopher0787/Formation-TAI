@@ -353,29 +353,27 @@
 
     - Characters Per Inch
 
-CPIC	
+## **CPIC**	
 
-Common Programming Interface for Communications
+    - Common Programming Interface for Communications
 
-CPS	
+## **CPS**	
 
-Characters Per Second (Caractères par seconde)
+    - Characters Per Second (Caractères par seconde)
 
-CPS	
+    - Carte professionnelle de santé
 
-Carte professionnelle de santé
+## **CPSR**	
 
-CPSR	
+    - Computer Professionals for Social Responsibility
 
-Computer Professionals for Social Responsibility
+## **CPU**	
 
-CPU	
+    - Central Processing Unit (Unité centrale)
 
-Central Processing Unit (Unité centrale)
+## **CR**	
 
-CR	
-
-Carriage Return (Retour Chariot)
+    - Carriage Return (Retour Chariot)
 
 CR/LF	
 

@@ -108,17 +108,17 @@
 
     - Data Encryption Standard
 
-DFT
+## **DFT**
 
-Distributed Function Terminal
+    - Distributed Function Terminal
 
-DGPT
+## **DGPT**
 
-Direction Générale des Postes et Télécommunications
+    - Direction Générale des Postes et Télécommunications
 
-DHCP
+## **DHCP**
 
-Dynamic Host Configuration Protocol
+    - Dynamic Host Configuration Protocol
 
 DHTML
 

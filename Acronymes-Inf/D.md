@@ -200,21 +200,21 @@
 
     - Domain Name Server
 
-DOC
+## **DOC**
 
-Disque Optique Compact
+    - Disque Optique Compact
 
-DOCSIS
+## **DOCSIS**
 
-Data Over Cable Service Interface Specification.
+    - Data Over Cable Service Interface Specification.
 
-DoD
+## **DOD**
 
-Department of Defense.
+    - Department of Defense.
 
-DoE
+## **DOE**
 
-Department of Energy
+    - Department of Energy
 
 DON
 

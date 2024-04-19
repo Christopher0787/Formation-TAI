@@ -325,17 +325,17 @@
 
     - COMputer Distribution Exposition
 
-CONS	
+## **CONS**	
 
-Connection Oriented Network Service
+    - Connection Oriented Network Service
 
-COPS	
+## **COPS**	
 
-Computer Oracle and Password System
+    - Computer Oracle and Password System
 
-CORBA	
+## **CORBA**	
 
-Common Object Request Broker Architecture
+    - Common Object Request Broker Architecture
 
 CP/M	
 

@@ -32,13 +32,13 @@
 
     - Dynamic Address Translation / Digital Audio Tape
 
-DAVIC
+## **DAVIC**
 
-Digital Audio-Visual Council
+    - Digital Audio-Visual Council
 
-DB
+## **DB**
 
-Data Base
+    - Data Base
 
 Db
 

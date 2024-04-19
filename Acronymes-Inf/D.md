@@ -24,13 +24,13 @@
 
     - Dual Attachment Station
 
-DASD
+## **DASD**
 
-Direct Access Storage Device
+    - Direct Access Storage Device
 
-DAT
+## **DAT**
 
-Dynamic Address Translation / Digital Audio Tape
+    - Dynamic Address Translation / Digital Audio Tape
 
 DAVIC
 

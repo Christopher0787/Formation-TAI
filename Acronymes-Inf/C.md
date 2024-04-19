@@ -141,21 +141,21 @@
 
     - Cell Directory Service
 
-CD-V	
+## **CD-V**	
 
-Compact Disc-Video
+    - Compact Disc-Video
 
-CD-WORM	
+## **CD-WORM**	
 
-Compact Disc-Write Once Read Many
+    - Compact Disc-Write Once Read Many
 
-CD-XA	
+## **CD-XA**	
 
-CD-Extended Architecture
+    - CD-Extended Architecture
 
-CEI	
+## **CEI**	
 
-Commission Electrotechnique Internationale / IEC (International Electrotechnical Commission) (Voir : organismes de normalisation)
+    - Commission Electrotechnique Internationale / IEC (International Electrotechnical Commission) (Voir : organismes de normalisation)
 
 CEN	
 

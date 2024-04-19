@@ -224,21 +224,21 @@
 
     - Disk Operating System
 
-## **dpi (ppp)**
+## **DPI (ppp)**
 
     - Dots Per Inch (Points par Pouce)
 
-DPMI
+## **DPMI**
 
-DOS Protected Mode Interface
+    - DOS Protected Mode Interface
 
-DQDB
+## **DQDB**
 
-Distributed Queue Dual Bus
+    - Distributed Queue Dual Bus
 
-DRAM
+## **DRAM**
 
-Dynamic Random Access Memory (Mémoire dynamique à accès aléatoire)
+    - Dynamic Random Access Memory (Mémoire dynamique à accès aléatoire)
 
 DSA
 

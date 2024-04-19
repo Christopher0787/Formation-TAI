@@ -120,13 +120,13 @@
 
     - Dynamic Host Configuration Protocol
 
-DHTML
+## **DHTML**
 
-Dynamic HTML (langage HTML dynamique)
+    - Dynamic HTML (langage HTML dynamique)
 
-DIA
+## **DIA**
 
-Document Interchange Architecture
+    - Document Interchange Architecture
 
 DIGIT
 

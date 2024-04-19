@@ -297,21 +297,21 @@
 
     - Commission Nationale de l'Informatique et des Libertés
 
-COB	
+## **COB**	
 
-Chip-On-Board process
+    - Chip-On-Board process
 
-COBOL	
+## **COBOL**	
 
-COmmon Business Oriented Language
+    - COmmon Business Oriented Language
 
-CODEC	
+## **CODEC**	
 
-COdeur DECodeur
+    - COdeur DECodeur
 
-COE	
+## **COE**	
 
-Common Operating Environment
+    - Common Operating Environment
 
 COFDM	
 

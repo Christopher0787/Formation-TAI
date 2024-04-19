@@ -101,21 +101,21 @@
 
     - Compact Disk-Digital Audio (Disque compact audionumérique)
 
-CDE	
+## **CDE**	
 
-Common Desktop Environment
+    - Common Desktop Environment
 
-CDF	
+## **CDF**	
 
-Channel Definition Format
+    - Channel Definition Format
 
-CD-I	
+## **CD-I**	
 
-Compact Disc Interactive (Disque compact interactif)
+    - Compact Disc Interactive (Disque compact interactif)
 
-CDM	
+## **CDM**	
 
-Code Division Multiplexing (Voir MRC)
+    - Code Division Multiplexing (Voir MRC)
 
 CDMA	
 

@@ -1,5 +1,5 @@
 # **Sigles et Acronymes Relatifs à l'Informatique**
-
+---
 ## **DAB**
 
     - Distributeur Automatique de Billets

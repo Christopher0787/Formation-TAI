@@ -185,25 +185,25 @@
 
     - Computer Graphics Metafile (métafichier d'images graphiques informatiques)
 
-CGTI	
+## **CGTI**	
 
-Conseil Général des Technologies de l'Information
+    - Conseil Général des Technologies de l'Information
 
-CHAP	
+## **CHAP**	
 
-Challenge Handshake Authentification Protocol
+    - Challenge Handshake Authentification Protocol
 
-CIAC	
+## **CIAC**	
 
-Computer Incident Advisory Capability
+    - Computer Incident Advisory Capability
 
-CICS	
+## **CICS**	
 
-Customer Information Control System
+    - Customer Information Control System
 
-CIDR	
+## **CIDR**	
 
-Classless Inter-Domain Routing
+    - Classless Inter-Domain Routing
 
 CIM	
 

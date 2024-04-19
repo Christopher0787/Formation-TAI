@@ -313,17 +313,17 @@
 
     - Common Operating Environment
 
-COFDM	
+## **COFDM**	
 
-coded orthogonal Frequency Division Multiplex
+    - coded orthogonal Frequency Division Multiplex
 
-COLP
+## **COLP**
     
-COnnected Line identification Presentation
+    - COnnected Line identification Presentation
 
-COMDEX	
+## **COMDEX**	
 
-COMputer Distribution Exposition
+    - COMputer Distribution Exposition
 
 CONS	
 

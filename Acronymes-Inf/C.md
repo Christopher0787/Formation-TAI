@@ -411,17 +411,17 @@
 
     - Carrier Sense Multiple Access
 
-CSMA/CD	
+## **CSMA/CD**	
 
-Carrier-Sense Multiple Access with Collision Detection
+    - Carrier-Sense Multiple Access with Collision Detection
 
-CSMA-CA	
+## **CSMA-CA**	
 
-Carrier Sense Multiple Access with Collision Avoidance
+    - Carrier Sense Multiple Access with Collision Avoidance
 
-CSMI	
+## **CSMI**	
 
-Commissions spécialisées des marchés d'informatique
+    - Commissions spécialisées des marchés d'informatique
 
 CSS	
 

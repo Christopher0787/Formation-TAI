@@ -280,22 +280,22 @@
 
     - Document Type Definition
 ---
-DTE
+## **DTE**
 
-Data Terminal Equipment (Voir ETTD)
+    - Data Terminal Equipment (Voir ETTD)
+---
+## **DTL**
 
-DTL
+    - Diode-Transistor Logic
+---
+## **DTMF**
 
-Diode-Transistor Logic
+    - Dual Tone Multi-Frequency
+---
+## **DTP**
 
-DTMF
-
-Dual Tone Multi-Frequency
-
-DTP
-
-Distributing Transaction Processing
-
+    - Distributing Transaction Processing
+---
 DTR
 
 Data Terminal Ready

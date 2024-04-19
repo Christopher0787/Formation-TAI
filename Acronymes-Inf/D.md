@@ -148,15 +148,15 @@
 
     - Dual Inline Package
 
-DISP
+## **DISP**
 
-Directory Information Shadowing Protocol
+    - Directory Information Shadowing Protocol
 
-DLC
+## **DLC**
 
-Data Link Control
+    - Data Link Control
 
-DLL
+## **DLL**
 
 Dynamic Link Library
 

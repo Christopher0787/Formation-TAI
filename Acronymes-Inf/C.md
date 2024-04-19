@@ -375,13 +375,13 @@
 
     - Carriage Return (Retour Chariot)
 
-CR/LF	
+## **CR/LF**	
 
-Carriage Return/Line Feed (Retour Chariot/Saut de Ligne)
+    - Carriage Return/Line Feed (Retour Chariot/Saut de Ligne)
 
-CRC	
+## **CRC**	
 
-Cyclic Redundancy Check (Contrôle par redondance cyclique)
+    - Cyclic Redundancy Check (Contrôle par redondance cyclique)
 
 CRITT	
 

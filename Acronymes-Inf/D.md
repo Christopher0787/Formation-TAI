@@ -296,25 +296,25 @@
 
     - Distributing Transaction Processing
 ---
-DTR
+## **DTR**
 
-Data Terminal Ready
+    - Data Terminal Ready
+---
+## **DTV**
 
-DTV
+    - Digital TeleVision
+---
+## **DVB**
 
-Digital TeleVision
+    - Digital Video Broadcasting
+---
+## **DVD**
 
-DVB
+    - Digital Video Disk / Digital Versatile Disk
 
-Digital Video Broadcasting
+## **DVD -R**
 
-DVD
-
-Digital Video Disk / Digital Versatile Disk
-
-DVD -R
-
-Digital Versatile Disc Rewritable
+    - Digital Versatile Disc Rewritable
 
 DVD -RAM
 

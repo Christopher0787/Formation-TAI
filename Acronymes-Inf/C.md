@@ -173,17 +173,17 @@
 
     - Cipher Feed-Back
 
-CGA	
+## **CGA**	
 
-Colours Graphic Adapter
+    - Colours Graphic Adapter
 
-CGI	
+## **CGI**	
 
-Common Gateway Interface
+    - Common Gateway Interface
 
-CGM	
+## **CGM**	
 
-Computer Graphics Metafile (métafichier d'images graphiques informatiques)
+    - Computer Graphics Metafile (métafichier d'images graphiques informatiques)
 
 CGTI	
 

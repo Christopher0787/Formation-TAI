@@ -56,13 +56,13 @@
 
     - Canal Banalisé (Citizen's Band radio)
 
-CBC	
+## **CBC**	
 
-Cipher Block Chaining
+    - Cipher Block Chaining
 
-CBDS	
+## **CBDS**	
 
-Connectionless Broadband Data Service
+    - Connectionless Broadband Data Service
 
 CBR	
 

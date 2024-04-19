@@ -337,21 +337,21 @@
 
     - Common Object Request Broker Architecture
 
-CP/M	
+## **CP/M**	
 
-Control Program for Microcomputers
+    - Control Program for Microcomputers
 
-CPAN	
+## **CPAN**	
 
-Comprehensive Perl Archive Network
+    - Comprehensive Perl Archive Network
 
-CPE	
+## **CPE**	
 
-Customer Premices Equipement
+    - Customer Premices Equipement
 
-CPI	
+## **CPI**	
 
-Characters Per Inch
+    - Characters Per Inch
 
 CPIC	
 

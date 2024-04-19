@@ -72,21 +72,21 @@
 
     - Core Based Tree
 
-CC	
+## **CC**	
 
-Carbon Copy
+    - Carbon Copy
 
-CCD	
+## **CCD**	
 
-Charge Coupled Device
+    - Charge Coupled Device
 
-CD	
+## **CD**	
 
-Collision Detection
+    - Collision Detection
 
-CD	
+## **CD**	
 
-Compact Disc
+    - Compact Disc
 
 CDA	
 

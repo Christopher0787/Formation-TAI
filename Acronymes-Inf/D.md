@@ -80,17 +80,17 @@
 
     - Data Display Channel
 
-DDCMP
+## **DDCMP**
 
-Digital Data Communications Message Protocol
+    - Digital Data Communications Message Protocol
 
-DDE
+## **DDE**
 
-Dynamic Data Exchange
+    - Dynamic Data Exchange
 
-DDL
+## **DDL**
 
-Data Definition Language
+    - Data Definition Language
 
 DDP
 

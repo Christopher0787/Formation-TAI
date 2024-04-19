@@ -8,13 +8,13 @@
 
     - Digital to Analog Converter / Dual Attachment Concentrator
 
-DAO
+## **DAO**
 
-Dessin Assisté par Ordinateur
+    - Dessin Assisté par Ordinateur
 
-DAP
+## **DAP**
 
-Directory Access Protocol
+    - Directory Access Protocol
 
 DARPA
 

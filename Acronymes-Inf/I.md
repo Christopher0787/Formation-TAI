@@ -105,10 +105,10 @@
 
     - Internet Protocol version 4
 ---
-IPv6
+## **IPv6**
 
-Internet Protocol version 6
-
+    - Internet Protocol version 6
+---
 IPNS
 
 ISDN PABX Networking Specification

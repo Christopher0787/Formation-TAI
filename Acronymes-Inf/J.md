@@ -13,10 +13,10 @@
 
     - Just In Time.
 ---
-JPEG
+## **JPEG**
 
-Joint Photographics Expert Group (Groupe mixte d'experts en photographie)
-
+    - Joint Photographics Expert Group (Groupe mixte d'experts en photographie)
+---
 JTC
 
 Joint Technical Committee

@@ -49,26 +49,26 @@
 
     - Light Emitting Diode
 ---
-LEO
+## **LEO**
 
-Low Earth Orbit
+    - Low Earth Orbit
+---
+## **LES**
 
-LES
+    - LAN Emulation Server
+---
+## **LF**
 
-LAN Emulation Server
+    - Low Frequency (Basse Fréquence) / Line Feed (Retour à la ligne)
+---
+## **LIFO**
 
-LF
+    - Last In First Out (Dernier Entré Premier Sorti)
+---
+## **LLC**
 
-Low Frequency (Basse Fréquence) / Line Feed (Retour à la ligne)
-
-LIFO
-
-Last In First Out (Dernier Entré Premier Sorti)
-
-LLC
-
-Logical Link Control / Low Level Compatibility / Link Layer Control
-
+    - Logical Link Control / Low Level Compatibility / Link Layer Control
+---
 LMDS
 
 Local Multipoint Distribution Service

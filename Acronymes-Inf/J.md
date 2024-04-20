@@ -25,6 +25,7 @@
 
     - Job Transfert Management
 ---
-JVM
+## **JVM**
 
-Java Virtual Machine
+    - Java Virtual Machine
+---

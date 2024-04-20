@@ -84,21 +84,21 @@
 
     - exbi (préfixe), exabinaire soit 2 puissance 60
 ---
-Eib
+## **Eib**
 
-exbi-bit, 2 puissance 60 bits
+    - exbi-bit, 2 puissance 60 bits
+---
+## **EIDE**
 
-EIDE
+    - Enhanced Integrated Device Electronics
 
-Enhanced Integrated Device Electronics
+## **Eio**
 
-Eio
+    - exbi-octet, 2 puissance 60 octets
 
-exbi-octet, 2 puissance 60 octets
+## **EIS**
 
-EIS
-
-Executive Information System
+    - Executive Information System
 
 EISA
 

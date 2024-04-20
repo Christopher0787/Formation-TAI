@@ -61,10 +61,10 @@
 
     - MEmoire Vive
 ---
-MF
+## **MF**
 
-Modulation de Fréquence (FM).
-
+    - Modulation de Fréquence (FM).
+---
 MFLOPS
 
 Millions Floating Point Operations Per Second

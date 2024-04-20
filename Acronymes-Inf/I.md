@@ -101,10 +101,10 @@
 
     - Internet Protocol
 ---
-IPv4
+## **IPv4**
 
-Internet Protocol version 4
-
+    - Internet Protocol version 4
+---
 IPv6
 
 Internet Protocol version 6

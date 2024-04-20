@@ -91,19 +91,19 @@
 ## **EIDE**
 
     - Enhanced Integrated Device Electronics
-
+---
 ## **Eio**
 
     - exbi-octet, 2 puissance 60 octets
-
+---
 ## **EIS**
 
     - Executive Information System
+---
+## **EISA**
 
-EISA
-
-Extended Industry Standard Architecture
-
+    - Extended Industry Standard Architecture
+---
 e-mail
 
 Electronic-Mail

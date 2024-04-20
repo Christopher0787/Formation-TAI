@@ -117,18 +117,18 @@
 
     - Frequency Shift Keying
 ---
-FTAM
+## **FTAM**
 
-File Transfer Access Method (méthode de transfert et d'accès de fichiers)
+    - File Transfer Access Method (méthode de transfert et d'accès de fichiers)
+---
+## **FTC**
 
-FTC
+    - Federal Trade Commission
+---
+## **FTP**
 
-Federal Trade Commission
-
-FTP
-
-File Transfer Protocol (protocole de transfert de fichiers)
-
+    - File Transfer Protocol (protocole de transfert de fichiers)
+---
 FTTC
 
 Fiber To The Curb

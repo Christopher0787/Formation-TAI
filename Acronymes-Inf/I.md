@@ -53,22 +53,22 @@
 
     - Internet Engineering Task Force (fournit des Request for Comments [RFC] sortes de standards Internet)
 ---
-IFRB
+## **IFRB**
 
-International Frequency Registration Board
+    - International Frequency Registration Board
+---
+## **IGEC**
 
-IGEC
+    - Instruction Générale d'Etat Civil
+---
+## **IGMP**
 
-Instruction Générale d'Etat Civil
+    - Internet Group Management Protocol
+---
+## **IHM**
 
-IGMP
-
-Internet Group Management Protocol
-
-IHM
-
-Interface Homme Machine
-
+    - Interface Homme Machine
+---
 IKE
 
 Internet Key Exchange

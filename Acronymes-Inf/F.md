@@ -57,10 +57,10 @@
 
     - Front End Processor
 ---
-FF
+## **FF**
 
-Form Feed (saut de page)
-
+    - Form Feed (saut de page)
+---
 FFT
 
 Fast Fourrier Transform (Transformée de Fourrier rapide)

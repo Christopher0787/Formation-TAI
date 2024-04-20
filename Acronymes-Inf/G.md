@@ -5,10 +5,10 @@
 
     - (ou Gb/s) Giga bits par seconde (Voir : Préfixes SI pour des multiples binaires)
 ---
-GDM
+## **GDM**
 
-Générateur de Dessin de Masques
-
+    - Générateur de Dessin de Masques
+---
 GED
 
 Gestion Electronique de Documents

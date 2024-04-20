@@ -37,18 +37,18 @@
 
     - Line Control Protocol
 ---
-LDAP
+## **LDAP**
 
-Lightweight Directory Access Protocol (protocole d'accès de répertoires légers)
+    - Lightweight Directory Access Protocol (protocole d'accès de répertoires légers)
+---
+## **LEA**
 
-LEA
+    - Laboratoire d'Essai et d'Agréments
+---
+## **LED**
 
-Laboratoire d'Essai et d'Agréments
-
-LED
-
-Light Emitting Diode
-
+    - Light Emitting Diode
+---
 LEO
 
 Low Earth Orbit

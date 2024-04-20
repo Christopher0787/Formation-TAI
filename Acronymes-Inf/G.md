@@ -41,26 +41,26 @@
 
     - Group IDentifier
 ---
-GIF
+## **GIF**
 
-Graphics Interchange Format (format de transfert des graphiques)
+    - Graphics Interchange Format (format de transfert des graphiques)
 
-Gigaflops
+## **Gigaflops**
 
-Giga FLoating point OPerations per Second
+    - Giga FLoating point OPerations per Second
+---
+## **GILC**
 
-GILC
+    - Global Internet Liberty Campaign
+---
+## **Gio**
 
-Global Internet Liberty Campaign
+    - gibi-octet, 2 puissance 30 octets (Voir : Préfixes SI pour des multiples binaires)
+---
+## **GIX**
 
-Gio
-
-gibi-octet, 2 puissance 30 octets (Voir : Préfixes SI pour des multiples binaires)
-
-GIX
-
-Global Internet eXchange
-
+    - Global Internet eXchange
+---
 GKS
 
 Graphic Kernel System

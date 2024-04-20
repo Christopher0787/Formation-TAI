@@ -25,14 +25,14 @@
 
     - Groupement d' Etudes de Normalisation et de CODification
 ---
-GHz
+## **GHz**
 
-GigaHertz (GHz)
+    - GigaHertz (GHz)
+---
+## **Gi**
 
-Gi
-
-gibi (préfixe), gigabinaire soit 2 puissance 30 (Voir : Préfixes SI pour des multiples binaires)
-
+    - gibi (préfixe), gigabinaire soit 2 puissance 30 (Voir : Préfixes SI pour des multiples binaires)
+---
 Gib
 
 gibi-bit, 2 puissance 30 bits (Voir : Préfixes SI pour des multiples binaires)

@@ -85,18 +85,18 @@
 
     - Government OSI Profile
 ---
-GPAO
+## **GPAO**
 
-Gestion de Production Assistée par Ordinateur
+    - Gestion de Production Assistée par Ordinateur
+---
+## **GPEM/IC**
 
-GPEM/IC
+    - Groupes Permanents d’Etude des Marchés Informatique-Communication
+---
+## **GPIB**
 
-Groupes Permanents d’Etude des Marchés Informatique-Communication
-
-GPIB
-
-General Purpose Interface Bus
-
+    - General Purpose Interface Bus
+---
 GPL
 
 General Public Licence.

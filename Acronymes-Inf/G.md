@@ -101,14 +101,14 @@
 
     - General Public Licence.
 ---
-GPRS
+## **GPRS**
 
-General Packet Radio Service
+    - General Packet Radio Service
+---
+## **GPS**
 
-GPS
-
-Global Positioning System
-
+    - Global Positioning System
+---
 GRE
 
 Generic Routing Encapsulation

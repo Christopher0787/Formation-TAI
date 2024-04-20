@@ -5,10 +5,10 @@
 
     - Java DataBase Connectivity
 ---
-JEPI
+## **JEPI**
 
-Joint Electronic Payment Initiative
-
+    - Joint Electronic Payment Initiative
+---
 JIT
 
 Just In Time.

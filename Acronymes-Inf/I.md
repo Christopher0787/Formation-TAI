@@ -125,10 +125,10 @@
 
     - Infra-Red (Infra-Rouge)
 ---
-IRC
+## **IRC**
 
-Internet Relay Chat
-
+    - Internet Relay Chat
+---
 IRQ
 
 Interrupt ReQuest

@@ -45,6 +45,7 @@
 
     - Hypertext Mark-up Language (langage de balisage hypertexte)
 ---
-HTTP
+## **HTTP**
 
-Hypertext Transfer Protocol (protocole de transfert hypertexte)
+    - Hypertext Transfer Protocol (protocole de transfert hypertexte)
+---

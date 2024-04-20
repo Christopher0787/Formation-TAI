@@ -37,10 +37,10 @@
 
     - High Performance Computing and Communications
 ---
-HT
+## **HT**
 
-Haute Tension
-
+    - Haute Tension
+---
 HTML
 
 Hypertext Mark-up Language (langage de balisage hypertexte)

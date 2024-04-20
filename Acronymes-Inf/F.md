@@ -49,10 +49,10 @@
 
     - Frequency Division Multiplexing (Voir MRF)
 ---
-FDMA
+## **FDMA**
 
-Frequency Division Multiplexing Access
-
+    - Frequency Division Multiplexing Access
+---
 FEP
 
 Front End Processor

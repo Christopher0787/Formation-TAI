@@ -65,10 +65,10 @@
 
     - Fast Fourrier Transform (Transformée de Fourrier rapide)
 ---
-FIF
+## **FIF**
 
-Fractal Image Format
-
+    - Fractal Image Format
+---
 FIFO
 
 First In First Out

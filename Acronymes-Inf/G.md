@@ -109,18 +109,18 @@
 
     - Global Positioning System
 ---
-GRE
+## **GRE**
 
-Generic Routing Encapsulation
+    - Generic Routing Encapsulation
+---
+## **GSM**
 
-GSM
+    - Groupe Spécial Mobile ou Global System for Mobile communications
+---
+## **GUI**
 
-Groupe Spécial Mobile ou Global System for Mobile communications
-
-GUI
-
-Graphic User Interface
-
+    - Graphic User Interface
+--
 GUS
 
 Guide to the Use of Standar

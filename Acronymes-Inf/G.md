@@ -9,10 +9,10 @@
 
     - Générateur de Dessin de Masques
 ---
-GED
+## **GED**
 
-Gestion Electronique de Documents
-
+    - Gestion Electronique de Documents
+---
 GEDT
 
 Gestion Electronique de Documents Techniques.

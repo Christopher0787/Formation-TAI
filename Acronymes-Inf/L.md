@@ -105,14 +105,15 @@
 
     - Langage Symbolique pour Enseignement
 ---
-LSI
+## **LSI**
 
-Large Scale Integration
+    - Large Scale Integration
+---
+## **LVS**
 
-LVS
+    - Logiciel de Vérification de Schéma
+---
+## **LZW**
 
-Logiciel de Vérification de Schéma
-
-LZW
-
-Lempel-Zif Welch
+    - Lempel-Zif Welch
+---

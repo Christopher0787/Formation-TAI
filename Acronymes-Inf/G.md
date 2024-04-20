@@ -13,10 +13,10 @@
 
     - Gestion Electronique de Documents
 ---
-GEDT
+## **GEDT**
 
-Gestion Electronique de Documents Techniques.
-
+    - Gestion Electronique de Documents Techniques.
+---
 GEIDE
 
 Gestion Electronique de l'Information et des Documents Existants

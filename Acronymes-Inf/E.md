@@ -124,13 +124,13 @@
 
     -European Norm
 ---
-ENS
+## **ENS**
 
-European Nervous System
+    - European Nervous System
+---
+## **EOF**
 
-EOF
-
-End Of File
+    - End Of File
 
 EPD
 

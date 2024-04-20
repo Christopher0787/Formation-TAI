@@ -37,18 +37,18 @@
 
     - (ou Mb/s) Megabits Per Second (Mégabits par seconde) (Voir : Préfixes SI pour des multiples binaires)
 ---
-MCA
+## **MCA**
 
-Micro Chanel Architecture
+    - Micro Chanel Architecture
+---
+## **MCR**
 
-MCR
+    - Minimum Cell Rate
+---
+## **MDA**
 
-Minimum Cell Rate
-
-MDA
-
-Monochrome Display Adapter
-
+    - Monochrome Display Adapter
+---
 MDI
 
 Mainframe Device Interface / Multiple Document Interface / Media Dependent Interface

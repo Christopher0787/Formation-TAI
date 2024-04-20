@@ -5,10 +5,10 @@
 
     - High Altitude radio Platform (Voir PHA)
 ---
-HD
+## **HD**
 
-Half-Duplex / Hard Disk / High Density
-
+    - Half-Duplex / Hard Disk / High Density
+---
 HDC
 
 Hard Disk Controller / Hard Disk Drive

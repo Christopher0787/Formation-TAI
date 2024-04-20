@@ -13,10 +13,10 @@
 
     - Foire Aux Questions (Frequently Asked Questions)
 ---
-FAT
+## **FAT**
 
-File Allocation Table
-
+    - File Allocation Table
+---
 FC
 
 Fiber Channel

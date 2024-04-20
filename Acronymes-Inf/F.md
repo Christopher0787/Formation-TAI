@@ -17,10 +17,10 @@
 
     - File Allocation Table
 ---
-FC
+## **FC**
 
-Fiber Channel
-
+    - Fiber Channel
+---
 FCAL
 
 Fiber Channel Arbitrated Loop

@@ -140,18 +140,18 @@
 
     - European Procurement Handbook for Open Systems
 ---
-EPP
+## **EPP**
 
-Enhanced Parallel Port
+    - Enhanced Parallel Port
+---
+## **EPROM**
 
-EPROM
+    - Erasable Programmable Read Only Memory
+---
+## **EPS**
 
-Erasable Programmable Read Only Memory
-
-EPS
-
-Encapsulated PostScript
-
+    - Encapsulated PostScript
+---
 ERC
 
 Electrical Rule Checking

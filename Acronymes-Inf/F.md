@@ -77,10 +77,10 @@
 
     - Forum of Incident Response and Security Teams
 ---
-FLOPS
+## **FLOPS**
 
-FLoating point Operations Per Second
-
+    - FLoating point Operations Per Second
+---
 flops
 
 FLoating-point Operations Per Second

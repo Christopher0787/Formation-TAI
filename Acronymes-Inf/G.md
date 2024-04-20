@@ -17,10 +17,10 @@
 
     - Gestion Electronique de Documents Techniques.
 ---
-GEIDE
+## **GEIDE**
 
-Gestion Electronique de l'Information et des Documents Existants
-
+    - Gestion Electronique de l'Information et des Documents Existants
+---
 GENCOD
 
 Groupement d' Etudes de Normalisation et de CODification

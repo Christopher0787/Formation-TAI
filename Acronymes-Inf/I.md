@@ -165,18 +165,18 @@
 
     - International Organization for Standardization (Organisation internationale de normalisation)
 ---
-ISO
+## **ISO**
 
-Interconnexion de Systèmes Ouverts (Voir OSI)
+    - Interconnexion de Systèmes Ouverts (Voir OSI)
+---
+## **ISOC**
 
-ISOC
+    - Internet SOCiety
+---
+## **ISP**
 
-Internet SOCiety
-
-ISP
-
-Internet Service Provider, Internet service provider (ISP). Voir : FAI
-
+    - Internet Service Provider, Internet service provider (ISP). Voir : FAI
+---
 IT
 
 Information Technology

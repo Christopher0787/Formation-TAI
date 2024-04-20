@@ -104,13 +104,13 @@
 
     - Extended Industry Standard Architecture
 ---
-e-mail
+## **E-mail**
 
-Electronic-Mail
+    - Electronic-Mail
 
-EMF
+## **EMF**
 
-Enhanced MetaFile
+    - Enhanced MetaFile
 
 EML
 

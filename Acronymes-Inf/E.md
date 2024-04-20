@@ -40,14 +40,14 @@
 
     - Echange de Données Informatisé (Electronic Data Interchange)
 ---
-EDIFACT
+## **EDIFACT**
 
-Electronic Data Interchange For Administration, Commerce and Transport
+    - Electronic Data Interchange For Administration, Commerce and Transport
+---
+## **EDM**
 
-EDM
-
-Engineering Data Management.
-
+    - Engineering Data Management.
+---
 EDO
 
 Extended Data Output

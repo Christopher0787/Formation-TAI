@@ -97,10 +97,10 @@
 
     - General Purpose Interface Bus
 ---
-GPL
+## **GPL**
 
-General Public Licence.
-
+    - General Public Licence.
+---
 GPRS
 
 General Packet Radio Service

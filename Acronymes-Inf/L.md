@@ -5,10 +5,10 @@
 
     - Langage de 4ème Génération
 ---
-LAN
+## **LAN**
 
-Local Area Network (Voir RL)
-
+    - Local Area Network (Voir RL)
+---
 LANE
 
 Local Area Network Emulation

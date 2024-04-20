@@ -61,22 +61,22 @@
 
     - Global Internet eXchange
 ---
-GKS
+## **GKS**
 
-Graphic Kernel System
+    - Graphic Kernel System
+---
+## **GMAO**
 
-GMAO
+    - Gestion de Maintenance Assistée par Ordinateur
+---
+## **GML**
 
-Gestion de Maintenance Assistée par Ordinateur
+    - Generalized Markup Language
+---
+## **GMR**
 
-GML
-
-Generalized Markup Language
-
-GMR
-
-Giant Magneto,Resistive
-
+    - Giant Magneto,Resistive
+---
 GMT
 
 Greenwich Mean Time

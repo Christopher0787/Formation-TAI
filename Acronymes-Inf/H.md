@@ -29,10 +29,10 @@
 
     - Hybrid Fiber Coax
 ---
-HMA
+## **HMA**
 
-High Memory Area
-
+    - High Memory Area
+---
 HPCC
 
 High Performance Computing and Communications

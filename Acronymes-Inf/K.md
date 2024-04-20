@@ -17,10 +17,10 @@
 
     - kibi (préfixe), kilobinaire soit 2 puissance 10 (Voir : Préfixes SI pour des multiples binaires)
 ---
-Kib
+## **Kib**
 
-kibi-bit, kibibit, 2 puissance 10 bits (Voir : Préfixes SI pour des multiples binaires)
-
+    - kibi-bit, kibibit, 2 puissance 10 bits (Voir : Préfixes SI pour des multiples binaires)
+---
 Kio
 
 kibi-octet, kibioctet, 2 puissance 10 octets (Voir : Préfixes SI pour des multiples binaires)

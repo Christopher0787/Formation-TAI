@@ -25,18 +25,18 @@
 
     - Local Area Transport
 ---
-LATA
+## **LATA**
 
-Local Access Transport Area
+    - Local Access Transport Area
+---
+## **LCD**
 
-LCD
+    -  Liquid Crystal Display (Affichage à cristaux liquides)
+---
+## **LCP**
 
-Liquid Crystal Display (Affichage à cristaux liquides)
-
-LCP
-
-Line Control Protocol
-
+    - Line Control Protocol
+---
 LDAP
 
 Lightweight Directory Access Protocol (protocole d'accès de répertoires légers)

@@ -41,14 +41,14 @@
 
     - Floppy Disk Drive (lecteur de disquette)
 ---
-FDDI
+## **FDDI**
 
-Fiber Distributed Data Interface
+    - Fiber Distributed Data Interface
+---
+## **FDM**
 
-FDM
-
-Frequency Division Multiplexing (Voir MRF)
-
+    - Frequency Division Multiplexing (Voir MRF)
+---
 FDMA
 
 Frequency Division Multiplexing Access

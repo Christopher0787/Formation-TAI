@@ -89,22 +89,22 @@
 
     - Lines Per Minute (lignes par minute - Vitesse d'impression)
 ---
-LRC
+## **LRC**
 
-Longitudinal Redundancy Check
+    - Longitudinal Redundancy Check
+---
+## **LS**
 
-LS
+    - Liaison Spécialisée
+---
+## **LSB**
 
-Liaison Spécialisée
+    - Least Signifiant Bit
+---
+## **LSE**
 
-LSB
-
-Least Signifiant Bit
-
-LSE
-
-Langage Symbolique pour Enseignement
-
+    - Langage Symbolique pour Enseignement
+---
 LSI
 
 Large Scale Integration

@@ -104,7 +104,7 @@
 
     - Extended Industry Standard Architecture
 ---
-## **E-mail**
+## **E-MAIL**
 
     - Electronic-Mail
 ---

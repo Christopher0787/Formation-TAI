@@ -48,14 +48,14 @@
 
     - Engineering Data Management.
 ---
-EDO
+## **EDO**
 
-Extended Data Output
+    - Extended Data Output
+---
+## **EDT**
 
-EDT
-
-Échange de Données Techniques
-
+    - Échange de Données Techniques
+---
 EEMS
 
 Enhanced Expanded Memory Specification

@@ -17,10 +17,10 @@
 
     - Joint Photographics Expert Group (Groupe mixte d'experts en photographie)
 ---
-JTC
+## **JTC**
 
-Joint Technical Committee
-
+    - Joint Technical Committee
+---
 JTM
 
 Job Transfert Management

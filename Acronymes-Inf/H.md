@@ -41,10 +41,10 @@
 
     - Haute Tension
 ---
-HTML
+## **HTML**
 
-Hypertext Mark-up Language (langage de balisage hypertexte)
-
+    - Hypertext Mark-up Language (langage de balisage hypertexte)
+---
 HTTP
 
 Hypertext Transfer Protocol (protocole de transfert hypertexte)

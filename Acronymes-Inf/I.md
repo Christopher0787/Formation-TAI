@@ -9,10 +9,10 @@
 
     - Internet Architecture Board
 ---
-IAHC
+## **IAHC**
 
-International Ad Hoc Committee
-
+    - International Ad Hoc Committee
+---
 IAP
 
 Internet access provider (IAP), Internet service provider (ISP). Voir : FAI

@@ -21,10 +21,10 @@
 
     - Gestion Electronique de l'Information et des Documents Existants
 ---
-GENCOD
+## **GENCOD**
 
-Groupement d' Etudes de Normalisation et de CODification
-
+    - Groupement d' Etudes de Normalisation et de CODification
+---
 GHz
 
 GigaHertz (GHz)

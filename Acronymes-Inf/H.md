@@ -17,10 +17,10 @@
 
     - High Level Data Link Control
 ---
-HDML
+## **HDML**
 
-Handled Device Markup Language
-
+    - Handled Device Markup Language
+---
 HF
 
 Haute Fréquence (High Frequency)

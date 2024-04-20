@@ -81,14 +81,10 @@
 
     - FLoating point Operations Per Second
 ---
-flops
+## **FM**
 
-FLoating-point Operations Per Second
-
-FM
-
-Frequency Modulation
-
+    - Frequency Modulation
+---
 FORTRAN
 
 FORmula TRANslator

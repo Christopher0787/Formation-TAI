@@ -9,10 +9,10 @@
 
     - Fabrication Assistée par Ordinateur
 ---
-FAQ
+## **FAQ**
 
-Foire Aux Questions (Frequently Asked Questions)
-
+    - Foire Aux Questions (Frequently Asked Questions)
+---
 FAT
 
 File Allocation Table

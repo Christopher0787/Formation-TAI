@@ -131,15 +131,15 @@
 ## **EOF**
 
     - End Of File
+---
+## **EPD**
 
-EPD
+    - Early Packet Discard
+---
+## **EPHOS**
 
-Early Packet Discard
-
-EPHOS
-
-European Procurement Handbook for Open Systems
-
+    - European Procurement Handbook for Open Systems
+---
 EPP
 
 Enhanced Parallel Port

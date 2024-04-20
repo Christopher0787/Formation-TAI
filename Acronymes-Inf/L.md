@@ -69,26 +69,26 @@
 
     - Logical Link Control / Low Level Compatibility / Link Layer Control
 ---
-LMDS
+## **LMDS**
 
-Local Multipoint Distribution Service
+    - Local Multipoint Distribution Service
+---
+## **LOA**
 
-LOA
+    - Location avec Option d'Achat
+---
+## **LP**
 
-Location avec Option d'Achat
+    - Line Printer (Imprimante ligne)
+---
+## **lpi**
 
-LP
+    - Lines Per Inch (Lignes par Pouce - Unité d'impression)
+---
+## **lpm**
 
-Line Printer (Imprimante ligne)
-
-lpi
-
-Lines Per Inch (Lignes par Pouce - Unité d'impression)
-
-lpm
-
-Lines Per Minute (lignes par minute - Vitesse d'impression)
-
+    - Lines Per Minute (lignes par minute - Vitesse d'impression)
+---
 LRC
 
 Longitudinal Redundancy Check

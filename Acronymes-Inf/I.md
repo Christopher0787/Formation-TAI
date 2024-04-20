@@ -149,14 +149,14 @@
 
     - Internet Server API
 ---
-ISBN
+## **ISBN**
 
-International Standard Book Number
+    - International Standard Book Number
+---
+## **ISC**
 
-ISC
-
-Internet Software Consortium
-
+    - Internet Software Consortium
+---
 ISDN
 
 Integrated Services Digital Network (RNIS - Réseau Numérique à Intégration de Services)

@@ -13,10 +13,10 @@
 
     - Local Area Network Emulation
 ---
-LAP
+## **LAP**
 
-Link Access Protocol
-
+    - Link Access Protocol
+---
 LASER
 
 Light Amplification by Stimulated Emission of Radiation

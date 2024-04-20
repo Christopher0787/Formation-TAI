@@ -33,10 +33,10 @@
 
     - Frame Check Sequence
 ---
-FD
+## **FD**
 
-Floppy Disk (disquette)
-
+    - Floppy Disk (disquette)
+---
 FDD
 
 Floppy Disk Drive (lecteur de disquette)

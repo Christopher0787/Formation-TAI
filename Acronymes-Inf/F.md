@@ -25,14 +25,14 @@
 
     - Fiber Channel Arbitrated Loop
 ---
-fci
+## **FCI**
 
-Flux Changes per Inch (Changements de flux par pouce)
+    - Flux Changes per Inch (Changements de flux par pouce)
+---
+## **FCS**
 
-FCS
-
-Frame Check Sequence
-
+    - Frame Check Sequence
+---
 FD
 
 Floppy Disk (disquette)

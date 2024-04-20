@@ -13,10 +13,10 @@
 
     - Hard Disk Controller / Hard Disk Drive
 ---
-HDLC
+## **HDLC**
 
-High Level Data Link Control
-
+    - High Level Data Link Control
+---
 HDML
 
 Handled Device Markup Language

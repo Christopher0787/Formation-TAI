@@ -37,10 +37,10 @@
 
     - Floppy Disk (disquette)
 ---
-FDD
+## **FDD**
 
-Floppy Disk Drive (lecteur de disquette)
-
+    - Floppy Disk Drive (lecteur de disquette)
+---
 FDDI
 
 Fiber Distributed Data Interface

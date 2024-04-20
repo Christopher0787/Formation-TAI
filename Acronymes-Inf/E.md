@@ -152,18 +152,18 @@
 
     - Encapsulated PostScript
 ---
-ERC
+## **ERC**
 
-Electrical Rule Checking
+    -Electrical Rule Checking
+---
+## **ERMES**
 
-ERMES
+    - European Radio Messaging System
+---
+## **ERP**
 
-European Radio Messaging System
-
-ERP
-
-Etablissement Recevant du Public / Enterprise Ressource Planning
-
+    - Etablissement Recevant du Public / Enterprise Ressource Planning
+---
 ESCON
 
 Entreprise System CONnection

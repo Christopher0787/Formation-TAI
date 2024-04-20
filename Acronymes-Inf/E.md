@@ -164,18 +164,18 @@
 
     - Etablissement Recevant du Public / Enterprise Ressource Planning
 ---
-ESCON
+## **ESCON**
 
-Entreprise System CONnection
+    - Entreprise System CONnection
+---
+## **ESDI**
 
-ESDI
+    - Enhanced Small Device Interface
+---
+## **ETCD**
 
-Enhanced Small Device Interface
-
-ETCD
-
-Equipement Terminal de Circuit de Données
-
+    - Equipement Terminal de Circuit de Données
+---
 ETTD
 
 Equipement Terminal de Transmission de Données

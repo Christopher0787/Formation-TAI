@@ -56,18 +56,18 @@
 
     - Échange de Données Techniques
 ---
-EEMS
+## **EEMS**
 
-Enhanced Expanded Memory Specification
+    - Enhanced Expanded Memory Specification
+---
+## **EEPROM**
 
-EEPROM
+    - Electrically Erasable Programmable Read Only Memory
+---
+## **EFI**
 
-Electrically Erasable Programmable Read Only Memory
-
-EFI
-
-Echange de Formulaires Informatisés.
-
+    - Echange de Formulaires Informatisés.
+---
 EFT
 
 Electronic Fund Transfer

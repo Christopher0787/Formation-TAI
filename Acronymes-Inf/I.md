@@ -109,22 +109,18 @@
 
     - Internet Protocol version 6
 ---
-IPNS
+## **IPNS**
 
-ISDN PABX Networking Specification
+    - ISDN PABX Networking Specification
+---
+## **IPS**
 
-ips
+    - Inches Per Second / Instructions Par Seconde
+---
+## **IPSEC**
 
-Instructions Par Seconde
-
-IPS
-
-Inches Per Second / Instructions Par Seconde
-
-IPSEC
-
-Internet Protocol SECurity
-
+    - Internet Protocol SECurity
+---
 IR
 
 Infra-Red (Infra-Rouge)

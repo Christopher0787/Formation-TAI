@@ -5,10 +5,10 @@
 
     - Kilo-bit, Kilobit (Voir : Préfixes SI pour des multiples binaires)
 ---
-kbps
+## **kbps**
 
-(ou Kb/s) Kilo-bits par seconde, Kilobits par seconde (Voir : Préfixes SI pour des multiples binaires)
-
+    - (ou Kb/s) Kilo-bits par seconde, Kilobits par seconde (Voir : Préfixes SI pour des multiples binaires)
+---
 KDC
 
 Key Distribution Center

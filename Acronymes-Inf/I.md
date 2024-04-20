@@ -29,30 +29,30 @@
 
     - International Data Corporation
 ---
-IDE
+## **IDE**
 
-Integrated Drive Electronics
+    - Integrated Drive Electronics
+---
+## **IDEA**
 
-IDEA
+    - International Data Encryption Algorithm
+---
+## **IDL**
 
-International Data Encryption Algorithm
+    - Interface Definition Language
+---
+## **IDS**
 
-IDL
+    - Intrusion Detection System
+---
+## **IEEE**
 
-Interface Definition Language
+    - Institute of Electrical and Electronic Engineers
+---
+## **IETF**
 
-IDS
-
-Intrusion Detection System
-
-IEEE
-
-Institute of Electrical and Electronic Engineers
-
-IETF
-
-Internet Engineering Task Force (fournit des Request for Comments [RFC] sortes de standards Internet)
-
+    - Internet Engineering Task Force (fournit des Request for Comments [RFC] sortes de standards Internet)
+---
 IFRB
 
 International Frequency Registration Board

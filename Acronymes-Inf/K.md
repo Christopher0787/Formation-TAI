@@ -9,10 +9,10 @@
 
     - (ou Kb/s) Kilo-bits par seconde, Kilobits par seconde (Voir : Préfixes SI pour des multiples binaires)
 ---
-KDC
+## **KDC**
 
-Key Distribution Center
-
+    - Key Distribution Center
+---
 Ki
 
 kibi (préfixe), kilobinaire soit 2 puissance 10 (Voir : Préfixes SI pour des multiples binaires)

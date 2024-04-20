@@ -61,10 +61,10 @@
 
     - Form Feed (saut de page)
 ---
-FFT
+## **FFT**
 
-Fast Fourrier Transform (Transformée de Fourrier rapide)
-
+    - Fast Fourrier Transform (Transformée de Fourrier rapide)
+---
 FIF
 
 Fractal Image Format

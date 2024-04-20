@@ -33,14 +33,14 @@
 
     - gibi (préfixe), gigabinaire soit 2 puissance 30 (Voir : Préfixes SI pour des multiples binaires)
 ---
-Gib
+## **Gib**
 
-gibi-bit, 2 puissance 30 bits (Voir : Préfixes SI pour des multiples binaires)
+    - gibi-bit, 2 puissance 30 bits (Voir : Préfixes SI pour des multiples binaires)
+---
+## **GID**
 
-GID
-
-Group IDentifier
-
+    - Group IDentifier
+---
 GIF
 
 Graphics Interchange Format (format de transfert des graphiques)

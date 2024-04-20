@@ -177,22 +177,22 @@
 
     - Internet Service Provider, Internet service provider (ISP). Voir : FAI
 ---
-IT
+## **IT**
 
-Information Technology
+    - Information Technology
+---
+## **ITEA**
 
-ITEA
+    - Information Technology for European Advancement
+---
+## **ITSEC**
 
-Information Technology for European Advancement
+    - Information Technology Security Evaluation Criteria
+---
+## **ITU (UIT)**
 
-ITSEC
-
-Information Technology Security Evaluation Criteria
-
-ITU (UIT)
-
-International Telecommunications Union (Union Internationale des Télécommunications)
-
+    - International Telecommunications Union (Union Internationale des Télécommunications)
+---
 ITU-T
 
 International Telecommunications Union - Telecommunications (ex CCITT)

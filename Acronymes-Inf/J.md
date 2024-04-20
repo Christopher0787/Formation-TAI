@@ -9,10 +9,10 @@
 
     - Joint Electronic Payment Initiative
 ---
-JIT
+## **JIT**
 
-Just In Time.
-
+    - Just In Time.
+---
 JPEG
 
 Joint Photographics Expert Group (Groupe mixte d'experts en photographie)

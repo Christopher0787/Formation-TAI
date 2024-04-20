@@ -24,22 +24,22 @@
 
     - Error Correction Code
 ---
-ECL
+## **ECL**
 
-Emitter Coupled Logic
+    - Emitter Coupled Logic
+---
+## **E-Commerce**
 
-e-Commerce
+    - Electronic Commerce (Commerce électronique)
+---
+## **ECO-TIC**
 
-Electronic Commerce (Commerce électronique)
+    - écotechniques de l’information et de la communication
+---
+## **EDI**
 
-eco-TIC
-
-écotechniques de l’information et de la communication
-
-EDI
-
-Echange de Données Informatisé (Electronic Data Interchange)
-
+    - Echange de Données Informatisé (Electronic Data Interchange)
+---
 EDIFACT
 
 Electronic Data Interchange For Administration, Commerce and Transport

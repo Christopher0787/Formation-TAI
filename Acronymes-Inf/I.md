@@ -13,10 +13,10 @@
 
     - International Ad Hoc Committee
 ---
-IAP
+## **IAP**
 
-Internet access provider (IAP), Internet service provider (ISP). Voir : FAI
-
+    - Internet access provider (IAP), Internet service provider (ISP). Voir : FAI
+---
 IC
 
 Integrated Circuit (Circuit Intégré)

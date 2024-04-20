@@ -93,22 +93,22 @@
 
     -Flat Panel Display (Ecran plat)
 ---
-FPGA
+## **FPGA**
 
-Field Programmable Gate Array
+    -Field Programmable Gate Array
+---
+## **FPU**
 
-FPU
+    -Floating Point Unit
+---
+## **FQDN**
 
-Floating Point Unit
+    -Fully Qualified Domain Name
+---
+## **FRAC**
 
-FQDN
-
-Fully Qualified Domain Name
-
-FRAC
-
-Fonds Régionaux d'Aide au Conseil.
-
+    -Fonds Régionaux d'Aide au Conseil.
+---
 FRAD
 
 Frame Relay Access Device

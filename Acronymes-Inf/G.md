@@ -77,14 +77,14 @@
 
     - Giant Magneto,Resistive
 ---
-GMT
+## **GMT**
 
-Greenwich Mean Time
+    - Greenwich Mean Time
+---
+## **GOSIP**
 
-GOSIP
-
-Government OSI Profile
-
+    - Government OSI Profile
+---
 GPAO
 
 Gestion de Production Assistée par Ordinateur

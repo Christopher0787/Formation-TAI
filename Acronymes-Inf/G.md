@@ -121,6 +121,7 @@
 
     - Graphic User Interface
 --
-GUS
+## **GUS**
 
-Guide to the Use of Standar
+    - Guide to the Use of Standar
+---

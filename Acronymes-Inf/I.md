@@ -17,18 +17,18 @@
 
     - Internet access provider (IAP), Internet service provider (ISP). Voir : FAI
 ---
-IC
+## **IC**
 
-Integrated Circuit (Circuit Intégré)
+    - Integrated Circuit (Circuit Intégré)
+---
+## **ICMP**
 
-ICMP
+    - Internet Control Message Protocol
+---
+## **IDC**
 
-Internet Control Message Protocol
-
-IDC
-
-International Data Corporation
-
+    - International Data Corporation
+---
 IDE
 
 Integrated Drive Electronics

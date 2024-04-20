@@ -128,7 +128,8 @@
 ## **FTP**
 
     - File Transfer Protocol (protocole de transfert de fichiers)
----
-FTTC
+--
+## **FTTC**
 
-Fiber To The Curb
+    - Fiber To The Curb
+---

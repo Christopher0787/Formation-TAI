@@ -69,18 +69,18 @@
 
     - Interface Homme Machine
 ---
-IKE
+## **IKE**
 
-Internet Key Exchange
+    - Internet Key Exchange
+---
+## **IMAP**
 
-IMAP
+    -  Internet Message Access Protocol.
+---
+## **IMR**
 
-Internet Message Access Protocol.
-
-IMR
-
-Internet Monthly Reports
-
+    - Internet Monthly Reports
+---
 IN
 
 Input

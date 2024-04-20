@@ -129,26 +129,26 @@
 
     - Internet Relay Chat
 ---
-IRQ
+## **IRQ**
 
-Interrupt ReQuest
+    - Interrupt ReQuest
+---
+## **IRTF**
 
-IRTF
+    - Internet Research Task Force
+---
+## **ISA**
 
-Internet Research Task Force
+    - Industry Standard Architecture
+---
+## **ISAM**
 
-ISA
+    - Indexed Sequential Access Method
+---
+## **ISAPI**
 
-Industry Standard Architecture
-
-ISAM
-
-Indexed Sequential Access Method
-
-ISAPI
-
-Internet Server API
-
+    - Internet Server API
+---
 ISBN
 
 International Standard Book Number

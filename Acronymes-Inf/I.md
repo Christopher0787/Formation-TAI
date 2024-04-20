@@ -121,10 +121,10 @@
 
     - Internet Protocol SECurity
 ---
-IR
+## **IR**
 
-Infra-Red (Infra-Rouge)
-
+    - Infra-Red (Infra-Rouge)
+---
 IRC
 
 Internet Relay Chat

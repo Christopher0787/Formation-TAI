@@ -17,14 +17,14 @@
 
     - Link Access Protocol
 ---
-LASER
+## **LASER**
 
-Light Amplification by Stimulated Emission of Radiation
+    - Light Amplification by Stimulated Emission of Radiation
+---
+## **LAT**
 
-LAT
-
-Local Area Transport
-
+    - Local Area Transport
+---
 LATA
 
 Local Access Transport Area

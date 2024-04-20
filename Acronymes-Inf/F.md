@@ -89,10 +89,10 @@
 
     - FORmula TRANslator
 ---
-FPD
+## **FPD**
 
-Flat Panel Display (Ecran plat)
-
+    -Flat Panel Display (Ecran plat)
+---
 FPGA
 
 Field Programmable Gate Array

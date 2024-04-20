@@ -21,10 +21,10 @@
 
     - Handled Device Markup Language
 ---
-HF
+## **HF**
 
-Haute Fréquence (High Frequency)
-
+    - Haute Fréquence (High Frequency)
+---
 HFC
 
 Hybrid Fiber Coax

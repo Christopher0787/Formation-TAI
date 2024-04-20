@@ -69,10 +69,10 @@
 
     - Fractal Image Format
 ---
-FIFO
+## **FIFO**
 
-First In First Out
-
+    - First In First Out
+---
 FIRST
 
 Forum of Incident Response and Security Teams

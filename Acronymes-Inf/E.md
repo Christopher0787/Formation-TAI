@@ -68,22 +68,22 @@
 
     - Echange de Formulaires Informatisés.
 ---
-EFT
+## **EFT**
 
-Electronic Fund Transfer
+    - Electronic Fund Transfer
+---
+## **EGA**
 
-EGA
+    - Enhanced Graphic Adapter
+---
+## **EGP**
 
-Enhanced Graphic Adapter
+    - Exterior Gateway Protocol
+---
+## **Ei**
 
-EGP
-
-Exterior Gateway Protocol
-
-Ei
-
-exbi (préfixe), exabinaire soit 2 puissance 60
-
+    - exbi (préfixe), exabinaire soit 2 puissance 60
+---
 Eib
 
 exbi-bit, 2 puissance 60 bits

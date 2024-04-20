@@ -176,6 +176,7 @@
 
     - Equipement Terminal de Circuit de Données
 ---
-ETTD
+## **ETTD**
 
-Equipement Terminal de Transmission de Données
+    - Equipement Terminal de Transmission de Données
+---

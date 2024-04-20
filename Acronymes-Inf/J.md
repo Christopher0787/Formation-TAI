@@ -21,10 +21,10 @@
 
     - Joint Technical Committee
 ---
-JTM
+## **JTM**
 
-Job Transfert Management
-
+    - Job Transfert Management
+---
 JVM
 
 Java Virtual Machine

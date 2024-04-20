@@ -25,10 +25,10 @@
 
     - Haute Fréquence (High Frequency)
 ---
-HFC
+## **HFC**
 
-Hybrid Fiber Coax
-
+    - Hybrid Fiber Coax
+---
 HMA
 
 High Memory Area

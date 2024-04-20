@@ -9,10 +9,10 @@
 
     - Half-Duplex / Hard Disk / High Density
 ---
-HDC
+## **HDC**
 
-Hard Disk Controller / Hard Disk Drive
-
+    - Hard Disk Controller / Hard Disk Drive
+---
 HDLC
 
 High Level Data Link Control

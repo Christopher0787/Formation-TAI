@@ -107,23 +107,23 @@
 ## **E-mail**
 
     - Electronic-Mail
-
+---
 ## **EMF**
 
     - Enhanced MetaFile
+---
+## **EML**
 
-EML
+    - Electronic MaiL (extension)
+---
+## **EMS**
 
-Electronic MaiL (extension)
+    - Expanded Memory Specifications
+---
+## **EN**
 
-EMS
-
-Expanded Memory Specifications
-
-EN
-
-European Norm
-
+    -European Norm
+---
 ENS
 
 European Nervous System

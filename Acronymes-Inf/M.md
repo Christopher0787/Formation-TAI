@@ -9,10 +9,10 @@
 
     - Media Access Control / Message Authentication Code
 ---
-MAN
+## **MAN**
 
-Metropolitan Area Network
-
+    - Metropolitan Area Network
+---
 MAO
 
 Maintenance Assistée par Ordinateur / Musique Assistée par Ordinateur

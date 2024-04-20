@@ -89,18 +89,18 @@
 
     - Institut National de l'Audiovisuel
 ---
-INRIA
+## **INRIA**
 
-Institut National de la Recherche en Informatique et Automatique
+    - Institut National de la Recherche en Informatique et Automatique
+---
+## **INTERNIC**
 
-INTERNIC
+    - INTERNetwork Information Center
+---
+## **IP**
 
-INTERNetwork Information Center
-
-IP
-
-Internet Protocol
-
+    - Internet Protocol
+---
 IPv4
 
 Internet Protocol version 4

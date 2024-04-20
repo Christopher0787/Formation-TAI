@@ -8,22 +8,22 @@
 
     - Enseignement Assisté par Ordinateur
 ---
-EARN
+## **EARN**
 
-European Academic and Research Network.
+    - European Academic and Research Network.
+---
+## **EBCDIC**
 
-EBCDIC
+    - Extended Binary Coded Decimal Interchange Code
+---
+## **EBES**
 
-Extended Binary Coded Decimal Interchange Code
+    - European Board for EDI Standardization
+---
+## **ECC**
 
-EBES
-
-European Board for EDI Standardization
-
-ECC
-
-Error Correction Code
-
+    - Error Correction Code
+---
 ECL
 
 Emitter Coupled Logic

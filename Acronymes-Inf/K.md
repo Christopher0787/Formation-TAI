@@ -25,6 +25,7 @@
 
     - kibi-octet, kibioctet, 2 puissance 10 octets (Voir : Préfixes SI pour des multiples binaires)
 ---
-ko
+## **ko**
 
-kilo-octet, kilooctet, 10 puissance 3 octets (Voir : Préfixes SI pour des multiples binaires)
+    - kilo-octet, kilooctet, 10 puissance 3 octets (Voir : Préfixes SI pour des multiples binaires)
+---

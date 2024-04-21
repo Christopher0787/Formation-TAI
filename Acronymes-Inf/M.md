@@ -193,22 +193,22 @@
 
     - MultiProtocol Label Switching
 ---
-MPOA
+## **MPOA**
 
-Multi Protocol Over ATM
+    - Multi Protocol Over ATM
+---
+## **MPP**
 
-MPP
+    - Massively Parallel Processor
+---
+## **MPR**
 
-Massively Parallel Processor
+    - MultiProtocol Router
+---
+## **MRC**
 
-MPR
-
-MultiProtocol Router
-
-MRC
-
-Multiplexage par Répartition en Code (Voir CDM, code division multiplexing)
-
+    - Multiplexage par Répartition en Code (Voir CDM, code division multiplexing)
+---
 MRF
 
 Multiplexage par Répartition en Fréquence (Voir FDM, frequency division multiplexing)

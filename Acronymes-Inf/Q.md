@@ -13,10 +13,10 @@
 
     - Quick File Access
 ---
-QFD
+## **QFD**
 
-Quality Fonction Deployment.
-
+    - Quality Fonction Deployment.
+---
 QIC
 
 Quarter Inch Cartridge

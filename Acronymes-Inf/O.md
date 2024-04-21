@@ -57,10 +57,10 @@
 
     - Object Oriented
 ---
-OOP
+## **OOP**
 
-Object-Oriented Programming
-
+    - Object-Oriented Programming
+---
 ORB
 
 Object Request Broker

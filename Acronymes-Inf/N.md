@@ -45,14 +45,14 @@
 
     - NETwork Basic Input Output System
 ---
-NF
+## **NF**
 
-Norme Française
+    - Norme Française
+---
+## **NIC**
 
-NIC
-
-Network Information Center
-
+    - Network Information Center
+---
 NIC
 
 Network Interface Card

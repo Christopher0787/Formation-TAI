@@ -69,18 +69,18 @@
 
     - Personal Communication Network
 ---
-PCR
+## **PCR**
 
-Peak Cell Rate
+    - Peak Cell Rate
+---
+## **PDA**
 
-PDA
+    - Personal Digital Assistant (ADP, assistant électronique de poche)
+---
+## **PDF**
 
-Personal Digital Assistant (ADP, assistant électronique de poche)
-
-PDF
-
-Portable Document Format
-
+    - Portable Document Format
+---
 PDH
 
 Plesiochronous Digital Hierarchy

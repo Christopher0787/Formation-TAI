@@ -107,10 +107,10 @@
 
     - Nouvelles Technologies de l'Information et de la Communication
 ---
-NTP
+## **NTP**
 
-Network Time Protocol
-
+    - Network Time Protocol
+---
 NUMA
 
 Non-Uniform Memory Access

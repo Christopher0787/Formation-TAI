@@ -33,10 +33,10 @@
 
     - Network Device Interface Specification
 ---
-NET
+## **NET**
 
-Norme Européenne de Télécommunication
-
+    - Norme Européenne de Télécommunication
+---
 NetBEUI
 
 NetBios Extended User Interface

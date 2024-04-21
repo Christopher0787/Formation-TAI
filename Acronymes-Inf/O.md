@@ -25,10 +25,10 @@
 
     - Open Distributed Processing
 ---
-ODS
+## **ODS**
 
-Operational Data Store
-
+    - Operational Data Store
+---
 OEM
 
 Original Equipment Manufacturer

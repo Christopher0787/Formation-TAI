@@ -69,10 +69,10 @@
 
     - Operating System
 ---
-OSF
+## **OSF**
 
-Open Software Foundation
-
+    - Open Software Foundation
+---
 OSI
 
 Open System Interconnection (Voir ISO, Interconnection de Systèmes Ouverts)

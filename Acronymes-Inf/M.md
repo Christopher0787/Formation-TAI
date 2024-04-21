@@ -109,14 +109,14 @@
 
     - Modulation d'Impulsions en Durée (Voir PWM)
 ---
-MIDI
+## **MIDI**
 
-Musical Instrument Digital Interface
+    - Musical Instrument Digital Interface
+---
+## **MIL**
 
-MIL
-
-Modulation d'Impulsions en Largeur
-
+    - Modulation d'Impulsions en Largeur
+---
 MIME
 
 Multipurpose Internet Mail Extension (extension de courrier Internet à usage multiples)

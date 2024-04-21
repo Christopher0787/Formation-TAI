@@ -221,22 +221,22 @@
 
     - Multiplexage par Tépartition dans le Temps (Voir TDM)
 ---
-MSB
+## **MSB**
 
-Most Significant Bit (bit de poids le plust fort)
+    - Most Significant Bit (bit de poids le plust fort)
+---
+## **MTA**
 
-MTA
+    - Message Transfert Agent
+---
+## **MTBF**
 
-Message Transfert Agent
+    - Mean Time Between Failures (Temps moyen entre pannes)
+---
+## **MTS**
 
-MTBF
-
-Mean Time Between Failures (Temps moyen entre pannes)
-
-MTS
-
-Message Transfert System
-
+    - Message Transfert System
+---
 MTTF
 
 Mean Time To Failure

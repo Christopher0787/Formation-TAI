@@ -69,50 +69,50 @@
 
     - Request For Comments
 ---
-RFS
+## **RFS**
 
-Remote File System
+    - Remote File System
+---
+## **RGB**
 
-RGB
+    - Red Green Blue (RVB : Rouge, Vert, Bleu)
+---
+## **RIP**
 
-Red Green Blue (RVB : Rouge, Vert, Bleu)
+    - Raster Image Processing / Routing Information Protocol
+---
+## **RIPE**
 
-RIP
+    - Réseaux IP Européens
+---
+## **RISC**
 
-Raster Image Processing / Routing Information Protocol
+    - Reduced Instruction Set Computer (Processeur à jeu d'instructions réduit)
+---
+## **RJE**
 
-RIPE
+    - Remote Job Entry
+---
+## **RL**
 
-Réseaux IP Européens
+    - Réseau Local (Voir LAN)
+---
+## **RLE**
 
-RISC
+    - Réseau Local d'Entreprise / Run Lenght Encoded
+---
+## **RLI**
 
-Reduced Instruction Set Computer (Processeur à jeu d'instructions réduit)
+    - Réseau Local Industriel (LAN).
+---
+## **RLL**
 
-RJE
+    - Run Lenght Limited
+---
+## **RMI**
 
-Remote Job Entry
-
-RL
-
-Réseau Local (Voir LAN)
-
-RLE
-
-Réseau Local d'Entreprise / Run Lenght Encoded
-
-RLI
-
-Réseau Local Industriel (LAN).
-
-RLL
-
-Run Lenght Limited
-
-RMI
-
-Remote Method Invocation
-
+    - Remote Method Invocation
+---
 RMON
 
 Remote MONitoring

@@ -13,18 +13,18 @@
 
     - Packet Assembler Desassembler
 ---
-PAGSI
+## **PAGSI**
 
-Plan d'Action Gouvernemental pour la Société de l'Information
+    - Plan d'Action Gouvernemental pour la Société de l'Information
+---
+## **PAM**
 
-PAM
+    - Pulse Amplitude Modulation (Voir MIA) / Pluggable Authentication Modules
+---
+## **PAN**
 
-Pulse Amplitude Modulation (Voir MIA) / Pluggable Authentication Modules
-
-PAN
-
-Personal Area Network
-
+    - Personal Area Network
+---
 PAO
 
 Publication Assistée par Ordinateur (Desktop Publishing)

@@ -249,10 +249,10 @@
 
     - Mail User Agent
 ---
-MUD
+## **MUD**
 
-Multi User Dungeon.
-
+    - Multi User Dungeon.
+---
 MVS
 
 Multiple Virtual Storage

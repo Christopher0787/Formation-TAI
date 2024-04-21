@@ -241,10 +241,10 @@
 
     - Mean Time To Failure
 ---
-MTTR
+## **MTTR**
 
-Mean Time To Repair
-
+    - Mean Time To Repair
+---
 MUA
 
 Mail User Agent

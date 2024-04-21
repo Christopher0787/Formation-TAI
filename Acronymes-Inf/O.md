@@ -45,10 +45,10 @@
 
     - Object Linking and Embedding (liaison et incorporation d'objets)
 ---
-OLTP
+## **OLTP**
 
-On-Line Transaction Processing
-
+    - On-Line Transaction Processing
+---
 OMG
 
 Object Management Group

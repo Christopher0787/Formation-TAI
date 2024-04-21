@@ -201,30 +201,30 @@
 
     - Programmation Orientée Objets
 ---
-POP
+## **POP**
 
-Post Office Protocol
+    - Post Office Protocol
+---
+## **POS**
 
-POS
+    - Point of Sale (Terminal point de vente - TPV)
+---
+## **POSIX**
 
-Point of Sale (Terminal point de vente - TPV)
+    - Portable Operating System Interface for uniX
+---
+## **POTS**
 
-POSIX
+    - Plain Old Telephone Service
+---
+## **PPI**
 
-Portable Operating System Interface for uniX
+    - Points Per Inch (Points Par Pouce)
+---
+## **ppm**
 
-POTS
-
-Plain Old Telephone Service
-
-PPI
-
-Points Per Inch (Points Par Pouce)
-
-ppm
-
-Pages Par Minute / Pulse Position Modulation - PPM (Voir MIP)
-
+    - Pages Par Minute / Pulse Position Modulation - PPM (Voir MIP)
+---
 PPP
 
 Point to Point Protocol

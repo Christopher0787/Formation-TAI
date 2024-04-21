@@ -65,10 +65,10 @@
 
     - Object Request Broker
 ---
-OS
+## **OS**
 
-Operating System
-
+    - Operating System
+---
 OSF
 
 Open Software Foundation

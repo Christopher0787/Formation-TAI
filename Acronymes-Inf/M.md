@@ -81,10 +81,10 @@
 
     - Monochrome Graphics Adapter
 ---
-MHS
+## **MHS**
 
-Message Handling Sytem
-
+    - Message Handling Sytem
+---
 Mi
 
 mébi (préfixe), mégabinaire soit 2 puissance 20 (Voir : Préfixes SI pour des multiples binaires)

@@ -13,10 +13,10 @@
 
     - Network Address Translation
 ---
-NAU
+## **NAU**
 
-Network Addressable Unit
-
+    - Network Addressable Unit
+---
 NBP
 
 Name-Binding Protocol

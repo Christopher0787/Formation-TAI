@@ -121,102 +121,102 @@
 
     - Système Informatique d'Aide à la Décision.
 ---
-SIM
+## **SIM**
 
-Subscriber Identifier Module
+    - Subscriber Identifier Module
+---
+## **SIMD**
 
-SIMD
+    - Single Instruction Multiple Data
+---
+## **SIMM**
 
-Single Instruction Multiple Data
+    - Single In-line Memory Module
+---
+## **SIPP**
 
-SIMM
+    - Simple Internet Protocol Plus
+---
+## **SKIP**
 
-Single In-line Memory Module
+    - Simple Key-Management for Internet Protocol
+---
+## **SLA**
 
-SIPP
+    - Service Level Agreement
+---
+## **SLIP**
 
-Simple Internet Protocol Plus
+    - Serial Line Internet Protocol
+---
+## **SMART**
 
-SKIP
+    - Self-Monitoring Analysis and Reporting Technology
+---
+## **SMB**
 
-Simple Key-Management for Internet Protocol
+    - Server Message Block
+---
+## **SMC**
 
-SLA
+    - Sheet Moulding Compound.
+---
+## **SMD**
 
-Service Level Agreement
+    - Surface Mounted Device
 
-SLIP
+## **SMDS**
 
-Serial Line Internet Protocol
+    - Switched Multimegabit Data Service
+---
+## **SMI**
 
-SMART
+    - Structure of Management Information
+---
+## **SMIT**
 
-Self-Monitoring Analysis and Reporting Technology
+    - System Management Interface Tool
+---
+## **SMP**
 
-SMB
+    - Symetric MultiProcessing
+---
+## **SMS**
 
-Server Message Block
+    - Short Message Service (GSM)
+---
+## **SMTP**
 
-SMC
+    - Simple Mail Transfer Protocol (protocole de transfert de courrier simple)
+---
+## **SNA**
 
-Sheet Moulding Compound.
+    - System Network Architecture
+---
+## **SNMP**
 
-SMD
+    - Simple Network Management Protocol
+---
+## **SOA**
 
-Surface Mounted Device
+    - Start Of Authority
+---
+## **SOAP**
 
-SMDS
+    - Simple Object Access Protocol
+---
+## **SOHO**
 
-Switched Multimegabit Data Service
+    - Small Office Home Office
+---
+## **SONET**
 
-SMI
+    - Synchronous Optical NETwork
+---
+## **SPA**
 
-Structure of Management Information
-
-SMIT
-
-System Management Interface Tool
-
-SMP
-
-Symetric MultiProcessing
-
-SMS
-
-Short Message Service (GSM)
-
-SMTP
-
-Simple Mail Transfer Protocol (protocole de transfert de courrier simple)
-
-SNA
-
-System Network Architecture
-
-SNMP
-
-Simple Network Management Protocol
-
-SOA
-
-Start Of Authority
-
-SOAP
-
-Simple Object Access Protocol
-
-SOHO
-
-Small Office Home Office
-
-SONET
-
-Synchronous Optical NETwork
-
-SPA
-
-Software Publishers Association
-
+    - Software Publishers Association
+---
 SQC
 
 Statistical Quality Control.

@@ -29,46 +29,46 @@
 
     - Remise A Zéro
 ---
-RCS
+## **RCS**
 
-Revision Control System
+    - Revision Control System
+---
+## **RD**
 
-RD
+    - Receive Data
+---
+## **RDBMS**
 
-Receive Data
+    - Relational Data Base Management System
+---
+## **RDF**
 
-RDBMS
+    - Resource Description Framework
+---
+## **RDM**
 
-Relational Data Base Management System
+    - Resistance Des Matériaux.
+----
+## **RENATER**
 
-RDF
+    - REseau NAtional de télécommunications pour la Technologie, l'Enseignement et la Recherche
+---
+## **REPROM**
 
-Resource Description Framework
+    - Reprogrammable Erasable Read Only Memory
+---
+## **RET**
 
-RDM
+    - Resolution Enhancement Technology
+---
+## **RF**
 
-Resistance Des Matériaux.
+    - Radio frequency Channel (Canal radioélectrique)
+---
+## **RFC**
 
-RENATER
-
-REseau NAtional de télécommunications pour la Technologie, l'Enseignement et la Recherche
-
-REPROM
-
-Reprogrammable Erasable Read Only Memory
-
-RET
-
-Resolution Enhancement Technology
-
-RF
-
-Radiofrequency Channel (Canal radioélectrique)
-
-RFC
-
-Request For Comments
-
+    - Request For Comments
+---
 RFS
 
 Remote File System

@@ -43,18 +43,18 @@
 
     - Port Address Translation
 ---
-PAVI
+## **PAVI**
 
-point d'accès vidéotex
+    - point d'accès vidéotex
+---
+## **PC**
 
-PC
+    - Personal Computer (Ordinateur personnel)
+---
+## **PCB**
 
-Personal Computer (Ordinateur personnel)
-
-PCB
-
-Printed Circuit Board (Circuit imprimé)
-
+    - Printed Circuit Board (Circuit imprimé)
+---
 PCM
 
 Pulse Code Modulation (Voir MIC)

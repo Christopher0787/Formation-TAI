@@ -49,10 +49,10 @@
 
     - On-Line Transaction Processing
 ---
-OMG
+## **OMG**
 
-Object Management Group
-
+    - Object Management Group
+---
 OO
 
 Object Oriented

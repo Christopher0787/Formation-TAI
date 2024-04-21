@@ -77,10 +77,10 @@
 
     - Modified Frequency Modulation
 ---
-MGA
+## **MGA**
 
-Monochrome Graphics Adapter
-
+    - Monochrome Graphics Adapter
+---
 MHS
 
 Message Handling Sytem

@@ -237,10 +237,10 @@
 
     - Message Transfert System
 ---
-MTTF
+## **MTTF**
 
-Mean Time To Failure
-
+    - Mean Time To Failure
+---
 MTTR
 
 Mean Time To Repair

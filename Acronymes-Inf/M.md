@@ -117,34 +117,34 @@
 
     - Modulation d'Impulsions en Largeur
 ---
-MIME
+## **MIME**
 
-Multipurpose Internet Mail Extension (extension de courrier Internet à usage multiples)
+    - Multipurpose Internet Mail Extension (extension de courrier Internet à usage multiples)
+---
+## **Mio**
 
-Mio
+    - mébi-octet, 2 puissance 20 octets
+---
+## **MIP**
 
-mébi-octet, 2 puissance 20 octets
+    - Modulation d'Impulsions en Position (Voir PPM)
+---
+## **MIPS**
 
-MIP
+    - Million Instructions Per Second (Millions d'Instructions Par Seconde)
+---
+## **MIT**
 
-Modulation d'Impulsions en Position (Voir PPM)
+    - Massachusetts Institute of Technology.
+---
+## **MLIS**
 
-MIPS
+    - MultiLingual Information Society.
+---
+## **MLS**
 
-Million Instructions Per Second (Millions d'Instructions Par Seconde)
-
-MIT
-
-Massachusetts Institute of Technology.
-
-MLIS
-
-MultiLingual Information Society.
-
-MLS
-
-Multi-Level Security
-
+    - Multi-Level Security
+---
 MMX
 
 MultiMedia eXtensions

@@ -225,34 +225,34 @@
 
     - Pages Par Minute / Pulse Position Modulation - PPM (Voir MIP)
 ---
-PPP
+## **PPP**
 
-Point to Point Protocol
+    - Point to Point Protocol
+---
+## **PPPoE**
 
-PPPoE
+    - Point to Point Protocol over Ethernet
+---
+## **PPTP**
 
-Point to Point Protocol over Ethernet
+    - Point-to-Point Tunneling Protocol
+---
+## **PRI**
 
-PPTP
+    - Primary Rate Interface
+---
+## **PRMD**
 
-Point-to-Point Tunneling Protocol
+    - Private Management Domain
+---
+## **PROGICIEL**
 
-PRI
+    - PROduit loGICIEL
+---
+## **PROM**
 
-Primary Rate Interface
-
-PRMD
-
-Private Management Domain
-
-PROGICIEL
-
-PROduit loGICIEL
-
-PROM
-
-Programmable Read Only Memory (Mémoire morte programmable)
-
+    - Programmable Read Only Memory (Mémoire morte programmable)
+---
 PRTSC
 
 PRinT Screen (impression d'écran)

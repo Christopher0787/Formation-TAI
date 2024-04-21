@@ -113,42 +113,42 @@
 
     - Remote Method Invocation
 ---
-RMON
+## **RMON**
 
-Remote MONitoring
+    - Remote MONitoring
+---
+## **RMS**
 
-RMS
+    - Root Mean Square
+---
+## **RMU**
 
-Root Mean Square
+    - Radiomessagerie unilatérale
+---
+## **RNA**
 
-RMU
+    - Raccordement Numérique Asymétrique (ADSL)
+---
+## **RNI**
 
-Radiomessagerie unilatérale
+    - Réseau National d'Interconnexion (Renater)
+---
+## **RNIS**
 
-RNA
+    - Réseau Numérique à Intégration de Services
 
-Raccordement Numérique Asymétrique (ADSL)
+## **RNRT**
 
-RNI
+    - Réseau National de Recherche en Télécommunications
+---
+## **ROC**
 
-Réseau National d'Interconnexion (Renater)
+    - Reconnaissance Optique de Caractères
+---
+## **ROM**
 
-RNIS
-
-Réseau Numérique à Intégration de Services
-
-RNRT
-
-Réseau National de Recherche en Télécommunications
-
-ROC
-
-Reconnaissance Optique de Caractères
-
-ROM
-
-Read Only Memory (mémoire morte)
-
+    - Read Only Memory (mémoire morte)
+---
 ROS
 
 Rapport d'Onde Stationnaire (Voir SWR)

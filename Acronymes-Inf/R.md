@@ -9,10 +9,10 @@
 
     - Redundant Array of Inexpensive Disks
 ---
-RAM
+## **RAM**
 
-Random Access Memory (mémoire à accès aléatoire, mémoire vive)
-
+    - Random Access Memory (mémoire à accès aléatoire, mémoire vive)
+---
 RAMDAC
 
 Ram Digital Analogic Converter.

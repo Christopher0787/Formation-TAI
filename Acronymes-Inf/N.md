@@ -67,18 +67,18 @@
 
     - National Information Infrastructure
 ---
-NMI
+## **NMI**
 
-Non Maskable Interrupt
+    - Non Maskable Interrupt
+---
+## **NNTP**
 
-NNTP
+    - Network News Transport Protocol (protocole de transport de nouvelles en réseau)
+---
+## **NOS**
 
-Network News Transport Protocol (protocole de transport de nouvelles en réseau)
-
-NOS
-
-Network Operating System
-
+    - Network Operating System
+---
 NREN
 
 National Research and Education Network

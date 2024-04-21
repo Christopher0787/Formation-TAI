@@ -149,46 +149,46 @@
 
     - Read Only Memory (mémoire morte)
 ---
-ROS
+## **ROS**
 
-Rapport d'Onde Stationnaire (Voir SWR)
+    - Rapport d'Onde Stationnaire (Voir SWR)
+---
+## **RPC**
 
-RPC
+    - Remote Procedure Call
+---
+## **rpm**
 
-Remote Procedure Call
+    - Revolutions Per Minute (TPM, tours par minute)
+---
+## **RS-232**
 
-rpm
+    - Recommended Standard 232 (Norme de transmission série)
+---
+## **RSA**
 
-Revolutions Per Minute (TPM, tours par minute)
+    - Rivest Shamir Adleman (Algorithme de chiffrement)
+---
+## **RSVA**
 
-RS-232
+    - Réseaux de Services à Valeur Ajoutée
+---
+## **RSVP**
 
-Recommended Standard 232 (Norme de transmission série)
+    - Resource reSerVation Protocol
+---
+## **RTC**
 
-RSA
+    - Réseau Téléphonique Commuté (public switched telephone network, PSTN)
+---
+## **RTCP**
 
-Rivest Shamir Adleman (Algorithme de chiffrement)
+    - Real Time Control Protocol
+---
+## **RTF**
 
-RSVA
-
-Réseaux de Services à Valeur Ajoutée
-
-RSVP
-
-Resource reSerVation Protocol
-
-RTC
-
-Réseau Téléphonique Commuté (public switched telephone network, PSTN)
-
-RTCP
-
-Real Time Control Protocol
-
-RTF
-
-Rich Text Format
-
+    - Rich Text Format
+---
 RTMP
 
 Routing Table Maintenance Protocol

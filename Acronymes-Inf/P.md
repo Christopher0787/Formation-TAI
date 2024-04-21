@@ -185,22 +185,22 @@
 
     - Programmable Logic Device (réseau logique programmable)
 ---
-PLL
+## **PLL**
 
-Phase Locked Loop (Boucle à verrouillage de phase)
+    - Phase Locked Loop (Boucle à verrouillage de phase)
+---
+## **PNG**
 
-PNG
+    - Portable Network Graphics (Format d'image compressé)
+---
+## **PNP**
 
-Portable Network Graphics (Format d'image compressé)
+    - Positive-Negative-Positive
+---
+## **POO**
 
-PNP
-
-Positive-Negative-Positive
-
-POO
-
-Programmation Orientée Objets
-
+    - Programmation Orientée Objets
+---
 POP
 
 Post Office Protocol

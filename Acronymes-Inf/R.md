@@ -13,22 +13,22 @@
 
     - Random Access Memory (mémoire à accès aléatoire, mémoire vive)
 ---
-RAMDAC
+## **RAMDAC**
 
-Ram Digital Analogic Converter.
+    - Ram Digital Analogic Converter.
+---
+## **RARE**
 
-RARE
+    - Réseaux Associés pour la Recherche Européenne
+---
+## **RARP**
 
-Réseaux Associés pour la Recherche Européenne
+    - Reverse Address Resolution Protocol
+---
+## **RAZ**
 
-RARP
-
-Reverse Address Resolution Protocol
-
-RAZ
-
-Remise A Zéro
-
+    - Remise A Zéro
+---
 RCS
 
 Revision Control System

@@ -189,22 +189,23 @@
 
     - Rich Text Format
 ---
-RTMP
+## **RTMP**
 
-Routing Table Maintenance Protocol
+    - Routing Table Maintenance Protocol
+---
+## **RTS**
 
-RTS
+    - Request To Send
+---
+## **RTSP**
 
-Request To Send
+    - Real Time Streaming Protocol
+---
+## **RVA**
 
-RTSP
+    - Réseau à Valeur Ajoutée (value added network, VAN)
+---
+## **RVB**
 
-Real Time Streaming Protocol
-
-RVA
-
-Réseau à Valeur Ajoutée (value added network, VAN)
-
-RVB
-
-Rouge Vert Bleu
+    - Rouge Vert Bleu
+---

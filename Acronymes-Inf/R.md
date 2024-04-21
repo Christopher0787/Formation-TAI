@@ -5,10 +5,10 @@
 
     - Rapid Application Development
 ---
-RAID
+## **RAID**
 
-Redundant Array of Inexpensive Disks
-
+    - Redundant Array of Inexpensive Disks
+---
 RAM
 
 Random Access Memory (mémoire à accès aléatoire, mémoire vive)

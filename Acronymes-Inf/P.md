@@ -149,42 +149,42 @@
 
     - Platform for Internet Content Selection
 ---
-PID
+## **PID**
 
-Proportionnel Intégral Dérivé.
+    - Proportionnel Intégral Dérivé.
+---
+## **PIM**
 
-PIM
+    - Personal Information Manager
+---
+## **PIN**
 
-Personal Information Manager
+    - Personal Identification Number
+---
+## **Pio**
 
-PIN
+    - pébi-octet, 2 puissance 50 octets
+---
+## **Pixel**
 
-Personal Identification Number
+    - Picture ELement (Pixel)
+---
+## **PKI**
 
-Pio
+    - Public Key Infrastructure
+---
+## **PLA**
 
-pébi-octet, 2 puissance 50 octets
+    - Programmable Logic Array (réseau logique programmable)
+---
+## **PLC**
 
-Pixel
+    - Programmable Logic Controller
+---
+## **PLD**
 
-Picture ELement (Pixel)
-
-PKI
-
-Public Key Infrastructure
-
-PLA
-
-Programmable Logic Array (réseau logique programmable)
-
-PLC
-
-Programmable Logic Controller
-
-PLD
-
-Programmable Logic Device (réseau logique programmable)
-
+    - Programmable Logic Device (réseau logique programmable)
+---
 PLL
 
 Phase Locked Loop (Boucle à verrouillage de phase)

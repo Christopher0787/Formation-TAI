@@ -245,10 +245,10 @@
 
     - Mean Time To Repair
 ---
-MUA
+## **MUA**
 
-Mail User Agent
-
+    - Mail User Agent
+---
 MUD
 
 Multi User Dungeon.

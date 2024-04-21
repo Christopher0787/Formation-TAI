@@ -5,50 +5,50 @@
 
     - Signaling ATM Adaptation Layer
 ---
-SAC
+## **SAC**
 
-Single Attachment Concentrator
+    - Single Attachment Concentrator
+---
+## **SACEM**
 
-SACEM
+    - Société des Auteurs Compositeurs et Editeurs de Musique
+---
+## **SAFIR**
 
-Société des Auteurs Compositeurs et Editeurs de Musique
+    - Service ATM Fédérateur et d'Interconnexion de Renater
+---
+## **SAP**
 
-SAFIR
+    - Service Access Point
+---
+## **SAS**
 
-Service ATM Fédérateur et d'Interconnexion de Renater
+    - Single Attachment Station
+---
+## **SC**
 
-SAP
+    - Sub-Commitee (Sous-Comité ISO)
+---
+## **SCI**
 
-Service Access Point
+    - Scalable Coherent Interface
+---
+## **SCM**
 
-SAS
+    - Supply Chain Management
+---
+## **SCSI**
 
-Single Attachment Station
+    - Small Computer System Interface
+---
+## **SCSSI**
 
-SC
+    - Service Central de la Sécurité des Systèmes d’Information
+---
+## **SDA**
 
-Sub-Commitee (Sous-Comité ISO)
-
-SCI
-
-Scalable Coherent Interface
-
-SCM
-
-Supply Chain Management
-
-SCSI
-
-Small Computer System Interface
-
-SCSSI
-
-Service Central de la Sécurité des Systèmes d’Information
-
-SDA
-
-Sélection directe à l'arrivée
-
+    - Sélection directe à l'arrivée
+---
 SDH
 
 Synchronous Digital Hierarchy (Hiérarchie numérique synchrone)

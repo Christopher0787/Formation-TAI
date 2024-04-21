@@ -173,26 +173,26 @@
 
     - Maintenance Operation Protocol
 ---
-MOS
+## **MOS**
 
-Metal Oxide Semiconductor
+    - Metal Oxide Semiconductor
+---
+## **MOSFET**
 
-MOSFET
+    - Metal Oxide Semiconductor Field Effect Transistor
+---
+## **MP3**
 
-Metal Oxide Semiconductor Field Effect Transistor
+    - MPEG Layer 3
+---
+## **MPEG**
 
-MP3
+    - Moving Picture Expert Group
+---
+## **MPLS**
 
-MPEG Layer 3
-
-MPEG
-
-Moving Picture Expert Group
-
-MPLS
-
-MultiProtocol Label Switching
-
+    - MultiProtocol Label Switching
+---
 MPOA
 
 Multi Protocol Over ATM

@@ -55,18 +55,18 @@
 
     - Network Interface Card
 ---
-NICAM
+## **NICAM**
 
-Near Instantaneous Compounded Audio Multiplex
+    - Near Instantaneous Compounded Audio Multiplex
+---
+## **Ni-Cd**
 
-Ni-Cd
+    - Nickel-Cadmium
+---
+## **NII**
 
-Nickel-Cadmium
-
-NII
-
-National Information Infrastructure
-
+    - National Information Infrastructure
+---
 NMI
 
 Non Maskable Interrupt

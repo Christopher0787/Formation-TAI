@@ -111,6 +111,7 @@
 
     - Network Time Protocol
 ---
-NUMA
+## **NUMA**
 
-Non-Uniform Memory Access
+    - Non-Uniform Memory Access
+---

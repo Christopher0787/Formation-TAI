@@ -103,10 +103,10 @@
 
     - Nœud de Transit International
 ---
-NTIC
+## **NTIC**
 
-Nouvelles Technologies de l'Information et de la Communication
-
+    - Nouvelles Technologies de l'Information et de la Communication
+---
 NTP
 
 Network Time Protocol

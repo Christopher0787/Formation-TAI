@@ -52,11 +52,9 @@
 ## **NIC**
 
     - Network Information Center
+
+    - Network Interface Card
 ---
-NIC
-
-Network Interface Card
-
 NICAM
 
 Near Instantaneous Compounded Audio Multiplex

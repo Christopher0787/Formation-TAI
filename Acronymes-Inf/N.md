@@ -91,18 +91,18 @@
 
     - Non Return to Zero Inverted
 ---
-NSAP
+## **NSAP**
 
-Network Service Access Point
+    - Network Service Access Point
+---
+## **NSP**
 
-NSP
+    - Native Signal Processing
+---
+## **NTI**
 
-Native Signal Processing
-
-NTI
-
-Nœud de Transit International
-
+    - Nœud de Transit International
+---
 NTIC
 
 Nouvelles Technologies de l'Information et de la Communication

@@ -129,26 +129,26 @@
 
     - Pretty Good Privacy
 ---
-PHA
+## **PHA**
 
-Plateforme à Haute Altitude (Voir HAP, high altitude platform)
+    - Plateforme à Haute Altitude (Voir HAP, high altitude platform)
+---
+## **PHIGS**
 
-PHIGS
+    - Programers Hierarchical Interactive Graphics System
+---
+## **Pi**
 
-Programers Hierarchical Interactive Graphics System
+    - pébi (préfixe), pétabinaire soit 2 puissance 50
+---
+## **Pib**
 
-Pi
+    - pébi-bit, 2 puissance 50 bits
+---
+## **PICS**
 
-pébi (préfixe), pétabinaire soit 2 puissance 50
-
-Pib
-
-pébi-bit, 2 puissance 50 bits
-
-PICS
-
-Platform for Internet Content Selection
-
+    - Platform for Internet Content Selection
+---
 PID
 
 Proportionnel Intégral Dérivé.

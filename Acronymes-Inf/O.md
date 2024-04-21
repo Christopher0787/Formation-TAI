@@ -73,10 +73,10 @@
 
     - Open Software Foundation
 ---
-OSI
+## **OSI**
 
-Open System Interconnection (Voir ISO, Interconnection de Systèmes Ouverts)
-
+    - Open System Interconnection (Voir ISO, Interconnection de Systèmes Ouverts)
+---
 OTP
 
 One-Time Password

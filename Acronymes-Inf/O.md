@@ -77,6 +77,7 @@
 
     - Open System Interconnection (Voir ISO, Interconnection de Systèmes Ouverts)
 ---
-OTP
+## **OTP**
 
-One-Time Password
+    - One-Time Password
+---

@@ -97,18 +97,18 @@
 
     - Management Information Base
 ---
-Mib
+## **Mib**
 
-mébi-bit, 2 puissance 20 bits (Voir : Préfixes SI pour des multiples binaires)
+    - mébi-bit, 2 puissance 20 bits (Voir : Préfixes SI pour des multiples binaires)
 
-MIC
+## **MIC**
 
-MICrophone / Modulation par Impulsions et Codage (Voir PCM)
+    - MICrophone / Modulation par Impulsions et Codage (Voir PCM)
+---
+## **MID**
 
-MID
-
-Modulation d'Impulsions en Durée (Voir PWM)
-
+    - Modulation d'Impulsions en Durée (Voir PWM)
+---
 MIDI
 
 Musical Instrument Digital Interface

@@ -33,10 +33,10 @@
 
     - Original Equipment Manufacturer
 ---
-OIT
+## **OIT**
 
-Organisation Internationale du Travail.
-
+    - Organisation Internationale du Travail.
+---
 OLAP
 
 On-Line Analytical Processing

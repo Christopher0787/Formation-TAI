@@ -49,78 +49,78 @@
 
     - Sélection directe à l'arrivée
 ---
-SDH
+## **SDH**
 
-Synchronous Digital Hierarchy (Hiérarchie numérique synchrone)
+    - Synchronous Digital Hierarchy (Hiérarchie numérique synchrone)
+---
+## **SDI**
 
-SDI
+    - Schéma Directeur Informatique
+---
+## **SDLC**
 
-Schéma Directeur Informatique
+    - Synchronous Data Link Control
+---
+## **SDRAM**
 
-SDLC
+    - Synchronous Dynamic RAM
+---
+## **SDSL**
 
-Synchronous Data Link Control
+    - Single-Line Digital Subsriber Line
+---
+## **SDU**
 
-SDRAM
+    - Service Data Unit
+---
+## **SET**
 
-Synchronous Dynamic RAM
+    - Secure Electronic Transaction
+---
+## **SFINX**
 
-SDSL
+    - Service for French Internet EXchange
+---
+## **SFT**
 
-Single-Line Digital Subsriber Line
+    - System Fault Tolerance (Système à tolérance de pannes)
+---
+## **SGBD**
 
-SDU
+    - Système de Gestion de Base de Données (Data Base Management System)
+---
+## **SGBDOO**
 
-Service Data Unit
+    - Système de Gestion de Base de Données Orienté Objet.
+---
+## **SGBDR**
 
-SET
+    - Système de Gestion de Base de Données Relationnel
+---
+## **SGDT**
 
-Secure Electronic Transaction
+    - Système de Gestion de Données Techniques.
+---
+## **SGML**
 
-SFINX
+    - Standard Generalized Markup Language (langage standard généralisé de balisage)
+---
+## **SHTTP**
 
-Service for French Internet EXchange
+    - Secure HTTP
+---
+## **SI**
 
-SFT
+    - Système d'Information
+---
+## **SI**
 
-System Fault Tolerance (Système à tolérance de pannes)
+    - Système International d'unités
+---
+## **SIAD**
 
-SGBD
-
-Système de Gestion de Base de Données (Data Base Management System)
-
-SGBDOO
-
-Système de Gestion de Base de Données Orienté Objet.
-
-SGBDR
-
-Système de Gestion de Base de Données Relationnel
-
-SGDT
-
-Système de Gestion de Données Techniques.
-
-SGML
-
-Standard Generalized Markup Language (langage standard généralisé de balisage)
-
-SHTTP
-
-Secure HTTP
-
-SI
-
-Système d'Information
-
-SI
-
-Système International d'unités
-
-SIAD
-
-Système Informatique d'Aide à la Décision.
-
+    - Système Informatique d'Aide à la Décision.
+---
 SIM
 
 Subscriber Identifier Module

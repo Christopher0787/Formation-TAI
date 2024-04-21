@@ -9,6 +9,7 @@
 
     - yobi-bit, 2 puissance 80 bits
 ---
-Yio
+## **Yio**
 
-yobi-octet, 2 puissance 80 octets
+    - yobi-octet, 2 puissance 80 octets
+---

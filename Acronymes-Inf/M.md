@@ -93,10 +93,10 @@
 
     - Modulation d'Impulsions en Amplitude (Voir PAM)
 ---
-MIB
+## **MIB**
 
-Management Information Base
-
+    - Management Information Base
+---
 Mib
 
 mébi-bit, 2 puissance 20 bits (Voir : Préfixes SI pour des multiples binaires)

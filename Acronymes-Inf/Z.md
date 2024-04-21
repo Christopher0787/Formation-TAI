@@ -9,10 +9,10 @@
 
     - zébi-bit, 2 puissance 70 bits
 ---
-Zio
+## **Zio**
 
-zébi-octet, 2 puissance 70 octets
-
+    - zébi-octet, 2 puissance 70 octets
+---
 ZIP
 
 Zone Information Protocol

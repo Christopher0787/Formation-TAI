@@ -53,10 +53,10 @@
 
     - Object Management Group
 ---
-OO
+## **OO**
 
-Object Oriented
-
+    - Object Oriented
+---
 OOP
 
 Object-Oriented Programming

@@ -97,38 +97,38 @@
 
     - Premises Distribution System
 ---
-PDU
+## **PDU**
 
-Protocol Data Unit
+    - Protocol Data Unit
+---
+## **PEM**
 
-PEM
+    - Privacy Enhanced Mail
+---
+## **PEP**
 
-Privacy Enhanced Mail
+    - Protocol Extension Protocol
+---
+## **PERL**
 
-PEP
+    - Practical Extraction and Report Language
+---
+## **PERT**
 
-Protocol Extension Protocol
+    - Program Evaluation and Review Technics
+---
+## **PGI**
 
-PERL
+    - Progiciel de Gestion Intégré (ERP en anglais)
+---
+## **PGML**
 
-Practical Extraction and Report Language
+    - Precision Graphics Markup Language
+---
+## **PGP**
 
-PERT
-
-Program Evaluation and Review Technics
-
-PGI
-
-Progiciel de Gestion Intégré (ERP en anglais)
-
-PGML
-
-Precision Graphics Markup Language
-
-PGP
-
-Pretty Good Privacy
-
+    - Pretty Good Privacy
+---
 PHA
 
 Plateforme à Haute Altitude (Voir HAP, high altitude platform)

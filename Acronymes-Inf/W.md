@@ -21,58 +21,59 @@
 
     - Wide Area Network
 ---
-WAP
+## **WAP**
 
-Wireless Application Protocol
+    - Wireless Application Protocol
+---
+## **WDM**
 
-WDM
+    - Wavelength Division Multiplexing
+---
+## **WEP**
 
-Wavelength Division Multiplexing
+    - Wire Equivalent Privacy
+---
+## **Wi-Fi**
 
-WEP
+    - Wireless Fidelity
+---
+## **WIPO**
 
-Wire Equivalent Privacy
+    - World Intellectual Property Organization
+---
+## **WLAN**
 
-Wi-Fi
+    - Wireless LAN
+---
+## **WLL**
 
-Wireless Fidelity
+    - Wireless Local Loop
+---
+## **WML**
 
-WIPO
+    - Wireless Markup Language
+---
+## **WORM**
 
-World Intellectual Property Organization
+    - Write Once Read Many
+---
+## **WSDL**
 
-WLAN
+    - Web Services Description Language
+---
+## **WSP**
 
-Wireless LAN
+    - Wireless Session Protocol
+---
+## **WTO**
 
-WLL
+    - World Trade Organisation
+---
+## **WWW**
 
-Wireless Local Loop
+    - World Wide Web (toile d'araignée mondiale)
+---
+## **WYSIWYG**
 
-WML
-
-Wireless Markup Language
-
-WORM
-
-Write Once Read Many
-
-WSDL
-
-Web Services Description Language
-
-WSP
-
-Wireless Session Protocol
-
-WTO
-
-World Trade Organisation
-
-WWW
-
-World Wide Web (toile d'araignée mondiale)
-
-WYSIWYG
-
-What You See Is What You Get
+    - What You See Is What You Get
+---

@@ -5,10 +5,10 @@
 
     - Query By Example
 ---
-QEMM
+## **QEMM**
 
-Quarterdeck Expanded Memory Manager
-
+    - Quarterdeck Expanded Memory Manager
+---
 QFA
 
 Quick File Access

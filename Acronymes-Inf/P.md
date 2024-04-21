@@ -253,34 +253,35 @@
 
     - Programmable Read Only Memory (Mémoire morte programmable)
 ---
-PRTSC
+## **PRTSC**
 
-PRinT Screen (impression d'écran)
+    - PRinT Screen (impression d'écran)
+---
+## **PSDN**
 
-PSDN
+    - Packed-Switched Data Network
+---
+## **PSO**
 
-Packed-Switched Data Network
+    - Protocol Supporting Organization
+---
+## **PSTN**
 
-PSO
+    - Public Switched Telephone Network (Réseau téléphonique commuté - RTC)
+---
+## **PTO**
 
-Protocol Supporting Organization
+    - Public Telecommunications Operator
+---
+## **PUP**
 
-PSTN
+    - Parc Universal Packet (protocole)
+---
+## **PVC**
 
-Public Switched Telephone Network (Réseau téléphonique commuté - RTC)
+    - Permanent Virtual Circuit (Circuit virtuel permanent)
+---
+## **PWM**
 
-PTO
-
-Public Telecommunications Operator
-
-PUP
-
-Parc Universal Packet (protocole)
-
-PVC
-
-Permanent Virtual Circuit (Circuit virtuel permanent)
-
-PWM
-
-Pulse With Modulation (MID, modulation d'impulsions en durée)
+    - Pulse With Modulation (MID, modulation d'impulsions en durée)
+---

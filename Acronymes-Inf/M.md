@@ -69,14 +69,14 @@
 
     - Millions Floating Point Operations Per Second
 ---
-Mflops
+## **Mflops**
 
-megaflops (Voir flops)
+    - megaflops (Voir flops)
+---
+## **MFM**
 
-MFM
-
-Modified Frequency Modulation
-
+    - Modified Frequency Modulation
+---
 MGA
 
 Monochrome Graphics Adapter

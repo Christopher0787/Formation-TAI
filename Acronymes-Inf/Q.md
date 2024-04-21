@@ -17,10 +17,10 @@
 
     - Quality Fonction Deployment.
 ---
-QIC
+## **QIC**
 
-Quarter Inch Cartridge
-
+    - Quarter Inch Cartridge
+---
 QoS
 
 Quality of Service (Qualité de service)

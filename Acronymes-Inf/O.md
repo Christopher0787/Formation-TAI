@@ -5,10 +5,10 @@
 
     - Optical Character Recognition (reconnaissance optique de caractères)
 ---
-ODA
+## **ODA**
 
-Open Document Architecture
-
+    - Open Document Architecture
+---
 ODBC
 
 Open DataBase Connectivity

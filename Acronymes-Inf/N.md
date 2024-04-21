@@ -37,14 +37,14 @@
 
     - Norme Européenne de Télécommunication
 ---
-NetBEUI
+## **NetBEUI**
 
-NetBios Extended User Interface
+    - NetBios Extended User Interface
+---
+## **NETBIOS**
 
-NETBIOS
-
-NETwork Basic Input Output System
-
+    - NETwork Basic Input Output System
+---
 NF
 
 Norme Française

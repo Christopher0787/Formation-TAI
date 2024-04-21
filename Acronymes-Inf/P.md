@@ -5,10 +5,10 @@
 
     - Platform for Privacy Preference Project
 ---
-PABX
+## **PABX**
 
-Private Automatic Branch eXchange (Autocommutateur privé)
-
+    - Private Automatic Branch eXchange (Autocommutateur privé)
+---
 PAD
 
 Packet Assembler Desassembler

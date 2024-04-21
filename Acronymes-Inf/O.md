@@ -37,10 +37,10 @@
 
     - Organisation Internationale du Travail.
 ---
-OLAP
+## **OLAP**
 
-On-Line Analytical Processing
-
+    - On-Line Analytical Processing
+---
 OLE
 
 Object Linking and Embedding (liaison et incorporation d'objets)

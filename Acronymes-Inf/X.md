@@ -5,10 +5,10 @@
 
     - eXternal Data Representation
 ---
-xDSL
+## **xDSL**
 
-xDigital Subscriber Line
-
+    - xDigital Subscriber Line
+---
 XGA
 
 eXtended graphics adapter

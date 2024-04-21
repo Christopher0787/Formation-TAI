@@ -217,50 +217,51 @@
 
     - Software Publishers Association
 ---
-SQC
+## **SQC**
 
-Statistical Quality Control.
+    - Statistical Quality Control.
+---
+## **SQL**
 
-SQL
+    - Structured Query Language (langage de requête structuré)
+---
+## **SSA**
 
-Structured Query Language (langage de requête structuré)
+    - Serial Storage Architecture
+---
+## **SSCI**
 
-SSA
+    - Société de Service et de Conseil en Informatique
+---
+## **SSII**
 
-Serial Storage Architecture
+    - Société de Services et Ingénierie Informatique
+---
+## **SSL**
 
-SSCI
+    - Secure Socket Layer
+---
+## **STM**
 
-Société de Service et de Conseil en Informatique
+    - Synchronous Transfer Mode
+---
+## **STP**
 
-SSII
+    - Shielded Twisted Pair
+---
+## **STX**
 
-Société de Services et Ingénierie Informatique
+    - Start of TeXt
+---
+## **SVC**
 
-SSL
+    - Switched Virtual Circuit (Circuit virtuel commuté)
+---
+## **SVGA**
 
-Secure Socket Layer
+    - Super Video Graphic Array
+---
+## **SWR**
 
-STM
-
-Synchronous Transfer Mode
-
-STP
-
-Shielded Twisted Pair
-
-STX
-
-Start of TeXt
-
-SVC
-
-Switched Virtual Circuit (Circuit virtuel commuté)
-
-SVGA
-
-Super Video Graphic Array
-
-SWR
-
-Standing Wave Ratio (Voir ROS)
+    - Standing Wave Ratio (Voir ROS)
+---

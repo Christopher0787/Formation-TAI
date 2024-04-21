@@ -79,18 +79,18 @@
 
     - Network Operating System
 ---
-NREN
+## **NREN**
 
-National Research and Education Network
+    - National Research and Education Network
+---
+## **NRZ**
 
-NRZ
+    - Non Return to Zero
+---
+## **NRZI**
 
-Non Return to Zero
-
-NRZI
-
-Non Return to Zero Inverted
-
+    - Non Return to Zero Inverted
+---
 NSAP
 
 Network Service Access Point

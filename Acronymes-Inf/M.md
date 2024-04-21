@@ -209,18 +209,18 @@
 
     - Multiplexage par Répartition en Code (Voir CDM, code division multiplexing)
 ---
-MRF
+## **MRF**
 
-Multiplexage par Répartition en Fréquence (Voir FDM, frequency division multiplexing)
+    - Multiplexage par Répartition en Fréquence (Voir FDM, frequency division multiplexing)
+---
+## **MRL**
 
-MRL
+    - Multiplexage par Répartition en Longueur d'onde (Voir DWDM, dense wavelength division multiplexing).
+---
+## **MRT**
 
-Multiplexage par Répartition en Longueur d'onde (Voir DWDM, dense wavelength division multiplexing).
-
-MRT
-
-Multiplexage par Tépartition dans le Temps (Voir TDM)
-
+    - Multiplexage par Tépartition dans le Temps (Voir TDM)
+---
 MSB
 
 Most Significant Bit (bit de poids le plust fort)

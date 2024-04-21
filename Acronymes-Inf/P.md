@@ -55,19 +55,20 @@
 
     - Printed Circuit Board (Circuit imprimé)
 ---
-PCM
+## **PCM**
 
-Pulse Code Modulation (Voir MIC)
+    - Pulse Code Modulation (Voir MIC)
+---
+## **PCMCIA**
 
-PCMCIA
+    - Personal Computer Memory Card International Association
+---
+## **PCN**	
 
-Personal Computer Memory Card International Association
+    - Procédure concurrentielle avec négociation
 
-PCN	Procédure concurrentielle avec négociation
-PCN
-
-Personal Communication Network
-
+    - Personal Communication Network
+---
 PCR
 
 Peak Cell Rate

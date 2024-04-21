@@ -21,6 +21,7 @@
 
     - Quarter Inch Cartridge
 ---
-QoS
+## **QoS**
 
-Quality of Service (Qualité de service)
+    - Quality of Service (Qualité de service)
+---

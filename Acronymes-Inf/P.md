@@ -25,18 +25,16 @@
 
     - Personal Area Network
 ---
-PAO
+## **PAO**
 
-Publication Assistée par Ordinateur (Desktop Publishing)
+    - Publication Assistée par Ordinateur (Desktop Publishing)
+---
+## **PAP**
 
-PAP
+    - Password Auhentication Protocol
 
-Password Auhentication Protocol
-
-PAP
-
-Printer Access Protocol
-
+    - Printer Access Protocol
+---
 PAS
 
 Plan d'Assurance Sécurité

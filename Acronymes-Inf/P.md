@@ -35,14 +35,14 @@
 
     - Printer Access Protocol
 ---
-PAS
+## **PAS**
 
-Plan d'Assurance Sécurité
+    - Plan d'Assurance Sécurité
+---
+## **PAT**
 
-PAT
-
-Port Address Translation
-
+    - Port Address Translation
+---
 PAVI
 
 point d'accès vidéotex

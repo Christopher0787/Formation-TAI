@@ -41,10 +41,10 @@
 
     - On-Line Analytical Processing
 ---
-OLE
+## **OLE**
 
-Object Linking and Embedding (liaison et incorporation d'objets)
-
+    - Object Linking and Embedding (liaison et incorporation d'objets)
+---
 OLTP
 
 On-Line Transaction Processing

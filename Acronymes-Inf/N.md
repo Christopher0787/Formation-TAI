@@ -17,10 +17,10 @@
 
     - Network Addressable Unit
 ---
-NBP
+## **NBP**
 
-Name-Binding Protocol
-
+    - Name-Binding Protocol
+---
 NBS
 
 National Bureau of Standards (devenu NIST : National Institute of Standards and Technology)

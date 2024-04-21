@@ -9,10 +9,10 @@
 
     - National Aeronautics and Space Administration.
 ---
-NAT
+## **NAT**
 
-Network Address Translation
-
+    - Network Address Translation
+---
 NAU
 
 Network Addressable Unit

@@ -65,10 +65,10 @@
 
     - Modulation de Fréquence (FM).
 ---
-MFLOPS
+## **MFLOPS**
 
-Millions Floating Point Operations Per Second
-
+    - Millions Floating Point Operations Per Second
+---
 Mflops
 
 megaflops (Voir flops)

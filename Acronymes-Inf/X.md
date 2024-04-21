@@ -9,26 +9,27 @@
 
     - xDigital Subscriber Line
 ---
-XGA
+## **XGA**
 
-eXtended graphics adapter
+    - eXtended graphics adapter
+---
+## **XML**
 
-XML
+    - eXtensible Markup Language (langage de balisage extensible)
+---
+## **XMP**
 
-eXtensible Markup Language (langage de balisage extensible)
+    - X/open Management Protocol
+---
+## **XMS**
 
-XMP
+    - eXtended Memory Specification (Spécifications de Mémoire étendue)
+---
+## **XPG**
 
-X/open Management Protocol
+    - X/open Portability Guide
+---
+## **XSL**
 
-XMS
-
-eXtended Memory Specification (Spécifications de Mémoire étendue)
-
-XPG
-
-X/open Portability Guide
-
-XSL
-
-eXtensible Style Language
+    - eXtensible Style Language
+---

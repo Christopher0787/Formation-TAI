@@ -4,10 +4,8 @@
 ## **VA**
 
     - Vérification d'Aptitude
----
-VA
 
-Volt Ampère
+    - Volt Ampère
 
 VBA
 

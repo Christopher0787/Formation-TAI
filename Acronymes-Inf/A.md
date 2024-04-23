@@ -186,46 +186,46 @@
 
     - Address Resolution Protocol
 ---
-ARPA	
+## **ARPA**	
 
-Advanced Research Projects Agency
+    - Advanced Research Projects Agency
+---
+## **ARPANET**	
 
-ARPANET	
+    - Advanced Research Projects Agency NETwork
+---
+## **ARQ**	
 
-Advanced Research Projects Agency NETwork
+    - Automatic Repeat reQuest
+---
+## **ASCII**	
 
-ARQ	
+    - American Standard Code for Information Interchange
+---
+## **ASE**	
 
-Automatic Repeat reQuest
+    - Application Service Element
+---
+## **ASIC**	
 
-ASCII	
+    - Application Specific Integrated Circuits
+---
+## **ASN**	
 
-American Standard Code for Information Interchange
+    - Autonomous System Number
+---
+## **ASP**	
 
-ASE	
+    - Application Service Provider
+---
+## **ATA**	
 
-Application Service Element
+    - Advanced Technology Attachment
+---
+## **ATICA**	
 
-ASIC	
-
-Application Specific Integrated Circuits
-
-ASN	
-
-Autonomous System Number
-
-ASP	
-
-Application Service Provider
-
-ATA	
-
-Advanced Technology Attachment
-
-ATICA	
-
-Agence pour les Technologies de l'Information et de la Communication dans l'Administration
-
+    - Agence pour les Technologies de l'Information et de la Communication dans l'Administration
+---
 ATM	
 
 Asynchronous Transfer Mode (mode de transfert asynchrone) / Automatic Teller Machine

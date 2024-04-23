@@ -5,18 +5,18 @@
 
     - Toile d'Araignée Mondiale
 ---
-TCO
+## **TCO**
 
-Total Cost of Owership
+    - Total Cost of Owership
+---
+## **TCP**
 
-TCP
+    - Transmission Control Protocol
+---
+## **TCP/IP**
 
-Transmission Control Protocol
-
-TCP/IP
-
-Transmission Control Protocol / Internet Protocol
-
+    - Transmission Control Protocol / Internet Protocol
+---
 TCU
 
 Transmission Control Unit

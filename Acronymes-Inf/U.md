@@ -81,26 +81,26 @@
 
     - User Network Interface
 ---
-UPS
+## **UPS**
 
-Uninterruptible Power Supply (onduleur)
+    - Uninterruptible Power Supply (onduleur)
+---
+## **URC**
 
-URC
+    - Uniform Resource Characteristic
+---
+## **URI**
 
-Uniform Resource Characteristic
+    - Uniform Resource Identifier
+---
+## **URL**
 
-URI
+    - Uniform Resource Locator (adresse universelle)
+---
+## **URN**
 
-Uniform Resource Identifier
-
-URL
-
-Uniform Resource Locator (adresse universelle)
-
-URN
-
-Uniform Ressource Name
-
+    - Uniform Ressource Name
+---
 USART
 
 Universal Synchronous and Asynchronous Receiver Transmitter

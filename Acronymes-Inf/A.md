@@ -226,22 +226,23 @@
 
     - Agence pour les Technologies de l'Information et de la Communication dans l'Administration
 ---
-ATM	
+## **ATM**	
 
-Asynchronous Transfer Mode (mode de transfert asynchrone) / Automatic Teller Machine
+    - Asynchronous Transfer Mode (mode de transfert asynchrone) / Automatic Teller Machine
+---
+## **ATSC**	
 
-ATSC	
+    - Advanced Television Standards Committee
+---
+## **AUI**	
 
-Advanced Television Standards Committee
+    - Attachment Unit Interface
+---
+## **AUP**	
 
-AUI	
+    - Acceptable Use Policy
+---
+## **AVI**	
 
-Attachment Unit Interface
-
-AUP	
-
-Acceptable Use Policy
-
-AVI	
-
-Audio Video Interleaved
+    - Audio Video Interleaved
+---

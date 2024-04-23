@@ -51,42 +51,42 @@
 
     - Virtual LAN
 ---
-VLM
+## **VLM**
 
-Virtual Loadable Module
+    - Virtual Loadable Module
+---
+## **VLSI**
 
-VLSI
+    - Very Large Scale Integration
+---
+## **VoIP**
 
-Very Large Scale Integration
+    - Voice Over IP
+---
+## **VPI**
 
-VoIP
+    - Virtual Path Identifier
+---
+## **VPN**
 
-Voice Over IP
+    - Virtual Private Network (réseau privé virtuel)
+---
+## **Vram**
 
-VPI
+    - Video RAM (Video Random Access Memory)
+---
+## **VRAM**
 
-Virtual Path Identifier
+    - Video RAM
+---
+## **VRC**
 
-VPN
+    - Vérification des Règles de Conception
+---
+## **VRD**
 
-Virtual Private Network (réseau privé virtuel)
-
-Vram
-
-Video RAM (Video Random Access Memory)
-
-VRAM
-
-Video RAM
-
-VRC
-
-Vérification des Règles de Conception
-
-VRD
-
-Vérification des Règles de Dessin (design rule checking (DRC))
-
+    - Vérification des Règles de Dessin (design rule checking (DRC))
+---
 VRML
 
 Virtual Reality Modeling Language

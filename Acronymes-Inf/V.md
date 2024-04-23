@@ -87,22 +87,23 @@
 
     - Vérification des Règles de Dessin (design rule checking (DRC))
 ---
-VRML
+## **VRML**
 
-Virtual Reality Modeling Language
+    - Virtual Reality Modeling Language
+---
+## **VSAT**
 
-VSAT
+    - Very Small Aperture Terminal (rapport d'onde stationnaire)
+---
+## **VSR**
 
-Very Small Aperture Terminal (rapport d'onde stationnaire)
+    - Vérification de Service Régulier
+--- 
+## **VSWR**
 
-VSR
+    - Voltage Standing Wave Ratio (Voir ROS, rapport d'onde stationnaire)
+---
+## **VTP**
 
-Vérification de Service Régulier
-
-VSWR
-
-Voltage Standing Wave Ratio (Voir ROS, rapport d'onde stationnaire)
-
-VTP
-
-Virtual Terminal Protocole
+    - Virtual Terminal Protocole
+---

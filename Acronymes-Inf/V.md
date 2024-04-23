@@ -7,22 +7,22 @@
 
     - Volt Ampère
 
-VBA
+## **VBA**
 
-Visual Basic for Applications
+    - Visual Basic for Applications
+---
+## **VBX**
 
-VBX
+    - Visual Basic eXtension
+---
+## **VCD**
 
-Visual Basic eXtension
+    - Video Compact Disk
+---
+## **VCI**
 
-VCD
-
-Video Compact Disk
-
-VCI
-
-Virtual Channel Identifier
-
+    - Virtual Channel Identifier
+---
 VCR
 
 Video Cassette Recorder

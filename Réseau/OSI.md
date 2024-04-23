@@ -17,10 +17,11 @@
     - Cette couche traite le routage des données à travers un réseau.
     Elle détermine le meilleur chemin pour acheminer les données d'un point à un autre.
 ---
-Couche Transport :
-La couche Transport est responsable de la livraison des données de manière fiable et ordonnée.
-Elle assure le contrôle de flux et la correction des erreurs.
+## **Couche Transport :**
 
+    - La couche Transport est responsable de la livraison des données de manière fiable et ordonnée.
+    Elle assure le contrôle de flux et la correction des erreurs.
+---
 Couche Session :
 Elle établit, gère et termine les sessions entre les applications.
 Gère également la synchronisation et la reprise des données en cas d'interruption.

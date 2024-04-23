@@ -32,6 +32,8 @@
     - Cette couche s'occupe de la représentation des données, de leur syntaxe et de leur structure.
     Elle traduit les données pour que différents systèmes puissent les comprendre.
 ---
-Couche Application :
-C'est la couche à laquelle les utilisateurs interagissent directement.
-Elle fournit des services réseau aux applications logicielles, comme le courrier électronique, la navigation web, etc.
+## **Couche Application :**
+
+    - C'est la couche à laquelle les utilisateurs interagissent directement.
+    Elle fournit des services réseau aux applications logicielles, comme le courrier électronique, la navigation web, etc.
+---

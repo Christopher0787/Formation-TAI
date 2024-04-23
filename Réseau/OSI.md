@@ -1,7 +1,7 @@
 # **COUCHE du MODELE OSI**
-
+---
 # **Modèle OSI :**
-
+---
 ## **Couche Physique :**
 
     - Cette couche définit les caractéristiques physiques du support de transmission, comme les câbles, les connecteurs, etc.

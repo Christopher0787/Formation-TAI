@@ -73,46 +73,46 @@
 
     - Technologies de l'Information et de la Communication pour l'Enseignement
 ---
-Tio
+## **Tio**
 
-tébi-octet, 2 puissance 40 octets (Voir : Préfixes SI pour des multiples binaires)
+    - tébi-octet, 2 puissance 40 octets (Voir : Préfixes SI pour des multiples binaires)
+---
+## **TLD**
 
-TLD
+    - Top Level Domain
 
-Top Level Domain
+## **TLI**
 
-TLI
+    - Transport Layer Interface
+---
+## **TMA**
 
-Transport Layer Interface
+    - Tierce maintenance applicative
+---
+## **TNR**
 
-TMA
+    - Terminaison numérique de réseau
+---
+## **tpi**
 
-Tierce maintenance applicative
+    - Tracks Per Inch (Pistes par Pouce)
+---
+## **tps**
 
-TNR
+    - Transactions Par Seconde
+---
+## **TQM**
 
-Terminaison numérique de réseau
+    - Total Quality Management
+---
+## **TRANSISTOR**
 
-tpi
+    - TRANSfert resISTOR
+---
+## **TSP**
 
-Tracks Per Inch (Pistes par Pouce)
-
-tps
-
-Transactions Par Seconde
-
-TQM
-
-Total Quality Management
-
-TRANSISTOR
-
-TRANSfert resISTOR
-
-TSP
-
-Time Synchronization Protocol
-
+    - Time Synchronization Protocol
+---
 TSR
 
 Terminal Stay Resident

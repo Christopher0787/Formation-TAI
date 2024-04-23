@@ -33,30 +33,26 @@
 
     - Tenders Electronics Daily (avis des appels d'offre européens)
 ---
-TEDIS
+## **TEDIS**
 
-Trade Electronic Data Interchange System
+    - Trade Electronic Data Interchange System
+---
+## **TERENA**
 
-Tel - tel
+    - Trans-European Research and Education Networking Association.
+---
+## **TETRA**
 
-wysiwyg.
+    - Trans European Trunk Radio
+---
+## **Tflops**
 
-TERENA
+    - teraflops (Voir flops)
+---
+## **TFT**
 
-Trans-European Research and Education Networking Association.
-
-TETRA
-
-Trans European Trunk Radio
-
-Tflops
-
-teraflops (Voir flops)
-
-TFT
-
-Thin Film Transistor
-
+    - Thin Film Transistor
+---
 TFTP
 
 Trivial File Transfer Protocol

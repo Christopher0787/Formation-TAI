@@ -1,7 +1,7 @@
  # **COUCHE du MODELE TCP/IP**
-
+---
  # **Modèle TCP/IP :**
- 
+ ---
  ## **Couche Réseau (ou Internet) :**
 
     - Cette couche est responsable du routage des données à travers le réseau.
@@ -18,6 +18,8 @@
     - Cette couche s'occupe de l'adressage et du routage des données à travers le réseau.
     Elle utilise des adresses IP pour identifier les hôtes et des routeurs pour acheminer les paquets.
  ---
- Couche Application :
- C'est la couche à laquelle les utilisateurs interagissent directement.
- Elle englobe une variété de protocoles pour différentes applications, comme HTTP pour le web, SMTP pour le courrier électronique, etc.
+ ## **Couche Application :**
+
+    - C'est la couche à laquelle les utilisateurs interagissent directement.
+    Elle englobe une variété de protocoles pour différentes applications, comme HTTP pour le web, SMTP pour le courrier électronique, etc.
+---

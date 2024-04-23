@@ -142,50 +142,50 @@
 
     - Accès multiple à répartition dans le temps
 ---
-ANDF	
+## **ANDF**	
 
-Architecture Neutral Distribution Format
+    - Architecture Neutral Distribution Format
+---
+## **ANI**	
 
-ANI	
+    - Automatic Number Identification
+---
+## **ANVAR**	
 
-Automatic Number Identification
+    - Agence Nationale pour la Valorisation de la Recherche
+---
+## **API**	
 
-ANVAR	
+    - Application Programming Interface (Interface de programme d'application)
+---
+## **APL**	
 
-Agence Nationale pour la Valorisation de la Recherche
+    - A Programming Language
+---
+## **APM**	
 
-API	
+    - Advanced Power Management
+---
+## **APPC**	
 
-Application Programming Interface (Interface de programme d'application)
+    - Advanced Program to Program Communications
+---
+## **APPN**	
 
-APL	
+    - Advanced Peer to Peer Network
+---
+## **APROGED**	
 
-A Programming Language
+    - Association des PROfessionnels de la Gestion Electronique de Documents
+---
+## **ARCnet**	
 
-APM	
+    - Attached Resource Computer network
+---
+## **ARP**	
 
-Advanced Power Management
-
-APPC	
-
-Advanced Program to Program Communications
-
-APPN	
-
-Advanced Peer to Peer Network
-
-APROGED	
-
-Association des PROfessionnels de la Gestion Electronique de Documents
-
-ARCnet	
-
-Attached Resource Computer network
-
-ARP	
-
-Address Resolution Protocol
-
+    - Address Resolution Protocol
+---
 ARPA	
 
 Advanced Research Projects Agency

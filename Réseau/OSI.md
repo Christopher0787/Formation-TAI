@@ -22,10 +22,11 @@
     - La couche Transport est responsable de la livraison des données de manière fiable et ordonnée.
     Elle assure le contrôle de flux et la correction des erreurs.
 ---
-Couche Session :
-Elle établit, gère et termine les sessions entre les applications.
-Gère également la synchronisation et la reprise des données en cas d'interruption.
+## **Couche Session :**
 
+    - Elle établit, gère et termine les sessions entre les applications.
+    Gère également la synchronisation et la reprise des données en cas d'interruption.
+---
 Couche Présentation :
 Cette couche s'occupe de la représentation des données, de leur syntaxe et de leur structure.
 Elle traduit les données pour que différents systèmes puissent les comprendre.

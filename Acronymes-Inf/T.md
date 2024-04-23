@@ -17,22 +17,22 @@
 
     - Transmission Control Protocol / Internet Protocol
 ---
-TCU
+## **TCU**
 
-Transmission Control Unit
+    - Transmission Control Unit
+---
+## **TDM**
 
-TDM
+    - Time Division Multiplexing (Voir MRT, multiplexage par répartition dans le temps)
+---
+## **TDMA**
 
-Time Division Multiplexing (Voir MRT, multiplexage par répartition dans le temps)
+    - Time Division Multiple Access
+---
+## **TED**
 
-TDMA
-
-Time Division Multiple Access
-
-TED
-
-Tenders Electronics Daily (avis des appels d'offre européens)
-
+    - Tenders Electronics Daily (avis des appels d'offre européens)
+---
 TEDIS
 
 Trade Electronic Data Interchange System

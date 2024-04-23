@@ -21,18 +21,18 @@
 
     - Unité Centrale
 ---
-UCE
+## **UCE**
 
-Unsolicited Commercial Email (SPAM)
+    - Unsolicited Commercial Email (SPAM)
+---
+## **UCT**
 
-UCT
+    - Unité Centrale de Traitement
+---
+## **UDDI**
 
-Unité Centrale de Traitement
-
-UDDI
-
-Universal Description Discovery and Integration
-
+    - Universal Description Discovery and Integration
+---
 UDF
 
 Universal Disk Format.

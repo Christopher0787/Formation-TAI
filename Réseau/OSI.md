@@ -7,10 +7,11 @@
     - Cette couche définit les caractéristiques physiques du support de transmission, comme les câbles, les connecteurs, etc.
     Elle traite de la transmission brute des données à travers le réseau.
 ---
-Couche Liaison de Données :
-Elle organise les données en trames pour le transfert sûr et fiable sur le réseau.
-Gère également la détection et la correction d'erreurs au niveau local.
+## **Couche Liaison de Données :**
 
+    - Elle organise les données en trames pour le transfert sûr et fiable sur le réseau.
+    Gère également la détection et la correction d'erreurs au niveau local.
+---
 Couche Réseau :
 Cette couche traite le routage des données à travers un réseau.
 Elle détermine le meilleur chemin pour acheminer les données d'un point à un autre.

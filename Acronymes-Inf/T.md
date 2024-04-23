@@ -53,26 +53,26 @@
 
     - Thin Film Transistor
 ---
-TFTP
+## **TFTP**
 
-Trivial File Transfer Protocol
+    ²- Trivial File Transfer Protocol
+---
+## **Ti**
 
-Ti
+    - tébi (préfixe), térabinaire soit 2 puissance 40 (Voir : Préfixes SI pour des multiples binaires)
+---
+## **Tib**
 
-tébi (préfixe), térabinaire soit 2 puissance 40 (Voir : Préfixes SI pour des multiples binaires)
+    - tébi-bit, 2 puissance 40 bits (Voir : Préfixes SI pour des multiples binaires)
+---
+## **TIC**
 
-Tib
+    - Technologies de l'Information et de la Communication
+---
+## **TICE**
 
-tébi-bit, 2 puissance 40 bits (Voir : Préfixes SI pour des multiples binaires)
-
-TIC
-
-Technologies de l'Information et de la Communication
-
-TICE
-
-Technologies de l'Information et de la Communication pour l'Enseignement
-
+    - Technologies de l'Information et de la Communication pour l'Enseignement
+---
 Tio
 
 tébi-octet, 2 puissance 40 octets (Voir : Préfixes SI pour des multiples binaires)

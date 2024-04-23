@@ -2,6 +2,13 @@
 ---
  # **Modèle TCP/IP :**
  ---
+ ## **TCP/IP :**
+ 
+    - Application
+    - Transport
+    - Internet
+    - Accès Réseau
+ ---
  ## **Couche Réseau (ou Internet) :**
 
     - Cette couche est responsable du routage des données à travers le réseau.

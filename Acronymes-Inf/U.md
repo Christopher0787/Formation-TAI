@@ -33,54 +33,54 @@
 
     - Universal Description Discovery and Integration
 ---
-UDF
+## **UDF**
 
-Universal Disk Format.
+    - Universal Disk Format.
+---
+## **UDMA**
 
-UDMA
+    - Ultra DMA
+---
+## **UDP**
 
-Ultra DMA
+    - User Datagram Protocol
+---
+## **UE**
 
-UDP
+    - Union Européenne
+---
+## **UHF**
 
-User Datagram Protocol
+    - Ultra High Frequency (Ultra Haute Fréquence)
+---
+## **UI**
 
-UE
+    - User Interface
+---
+## **UIT**
 
-Union Européenne
+    - Union Internationale des télécommunications
+---
+## **ULS**
 
-UHF
+    - User Location Service
+---
+## **UMB**
 
-Ultra High Frequency (Ultra Haute Fréquence)
+    - Upper Memory Bloc
+---
+## **UML**
 
-UI
+    - Unified Modeling Language
 
-User Interface
+## **UMTS**
 
-UIT
+    - Universal Mobile Telecommunications System
+---
+## **UNI**
 
-Union Internationale des télécommunications
-
-ULS
-
-User Location Service
-
-UMB
-
-Upper Memory Bloc
-
-UML
-
-Unified Modeling Language
-
-UMTS
-
-Universal Mobile Telecommunications System
-
-UNI
-
-User Network Interface
-
+    - User Network Interface
+---
 UPS
 
 Uninterruptible Power Supply (onduleur)

@@ -113,22 +113,22 @@
 
     - Time Synchronization Protocol
 ---
-TSR
+## **TSR**
 
-Terminal Stay Resident
+    - Terminal Stay Resident
+---
+## **TTL**
 
-TTL
+    - Transistor to Transistor Logic
+---
+## **TTS**
 
-Transistor to Transistor Logic
+    - Text To Speech
+---
+## **TTY**
 
-TTS
-
-Text To Speech
-
-TTY
-
-TeleTYpe
-
+    - TeleTYpe
+---
 TVHD
 
 TéléVision à Haute Définition

@@ -2,6 +2,16 @@
 ---
 # **Modèle OSI :**
 ---
+## **OSI :**
+
+    - Application
+    - Présentation
+    - Session
+    - Transport
+    - Réseau
+    - Liaison
+    - Physique
+---
 ## **Couche Physique :**
 
     - Cette couche définit les caractéristiques physiques du support de transmission, comme les câbles, les connecteurs, etc.

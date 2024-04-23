@@ -23,34 +23,34 @@
 
     - Virtual Channel Identifier
 ---
-VCR
+## **VCR**
 
-Video Cassette Recorder
+    - Video Cassette Recorder
+---
+## **VDSL**
 
-VDSL
+    - Very high speed Digital Subscriber Line
+---
+## **VF**
 
-Very high speed Digital Subscriber Line
+    - VidéoFréquence,
+---
+## **VFAT**
 
-VF
+    - Virtual File Allocation Table
+---
+## **VGA**
 
-VidéoFréquence,
+    - Video Graphics Array
+---
+## **VHF**
 
-VFAT
+    - Very High Frequency (Très Haute Fréquence)
+---
+## **VLAN**
 
-Virtual File Allocation Table
-
-VGA
-
-Video Graphics Array
-
-VHF
-
-Very High Frequency (Très Haute Fréquence)
-
-VLAN
-
-Virtual LAN
-
+    - Virtual LAN
+---
 VLM
 
 Virtual Loadable Module

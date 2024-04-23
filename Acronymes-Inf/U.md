@@ -101,26 +101,27 @@
 
     - Uniform Ressource Name
 ---
-USART
+## **USART**
 
-Universal Synchronous and Asynchronous Receiver Transmitter
+    - Universal Synchronous and Asynchronous Receiver Transmitter
+---
+## **USB**
 
-USB
+    - Universal Serial Bus
+---
+## **USIC**
 
-Universal Serial Bus
+    - User Specific Integrated Circuit
+---
+## **UTP**
 
-USIC
+    - Unshielded Twisted Pair (Paire torsadée non blindée)
+---
+## **UUCP**
 
-User Specific Integrated Circuit
+    - Unix to Unix CoPy
+---
+## **UV**
 
-UTP
-
-Unshielded Twisted Pair (Paire torsadée non blindée)
-
-UUCP
-
-Unix to Unix CoPy
-
-UV
-
-UltraViolet.
+    - UltraViolet.
+---

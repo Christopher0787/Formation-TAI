@@ -129,10 +129,11 @@
 
     - TeleTYpe
 ---
-TVHD
+## **TVHD**
 
-TéléVision à Haute Définition
+    - TéléVision à Haute Définition
+---
+## **TX**
 
-TX
-
-Terminal X
+    - Terminal X
+---

@@ -12,10 +12,11 @@
     - Elle organise les données en trames pour le transfert sûr et fiable sur le réseau.
     Gère également la détection et la correction d'erreurs au niveau local.
 ---
-Couche Réseau :
-Cette couche traite le routage des données à travers un réseau.
-Elle détermine le meilleur chemin pour acheminer les données d'un point à un autre.
+## **Couche Réseau :**
 
+    - Cette couche traite le routage des données à travers un réseau.
+    Elle détermine le meilleur chemin pour acheminer les données d'un point à un autre.
+---
 Couche Transport :
 La couche Transport est responsable de la livraison des données de manière fiable et ordonnée.
 Elle assure le contrôle de flux et la correction des erreurs.

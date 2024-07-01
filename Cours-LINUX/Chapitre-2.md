@@ -187,3 +187,7 @@
 
 ### **pour les autres utilisateurs avec o.**
 ---
+
+
+# **Gestion du propriétaire**
+---

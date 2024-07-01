@@ -9,3 +9,13 @@
 
 ### **Pour change directory -> permet de changer le dossier courant du terminal**
 ---
+
+
+"cd .."
+
+    * Le ... fait référence au dossier parent
+
+    * Le . fait référence au dossier courant
+
+    * Le ~ fait référence au home directory (le dossier "racine" de votre utilisateur)
+---

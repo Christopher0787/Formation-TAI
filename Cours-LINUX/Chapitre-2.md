@@ -10,3 +10,11 @@
 
 # **Gestion des utilisateurs**
 ---
+
+
+* Création d'un utilisateur
+
+"sudo adduser nomUtilisateur"
+
+### **La commande adduser permet de créer un nouvel utilisateur.**
+---

@@ -84,5 +84,5 @@
 ---
 
 
-## **. Déplacer des dossiers ou fichiers**
+## *** Déplacer des dossiers ou fichiers**
 ---

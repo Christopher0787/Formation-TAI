@@ -18,3 +18,11 @@
 
 ### **La commande adduser permet de créer un nouvel utilisateur.**
 ---
+
+
+### * Modification d'un mot de passe utilisateur
+
+"sudo passwd nomUtilisateur"
+
+### **La commande passwd permet de changer le mot de passe d'un utilisateur.**
+---

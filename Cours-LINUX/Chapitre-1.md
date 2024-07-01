@@ -165,3 +165,18 @@
 
 # **Information processus**
 ---
+
+
+"top"
+
+### **Programme qui liste de tous les processus de votre système avec des informations sur l'utilisation des ressources.**
+---
+
+
+"ps aux"
+
+### **Affiche la liste de tous les processus du système avec des informations sur le PID (identifiants) et propriétaire des processus.**
+---
+
+
+# **Droits super Admin**

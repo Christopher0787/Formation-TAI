@@ -1,6 +1,10 @@
 # **l'interface en ligne de commande :**
 ---
 
+# **Ce chapitre regroupe toutes les lignes de commande de base à connaître pour pouvoir utiliser un terminal de commande sous Linux.**
+---
+
+
 # **Navigation dans le terminal**
 ---
 

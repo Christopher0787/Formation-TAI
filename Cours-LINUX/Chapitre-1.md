@@ -98,3 +98,16 @@
 
 ### **Permet de renommer un dossier ou un fichier.**
 ---
+
+
+
+# **Copier Coller des dossiers ou fichiers**
+---
+
+
+"cp -r nomDuDossier DestinationDossierCopie"
+
+"cp nomDuFichier DestinationFichierCopie"
+
+### **pour copy -> permet de copier coller un dossier ou un fichier dans un emplacement différent (ne pas oublier l'option-r pour récursif pour la copie d'un dossier).**
+---

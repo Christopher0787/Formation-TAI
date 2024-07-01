@@ -26,3 +26,11 @@
 
 ### **La commande passwd permet de changer le mot de passe d'un utilisateur.**
 ---
+
+
+### * Renommer un utilisateur
+
+"sudo usermod -l nouveauNomUtilisateur ancienNomUtilisateur"
+
+### **La commande usermod -l permet de changer le nom de l'utilisateur en un nouveau nom d'un utilisateur**
+---

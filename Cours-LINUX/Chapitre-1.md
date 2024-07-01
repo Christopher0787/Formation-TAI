@@ -111,3 +111,7 @@
 
 ### **pour copy -> permet de copier coller un dossier ou un fichier dans un emplacement différent (ne pas oublier l'option-r pour récursif pour la copie d'un dossier).**
 ---
+
+
+# **Afficher le contenu d'un fichier**
+---

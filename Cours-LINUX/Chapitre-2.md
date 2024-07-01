@@ -50,3 +50,13 @@
 
 ### **La commande deluser permet de supprimer un utilisateur.**
 ---
+
+
+### * Afficher la liste de tous les utilisateurs
+
+
+"getent passwd"
+
+
+### **La commande passwd permet de definir le mot de passe d'un utilisateur**
+---

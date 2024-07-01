@@ -197,3 +197,7 @@
 
 ### **il est aussi possible d'exécuter une commande en tant que root tout en restant connecté à son utilisateur :**
 ---
+
+
+# **Le gestionnaire de paquets**
+---

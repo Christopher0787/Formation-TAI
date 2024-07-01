@@ -14,7 +14,9 @@
 
 ### * Création d'un utilisateur
 
+
 "sudo adduser nomUtilisateur"
+
 
 ### **La commande adduser permet de créer un nouvel utilisateur.**
 ---
@@ -22,7 +24,9 @@
 
 ### * Modification d'un mot de passe utilisateur
 
+
 "sudo passwd nomUtilisateur"
+
 
 ### **La commande passwd permet de changer le mot de passe d'un utilisateur.**
 ---
@@ -30,7 +34,19 @@
 
 ### * Renommer un utilisateur
 
+
 "sudo usermod -l nouveauNomUtilisateur ancienNomUtilisateur"
 
+
 ### **La commande usermod -l permet de changer le nom de l'utilisateur en un nouveau nom d'un utilisateur**
+---
+
+
+### * Supprimer un utilisateur
+
+
+"sudo deluser nomUtilisateur"
+
+
+### **La commande deluser permet de supprimer un utilisateur.**
 ---

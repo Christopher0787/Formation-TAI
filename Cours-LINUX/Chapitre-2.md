@@ -64,3 +64,33 @@
 
 # **Gestion des groupes**
 ---
+
+
+### * Création d'un groupe
+
+
+"sudo groupadd nomGroupe"
+
+
+### **La commande groupadd permet de créer un nouveau groupe.**
+---
+
+
+### * Supprimer un groupe
+
+
+"sudo delgroup nomGroupe"
+
+
+### **La commande delgroup permet de supprimer un groupe.**
+---
+
+
+### * Ajouter un utilisateur à un groupe
+
+
+"sudo usermod -aG nomGroupe nomUtilisateur"
+
+
+### **l'option -aG siginifie "add group".**
+---

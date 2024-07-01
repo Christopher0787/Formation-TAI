@@ -245,11 +245,13 @@
 
 
 ### **Il est possible de télécharger des fichiers depuis un lien de téléchargement direct.**
+---
 
 
 "curl lienDeTelechargementDirect"
 
 ### **Pour cela, il faut installer le paquet curl.**
+---
 
 
 "curl https://ubuntu.com/download/desktop/thank-you?version=22.04.3&architecture=amd64"

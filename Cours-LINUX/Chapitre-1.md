@@ -19,3 +19,8 @@
 
     * Le ~ fait référence au home directory (le dossier "racine" de votre utilisateur)
 ---
+
+
+## **Gestion des dossiers dans le terminal :**
+---
+

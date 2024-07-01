@@ -282,3 +282,45 @@
 
 # **Commandes utiles**
 ---
+
+
+"history"
+
+### **Affiche l'historique des commandes exécutées depuis l'ouverture de la session.**
+---
+
+
+"man commandeAConnaitre"
+
+### **Permet d'obtenir le manuel d'utilisation d'une commande en particulier (si il existe).**
+---
+
+
+"pwd"
+
+### **Permet de connaitre le chemin du fichier dans lequel vous vous trouvez.**
+---
+
+
+"who"
+
+### **Permet de voir les utilisateur(s) connecté(s).**
+---
+
+
+"logout OU exit"
+
+### **Permet de se déconnecter de la session.**
+---
+
+
+"kill nomDuProcessus"
+
+### **Permet de "tuer" un processus.**
+---
+
+
+"kill gnome-terminal-"
+
+### **Exemple avec le terminal GNOME :**
+---

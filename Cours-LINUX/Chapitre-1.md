@@ -223,3 +223,7 @@
 
 ### **Si vous voulez supprimer un paquet :**
 ---
+
+
+# **Mettre à jour les paquets**
+---

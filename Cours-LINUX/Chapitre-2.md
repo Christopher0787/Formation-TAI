@@ -148,3 +148,41 @@
 
 ### **La commande chmod permet de modifier les permissions d'un fichier ou d'un répertoire.**
 ---
+
+
+### * Les permissions peuvent être définies de plusieurs manière. Imaginons que je souhaite donner des permissions à mon utilisateur :
+
+
+"chmod u+rwx nomDuFichier"
+
+
+    * u veux dire utilisateur.
+
+    * + désigne le fait que je souhaire ajouter des permissions.
+
+    * r signifie read (lire), et donc autorise mon utilisateur à lire le fichier.
+
+    * w signifie write (écrire), et donc autorise mon utilisateur à écrire dans le fichier.
+    
+    * x signifie exécute (éxecuter), et donc autorise mon utilisateur à exécuter le fichier.
+
+
+"chmod u-rwx nomDuFichier"
+
+
+### **de la même manière, si vous souhaitez retirer des permissions, utilisez - au lieu de +.**
+---
+
+
+"chmod g+rwx nomDuDossier"
+
+
+### **pour les groupes avec g.**
+---
+
+
+"chmod o+rwx nomDuDossier"
+
+
+### **pour les autres utilisateurs avec o.**
+---

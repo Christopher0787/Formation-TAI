@@ -169,3 +169,7 @@
 
 ### * Vous devez ensuite redémarrer la session utilisateur pour que les modifications du shell par défaut soientprise en compte.
 ---
+
+
+# **Customization zsh**
+---

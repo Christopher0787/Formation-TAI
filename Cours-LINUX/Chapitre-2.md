@@ -128,3 +128,23 @@
 
 # **Gestion des permissions de fichiers**
 ---
+
+
+### * Afficher les permissions d'un fichier
+
+
+"ls -l nomFichier"
+
+
+### **La commande ls -l affiche les permissions d'un fichier ou d'un répertoire.**
+---
+
+
+### * Modification des permissions
+
+
+"chmod permissions nomFichier"
+
+
+### **La commande chmod permet de modifier les permissions d'un fichier ou d'un répertoire.**
+---

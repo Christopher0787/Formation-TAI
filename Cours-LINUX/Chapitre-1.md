@@ -161,3 +161,7 @@
 
 ### **Affiche tous les éléments du dossier actuel avec les droits utilisateurs**
 ---
+
+
+# **Information processus**
+---

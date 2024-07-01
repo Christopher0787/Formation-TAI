@@ -124,3 +124,7 @@
 
 ### **La commande getent group permet d'afficher les membres d'un groupe d'utilisatuer.**
 ---
+
+
+# **Gestion des permissions de fichiers**
+---

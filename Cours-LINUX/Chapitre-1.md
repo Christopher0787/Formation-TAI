@@ -82,3 +82,7 @@
 
 ### **Pour remove -> permet de supprimer le fichier.**
 ---
+
+
+## **Déplacer des dossiers ou fichiers**
+---

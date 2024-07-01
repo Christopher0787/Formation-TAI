@@ -1,7 +1,7 @@
 # **l'interface en ligne de commande :**
 ---
 
-## **Navigation dans le terminal**
+# **Navigation dans le terminal**
 ---
 
 
@@ -21,7 +21,7 @@
 ---
 
 
-## **Gestion des dossiers dans le terminal**
+# **Gestion des dossiers dans le terminal**
 ---
 
 
@@ -50,7 +50,7 @@
 
 
 
-## **Création de fichier**
+# **Création de fichier**
 ---
 
 
@@ -84,17 +84,17 @@
 ---
 
 
-## **Déplacer des dossiers ou fichiers**
+# **Déplacer des dossiers ou fichiers**
 ---
 
 
 "mv nomDuDossier DestinationDossier"
 
-#### **Pour move -> permet de déplacer un dossier ou un fichier dans un emplacement différent.**
+### **Pour move -> permet de déplacer un dossier ou un fichier dans un emplacement différent.**
 ---
 
 
 "mv ancienNom DestinationDossier/nouveauNom"
 
-#### **Permet de renommer un dossier ou un fichier.**
+### **Permet de renommer un dossier ou un fichier.**
 ---

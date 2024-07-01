@@ -86,3 +86,15 @@
 
 ## **Déplacer des dossiers ou fichiers**
 ---
+
+
+"mv nomDuDossier DestinationDossier"
+
+#### **Pour move -> permet de déplacer un dossier ou un fichier dans un emplacement différent.**
+---
+
+
+"mv ancienNom DestinationDossier/nouveauNom"
+
+#### **Permet de renommer un dossier ou un fichier.**
+---

@@ -183,9 +183,9 @@
 ---
 
 
-### **Pour obtenir les droits super admin en ligne de commande vous devez être connecté sur un profil admin et lancer la commande :**
-
 "sudo su"
+
+### **Pour obtenir les droits super admin en ligne de commande vous devez être connecté sur un profil admin et lancer la commande :**
 ---
 
 
@@ -193,7 +193,7 @@
 ---
 
 
-### **il est aussi possible d'exécuter une commande en tant que root tout en restant connecté à son utilisateur :**
-
 "sudo maCommande"
+
+### **il est aussi possible d'exécuter une commande en tant que root tout en restant connecté à son utilisateur :**
 ---

@@ -22,6 +22,7 @@
 
 
 ### * Vous pouvez customizer votre shell en ligne de commande.
+---
 
 
 ### **Bash**

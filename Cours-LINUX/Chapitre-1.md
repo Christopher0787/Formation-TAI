@@ -52,3 +52,33 @@
 
 ## **Création de fichier**
 ---
+
+
+"touch nomDuFichier.txt"
+
+### **Permet de créer un fichier vide OU de modifier la date de création du fichier s'il existe déjà.**
+---
+
+
+"echo "Bonjour" > fichier.txt"
+
+### **Permet de lancer la commande echo "bonjour" et de rediriger les données de sortie dans le fichier fichier.txt, si le fichier n'existe pas, il sera créé.**
+---
+
+
+"echo "Au revoir" >> fichier.txt"
+
+### **Permet de lancer la commande echo et de rediriger les données de sortie dans le fichier bonjour.txt à la fin du fichier (sans écraser les données).**
+---
+
+
+"nano fichier.txt"
+
+### **Nano est un éditeur en ligne de commande, vous allez l'ouvrir et pouvoir écrire votre fichier, et ensuite enregistrer le fichier.**
+---
+
+
+"rm fichier.txt"
+
+### **Pour remove -> permet de supprimer le fichier.**
+---

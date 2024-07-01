@@ -21,6 +21,6 @@
 ---
 
 
-## **Gestion des dossiers dans le terminal :**
+## **Gestion des dossiers dans le terminal**
 ---
 

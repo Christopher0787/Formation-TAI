@@ -201,3 +201,25 @@
 
 # **Le gestionnaire de paquets**
 ---
+
+
+### **Sous Ubuntu le gestionnaire de paquet par défaut est apt , il permet d'installer de nouveau programme et de les configurer en ligne de commande. Pour l'utiliser, vous avez besoin des droit superAdmin.**
+---
+
+
+"sudo apt install nomPaquet"
+
+### **Pour installer un nouveau paquet (programme) entrer la commande :**
+---
+
+
+"sudo apt install git"
+
+### **Par exemple pour installer git :**
+---
+
+
+"sudo apt remove nomPaquet"
+
+### **Si vous voulez supprimer un paquet :**
+---

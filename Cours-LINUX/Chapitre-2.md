@@ -12,7 +12,7 @@
 ---
 
 
-### * Création d'un utilisateur
+## * Création d'un utilisateur
 
 
 "sudo adduser nomUtilisateur"
@@ -22,7 +22,7 @@
 ---
 
 
-### * Modification d'un mot de passe utilisateur
+## * Modification d'un mot de passe utilisateur
 
 
 "sudo passwd nomUtilisateur"
@@ -32,7 +32,7 @@
 ---
 
 
-### * Renommer un utilisateur
+## * Renommer un utilisateur
 
 
 "sudo usermod -l nouveauNomUtilisateur ancienNomUtilisateur"
@@ -42,7 +42,7 @@
 ---
 
 
-### * Supprimer un utilisateur
+## * Supprimer un utilisateur
 
 
 "sudo deluser nomUtilisateur"
@@ -52,7 +52,7 @@
 ---
 
 
-### * Afficher la liste de tous les utilisateurs
+## * Afficher la liste de tous les utilisateurs
 
 
 "getent passwd"
@@ -66,7 +66,7 @@
 ---
 
 
-### * Création d'un groupe
+## * Création d'un groupe
 
 
 "sudo groupadd nomGroupe"
@@ -76,7 +76,7 @@
 ---
 
 
-### * Supprimer un groupe
+## * Supprimer un groupe
 
 
 "sudo delgroup nomGroupe"
@@ -86,7 +86,7 @@
 ---
 
 
-### * Ajouter un utilisateur à un groupe
+## * Ajouter un utilisateur à un groupe
 
 
 "sudo usermod -aG nomGroupe nomUtilisateur"
@@ -96,7 +96,7 @@
 ---
 
 
-### * Modifier le groupe primaire d'un utilisateur
+## * Modifier le groupe primaire d'un utilisateur
 
 
 "sudo usermod -g nomGroupe nomUtilisateur"
@@ -106,7 +106,7 @@
 ---
 
 
-### * Modifier le groupe secondaire d'un utilisateur
+## * Modifier le groupe secondaire d'un utilisateur
 
 
 "sudo usermod -G nomGroupe nomUtilisateur"
@@ -116,7 +116,7 @@
 ---
 
 
-### * Afficher la liste de tous les groupes
+## * Afficher la liste de tous les groupes
 
 
 "getent group"
@@ -130,7 +130,7 @@
 ---
 
 
-### * Afficher les permissions d'un fichier
+## * Afficher les permissions d'un fichier
 
 
 "ls -l nomFichier"
@@ -140,7 +140,7 @@
 ---
 
 
-### * Modification des permissions
+## * Modification des permissions
 
 
 "chmod permissions nomFichier"
@@ -150,7 +150,7 @@
 ---
 
 
-### * Les permissions peuvent être définies de plusieurs manière. Imaginons que je souhaite donner des permissions à mon utilisateur :
+## * Les permissions peuvent être définies de plusieurs manière. Imaginons que je souhaite donner des permissions à mon utilisateur :
 ---
 
 
@@ -193,7 +193,7 @@
 ---
 
 
-## **Modification du propriétaire d'un fichier / dossier**
+## * Modification du propriétaire d'un fichier / dossier
 
 
 "sudo chown nomUtilisateur:nomGroupe nomDuFichier"

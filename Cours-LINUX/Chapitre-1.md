@@ -143,3 +143,21 @@
 
 # **Lister les éléments d'un dossier**
 ---
+
+
+"ls"
+
+### **Affiche la liste des éléments du dossier actuel**
+---
+
+
+"ls -a"
+
+### **Affiche tous les éléments (même cachés) du dossier actuel**
+---
+
+
+"ls -al"
+
+### **Affiche tous les éléments du dossier actuel avec les droits utilisateurs**
+---

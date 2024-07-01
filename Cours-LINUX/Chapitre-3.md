@@ -96,3 +96,39 @@
 
 ### **cette alias permet d'exécuter la commande ls -al lorque l'on écrit ll et renverra donc :**
 ---
+
+
+### * total 416
+
+    * drwx------. 1 nathan nathan 1096 8 nov. 21:29 .
+    * drwxr-xr-x. 1 root root 12 21 juil. 02:00 ..
+    * drwxr-xr-x. 1 nathan nathan 0 27 oct. 14:15 .android
+    * drwxr-xr-x. 1 nathan nathan 320 31 oct. 18:05 auto-cpufreq
+    * -rw-------. 1 nathan nathan 3019 23 oct. 13:46 .bash_history
+    * -rw-r--r--. 1 nathan nathan 18 6 févr. 2023 .bash_logout
+    * -rw-r--r--. 1 nathan nathan 141 6 févr. 2023 .bash_profile
+    * -rw-r--r--. 1 nathan nathan 534 8 nov. 21:31 .bashrc
+    * drwxr-xr-x. 1 nathan nathan 0 28 sept. 20:29 Bureau
+    * drwx------. 1 nathan nathan 822 31 oct. 18:00 .cache
+    * drwxr-xr-x. 1 nathan nathan 52 27 oct. 14:23 CAMPUS
+    * drwxr-xr-x. 1 nathan nathan 28 23 oct. 13:57 .composer
+    * drwxr-xr-x. 1 nathan nathan 792 28 oct. 15:49 .config
+    * drwxr-xr-x. 1 nathan nathan 8 2 oct. 18:07 'copy paste'
+    * drwx------. 1 nathan nathan 66 28 sept. 22:11 .docker
+    * drwxr-xr-x. 1 nathan nathan 28 27 oct. 09:17 Documents
+    * drwxr-xr-x. 1 nathan nathan 12 28 sept. 21:52 .dotnet
+    * -rw-r--r--. 1 nathan nathan 48 23 oct. 14:06 .gitconfig
+    * drwx------. 1 nathan nathan 8 28 sept. 23:07 .gnome
+    * drwxr-xr-x. 1 nathan nathan 42 29 sept. 15:43 .icons
+    * drwxr-xr-x. 1 nathan nathan 488 27 oct. 14:54 Images
+    * drwxr-xr-x. 1 nathan nathan 30 29 sept. 09:07 .java
+    * drwx------. 1 nathan nathan 26 31 oct. 18:00 .local
+    * drwxr-xr-x. 1 nathan nathan 0 28 sept. 20:29 Modèles
+    * drwxr-xr-x. 1 nathan nathan 48 28 sept. 20:30 .mozilla
+    * drwxr-xr-x. 1 nathan nathan 0 28 sept. 20:29 Musique
+    * drwx------. 1 nathan nathan 18 29 sept. 08:55 .mysql
+---
+
+
+# **Installer le shell zsh**
+---

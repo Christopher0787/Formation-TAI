@@ -151,6 +151,7 @@
 
 
 ### * Les permissions peuvent être définies de plusieurs manière. Imaginons que je souhaite donner des permissions à mon utilisateur :
+---
 
 
 "chmod u+rwx nomDuFichier"
@@ -163,7 +164,7 @@
     * r signifie read (lire), et donc autorise mon utilisateur à lire le fichier.
 
     * w signifie write (écrire), et donc autorise mon utilisateur à écrire dans le fichier.
-    
+
     * x signifie exécute (éxecuter), et donc autorise mon utilisateur à exécuter le fichier.
 
 

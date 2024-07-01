@@ -115,3 +115,27 @@
 
 # **Afficher le contenu d'un fichier**
 ---
+
+
+"cat nomDuFichier"
+
+### **pour concaténer -> permet d'afficher tout le contenu d'un fichier**
+---
+
+
+"tail nomDuFichier"
+
+### **Permet d'afficher les 10 dernières lignes d'un fichier**
+---
+
+
+"tail -n 20 nomDuFichier"
+
+### **Permet d'afficher les 20 dernières lignes d'un fichier**
+---
+
+
+"tail -f nomDuFichier"
+
+### **Permet d'afficher en temps réel le contenu d'un fichier**
+---

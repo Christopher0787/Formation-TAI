@@ -173,3 +173,40 @@
 
 # **Customization zsh**
 ---
+
+
+### * Pour zsh, le fichier de configuration se nomme .zshrc, pour modifier votre shell zsh, vous devez donc modifier ce fichier.
+---
+
+
+"export PROMPT="Nouveau prompt""
+
+
+### * Pour modifier le prompt, zsh utilise la variable PROMPT, vous devez écrire à la fin du fichier.zshrc :
+---
+
+
+### **Les variables dynamiques :**
+---
+
+
+    * %n% -> Nom de l'utilisateur.
+
+    * %~% -> emplacement du terminal.
+
+    * %t% -> heure.
+
+### * Si vous voulez plus d'information et de possibilité sur la customization prompt avec zsh -> Cliquez ici.
+---
+
+
+# **Utiliser Oh-My-Zsh**
+---
+
+
+### **Oh-my-Zsh est unplugins de customization poussé de votre shell zsh, il va grandement faciliter la customization de votre shell et vous donner la possibilité d'utiliserdes plugins pour vous aider dans l'utilisation de votre terminal.**
+---
+
+
+## **Installation**
+---

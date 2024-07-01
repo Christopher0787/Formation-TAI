@@ -191,3 +191,19 @@
 
 # **Gestion du propriétaire**
 ---
+
+
+## **Modification du propriétaire d'un fichier / dossier**
+
+
+"sudo chown nomUtilisateur:nomGroupe nomDuFichier"
+
+
+### **Permet de changer l'utilisateur et groupe propriétaire d'un fichier. L'interêt de pouvoir ajouter un groupe proprétaire est de donner les mêmes droits aux utilisateurs du groupe.**
+
+
+"sudo chown -r nomUtilisateur:nomGroupe nomDuDossier"
+
+
+### **Avec l'option -r (pour récursif) -> Permet de changer le propriétaire d'un dossier et del'ensemble des dossiers / fichiers qu'il contient.**
+---

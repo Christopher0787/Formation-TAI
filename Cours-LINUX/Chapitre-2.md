@@ -94,3 +94,33 @@
 
 ### **l'option -aG siginifie "add group".**
 ---
+
+
+### * Modifier le groupe primaire d'un utilisateur
+
+
+"sudo usermod -g nomGroupe nomUtilisateur"
+
+
+### **La commande usermod -g permet de définir ou modifier le groupe primaire d'un utilisateur.**
+---
+
+
+### * Modifier le groupe secondaire d'un utilisateur
+
+
+"sudo usermod -G nomGroupe nomUtilisateur"
+
+
+### **La commande usermod -G pemet de définir ou modifier le groupe secondaire d'un utilisateur.**
+---
+
+
+### * Afficher la liste de tous les groupes
+
+
+"getent group"
+
+
+### **La commande getent group permet d'afficher les membres d'un groupe d'utilisatuer.**
+---

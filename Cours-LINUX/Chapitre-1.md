@@ -227,3 +227,11 @@
 
 # **Mettre à jour les paquets**
 ---
+
+
+"sudo apt update"
+
+### **Et ensuite**
+
+"sudo apt upgrade"
+---

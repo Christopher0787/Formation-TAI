@@ -262,3 +262,19 @@
 
 # **Compresser/Décompresser un fichier**
 ---
+
+
+### **zip et unzip sont deux paquets permettant la compression et la décompression de fichiers/dossiers, ils ne sont généralement pas présents de base, il faut donc les installer.**
+---
+
+
+"zip nomDuDossier"
+
+### **Compresser un fichier/dossier**
+---
+
+
+"unzip nomDuDossier"
+
+### **Décompresser un fichier/dossier**
+---

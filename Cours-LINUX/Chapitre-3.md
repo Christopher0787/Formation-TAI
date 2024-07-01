@@ -132,3 +132,40 @@
 
 # **Installer le shell zsh**
 ---
+
+
+### * Pour installer le shell zsh vous devez d'abord installer le paquet avec apt :
+
+
+"sudo apt install zsh"
+
+
+### * Pour changer de shell pendant une session du terminal :
+
+
+"zsh"
+
+
+### **Pour zsh :**
+---
+
+
+"bash"
+
+
+### **Pour bash :**
+---
+
+
+"chsh"
+
+
+### **Changer le shell par défaut (au lancement du terminal) :**
+---
+
+
+### * Et ensuite vous entrez le chemin vers le shell :usr/bin/zsh ou usr/bin/bash.
+
+
+### * Vous devez ensuite redémarrer la session utilisateur pour que les modifications du shell par défaut soientprise en compte.
+---

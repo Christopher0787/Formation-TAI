@@ -231,7 +231,10 @@
 
 "sudo apt update"
 
-### **Et ensuite**
+### **Permet de mettre à jour votre base de donnèes et de vos paquets :**
+---
 
 "sudo apt upgrade"
+
+### **Permet de mettre à jour l'ensemble des paquets installèes sur votre PC :**
 ---

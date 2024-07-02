@@ -173,3 +173,44 @@ En bash comme dans n’importe quel langage de programmation, on retrouvera des 
 
     "fi"
 ---
+
+
+**Si la variable $prenom est égale à Nathan , alors on écrit :**
+
+
+    "Bonjour Nathan ! Tu as 21 ans"
+
+    "Je suis Ubuntu, ta machine !"
+---
+
+
+⚠ Attention, plusieurs points sont à noter ici, un espace est OBLIGATOIRE entre les crochets, on ne peut pas écrire par exemple [$prenom="Nathan"] , on doit laisser
+deux espaces (avant/après). Il n’est pas nécessaire de faire un espace ou une tabulation entre « ; » et then, mais c’est toujours mieux pour plus de lisibilité.
+
+
+**Ensuite, il faut savoir qu’on peut écrire cette condition de la manière suivante, qui revient au même, c’est à vous de choisir laquelle vous préférez :**
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+    "hote=`hostname`"
+
+
+    "if [ $prenom = "Nathan" ]"
+
+
+    "then"
+
+
+        "echo "Bonjour $prenom ! Tu as $age ans""
+
+        "echo "Je suis $hote, ta machine !""
+
+
+    "fi"
+---

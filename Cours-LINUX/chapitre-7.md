@@ -330,3 +330,7 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
     "Vous êtes qui ?!"
 ---
+
+
+# **Variables dynamiques**
+---

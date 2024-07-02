@@ -328,8 +328,10 @@ Nous allons maintenant voire comment rendre nos script plus « Autonome ».
     "age=21"
     "hote=`hostname`"
 
+
     "echo "Votre prenom ?""
     "read prenom"
+
 
     "if [ $prenom = "Nathan" ]"
 
@@ -345,6 +347,7 @@ Nous allons maintenant voire comment rendre nos script plus « Autonome ».
 
 
     "then"
+
 
         "echo "Vous êtes malin..""
 

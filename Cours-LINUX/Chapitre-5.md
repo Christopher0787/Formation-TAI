@@ -136,3 +136,23 @@
 
 ## **Options de Formatage**
 ---
+
+
+    "journalctl -o short"
+
+
+**Afficher les logs au format court.**
+
+---
+
+
+    "journalctl -o verbose"
+
+
+**Afficher les logs au format complet.**
+
+---
+
+
+## **Outils pratiques pour la surveillance du système**
+---

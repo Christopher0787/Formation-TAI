@@ -8,3 +8,27 @@
 
 # **Gestion des Services avec systemd**
 ---
+
+
+    "systemctl start nomDuService"
+
+
+**Démarrer un service.**
+
+---
+
+
+    "systemctl stop nomDuService"
+
+
+**Stopper un service.**
+
+---
+
+
+    "systemctl restart nomDuService"
+
+
+**Redémarrer un service.**
+
+---

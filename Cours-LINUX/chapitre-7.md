@@ -93,7 +93,6 @@ Réouvrez votre script avec nano script.sh et commencez simplement par créer de
 
 
     "prenom="Nathan""
-
     "age=21"
 
 
@@ -123,14 +122,11 @@ Ces back quotes sont un peu spéciales, elles permettent de dire à Bash d'exéc
 
 
     "prenom="Nathan""
-
     "age=21"
-
     "hote=`hostname`"
 
 
     "echo "Bonjour $prenom ! Tu as $age ans""
-
     "echo "Je suis $hote, ta machine !""
 ---
 
@@ -138,7 +134,6 @@ Ces back quotes sont un peu spéciales, elles permettent de dire à Bash d'exéc
 Dans cette exemple, Bash a exécuté la commande hostname qui permet de retourner le nom de l'hôte, d'où le resultat Ubuntu 
 
     "Bonjour Nathan ! Tu as 21 ans"
-
     "Je suis Ubuntu, ta machine !"
 ---
 
@@ -157,9 +152,7 @@ En bash comme dans n’importe quel langage de programmation, on retrouvera des 
 
 
     "prenom="Nathan""
-
     "age=21"
-
     "hote=`hostname`"
 
 
@@ -167,7 +160,6 @@ En bash comme dans n’importe quel langage de programmation, on retrouvera des 
 
 
         "echo "Bonjour $prenom ! Tu as $age ans""
-
         "echo "Je suis $hote, ta machine !""
 
 
@@ -179,7 +171,6 @@ En bash comme dans n’importe quel langage de programmation, on retrouvera des 
 
 
     "Bonjour Nathan ! Tu as 21 ans"
-
     "Je suis Ubuntu, ta machine !"
 ---
 
@@ -195,9 +186,7 @@ deux espaces (avant/après). Il n’est pas nécessaire de faire un espace ou un
 
 
     "prenom="Nathan""
-
     "age=21"
-
     "hote=`hostname`"
 
 
@@ -208,7 +197,6 @@ deux espaces (avant/après). Il n’est pas nécessaire de faire un espace ou un
 
 
         "echo "Bonjour $prenom ! Tu as $age ans""
-
         "echo "Je suis $hote, ta machine !""
 
 
@@ -226,9 +214,7 @@ On enlève simplement le « ; » et on place le then sur la ligne en dessous. Ce
 
 
     "prenom="Nathan""
-
     "age=21"
-
     "hote=`hostname`"
 
 
@@ -239,7 +225,6 @@ On enlève simplement le « ; » et on place le then sur la ligne en dessous. Ce
 
 
         "echo "Bonjour $prenom ! Tu as $age ans""
-
         "echo "Je suis $hote, ta machine !""
 
 
@@ -275,9 +260,7 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
 
     "prenom="Nathan""
-
     "age=21"
-
     "hote=`hostname`"
 
 
@@ -288,7 +271,6 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
 
         "echo "Bonjour $prenom ! Tu as $age ans""
-
         "echo "Je suis $hote, ta machine !""
 
 
@@ -333,4 +315,50 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
 
 # **Variables dynamiques**
+---
+
+
+Nous allons maintenant voire comment rendre nos script plus « Autonome ».
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan"
+    "age=21"
+    "hote=`hostname`"
+
+    "echo "Votre prenom ?""
+    "read prenom"
+
+    "if [ $prenom = "Nathan" ]"
+
+
+    "then"
+
+
+        "echo "Bonjour $prenom ! Tu as $age ans""
+        "echo "Je suis $hote, ta machine !""
+
+
+    "elif [ $prenom = "Anonyme" ]"
+
+
+    "then"
+
+        "echo "Vous êtes malin..""
+
+
+    "else"
+
+
+        "echo "Vous êtes qui ?!""
+
+
+    "fi"
+
+
+Ici, la commande read permet de demander à l'utilisateur de définir le contenu de la variable prenom. Grâce à cette commande, il n'est plus nécessaire de changer
+manuellement le contenu d'une variable !
+
 ---

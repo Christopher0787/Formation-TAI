@@ -141,3 +141,7 @@
 
 # **Exemples pratiques**
 ---
+
+
+## **Planifier l'écriture dans un fichier avec un intervalle de 5 min**
+---

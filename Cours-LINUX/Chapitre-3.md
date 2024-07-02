@@ -316,3 +316,7 @@
 
 ### **Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.**
 ---
+
+
+# **Les variables d'environnements**
+---

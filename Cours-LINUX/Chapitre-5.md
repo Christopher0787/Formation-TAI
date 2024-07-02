@@ -84,3 +84,31 @@
 
 # **Surveillance des services**
 ---
+
+
+## **Utilisation de journalctl**
+---
+
+
+    "journalctl"
+
+
+**Afficher les logs du système.**
+
+---
+
+
+    "journalctl -u nomDuService"
+
+
+**Afficher les logs d'un service.**
+
+---
+
+
+    "journalctl -p niveauDePriorite"
+
+
+**Filtrer les logs par priorité.**
+
+---

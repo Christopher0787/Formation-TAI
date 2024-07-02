@@ -16,3 +16,7 @@
 
 * Ce dernier a remplacé des protocoles plus anciens et moins sécurisés tels que Telnet, en fournissant un moyen de communication cryptée, ce qui signifie que les données échangées entre le client et le serveur ne peuvent pas être interceptées.
 ---
+
+
+## **Installation du serveur SSH**
+---

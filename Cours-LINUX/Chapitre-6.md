@@ -183,7 +183,7 @@
 ---
 
 
-- Pour pouvoir effectuer des tâches planifier au niveau système, vous devez exécuter la commande suivante pour pouvoir créer une tâche planifiée avec les droits root 
+**Pour pouvoir effectuer des tâches planifier au niveau système, vous devez exécuter la commande suivante pour pouvoir créer une tâche planifiée avec les droits root** 
 
 
     "sudo crontab -e"
@@ -192,4 +192,6 @@
     "0 3 * * 1 /bin/rm -rf /tmp/*"
 
 
-- Ici, le script s'exécutera tout les lundi ( 1 ) à trois heure du matin ( 3 ) à la minute 0 .
+**Ici, le script s'exécutera tout les lundi ( 1 ) à trois heure du matin ( 3 ) à la minute 0 .**
+
+---

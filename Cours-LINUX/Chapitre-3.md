@@ -294,7 +294,7 @@
         "git clone https://github.com/zsh-users/zsh-autosuggestions"
 
 
-### * Va vous télécharger le plugins d'autocomplétion.
+### **Va vous télécharger le plugins d'autocomplétion.**
 ---
 
 
@@ -304,7 +304,7 @@
         "git clone https://github.com/zsh-users/zsh-syntax-highlighting.git"
 
 
-### * Va vous télécharger le plugins de coloration syntaxique
+### **Va vous télécharger le plugins de coloration syntaxique**
 ---
 
 
@@ -314,5 +314,5 @@
         "plugins=(zsh-autosuggestions zsh-syntax-highlighting)"
 
 
-### * Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.
+### **Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.**
 ---

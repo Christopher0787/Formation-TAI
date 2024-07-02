@@ -6,7 +6,7 @@
 ---
 
 
-### * Un shell et le programme qui va executer vos commandes dans un terminal, il en existe plusieurs :
+### Un shell et le programme qui va executer vos commandes dans un terminal, il en existe plusieurs :
 
 
     * Sh -> premier shell.
@@ -21,7 +21,7 @@
 ---
 
 
-### * Vous pouvez customizer votre shell en ligne de commande.
+### Vous pouvez customizer votre shell en ligne de commande.
 ---
 
 
@@ -29,10 +29,10 @@
 ---
 
 
-### * Sur bash, la configuration de votre shell se fait grâce au fichier .bashrc qui se trouve dans votre home directory (chaque utilisateur à son propre .bashrc), et donc, lamodification du shell se fait à l'échelle de l'utilisateur.
+### Sur bash, la configuration de votre shell se fait grâce au fichier .bashrc qui se trouve dans votre home directory (chaque utilisateur à son propre .bashrc), et donc, lamodification du shell se fait à l'échelle de l'utilisateur.
 
 
-### * Si vous souhaitez modifier votre configuration bash vous devez donc entrer la commande (dans votrehome directory) :
+### Si vous souhaitez modifier votre configuration bash vous devez donc entrer la commande (dans votrehome directory) :
 
 
 "nano .bashrc"
@@ -45,7 +45,7 @@
 # **Modifier le prompt**
 
 
-### * Le prompt est l'invite de commande (le texte qui s'affiche avec de lancer chaque commande). Si vous souhaitez le modifier, allez à la fin du fichier .bashrc et écrivez :
+###  Le prompt est l'invite de commande (le texte qui s'affiche avec de lancer chaque commande). Si vous souhaitez le modifier, allez à la fin du fichier .bashrc et écrivez :
 
 
 "export PS1="nouveau prompt $ ""
@@ -59,7 +59,7 @@
 ---
 
 
-### * Pour avoir un prompt dynamique et afficher des informations sur l'utilisateur connecté ou encore l'emplacement du terminal, vous devez connaitre leurencodage pourles définir dans votre prompt :
+### Pour avoir un prompt dynamique et afficher des informations sur l'utilisateur connecté ou encore l'emplacement du terminal, vous devez connaitre leurencodage pourles définir dans votre prompt :
 
 
     * \u -> pour afficher l'utilisateur.
@@ -88,7 +88,7 @@
 # **Les Alias**
 
 
-### * Les alias permettent de créer des raccourcies vers des commandes. Il dois être déclaré dans le fichier de configuration du shell (.bashrc pour Bash).
+###  Les alias permettent de créer des raccourcies vers des commandes. Il dois être déclaré dans le fichier de configuration du shell (.bashrc pour Bash).
 
 
 "alias ll="ls -al""
@@ -98,7 +98,7 @@
 ---
 
 
-### * total 416
+###  total 416
 
     * drwx------. 1 nathan nathan 1096 8 nov. 21:29 .
     * drwxr-xr-x. 1 root root 12 21 juil. 02:00 ..
@@ -134,13 +134,13 @@
 ---
 
 
-### * Pour installer le shell zsh vous devez d'abord installer le paquet avec apt :
+###  Pour installer le shell zsh vous devez d'abord installer le paquet avec apt :
 
 
 "sudo apt install zsh"
 
 
-### * Pour changer de shell pendant une session du terminal :
+###  Pour changer de shell pendant une session du terminal :
 
 
 "zsh"
@@ -164,10 +164,10 @@
 ---
 
 
-### * Et ensuite vous entrez le chemin vers le shell :usr/bin/zsh ou usr/bin/bash.
+###  Et ensuite vous entrez le chemin vers le shell :usr/bin/zsh ou usr/bin/bash.
 
 
-### * Vous devez ensuite redémarrer la session utilisateur pour que les modifications du shell par défaut soientprise en compte.
+###  Vous devez ensuite redémarrer la session utilisateur pour que les modifications du shell par défaut soientprise en compte.
 ---
 
 
@@ -175,14 +175,14 @@
 ---
 
 
-### * Pour zsh, le fichier de configuration se nomme .zshrc, pour modifier votre shell zsh, vous devez donc modifier ce fichier.
+###  Pour zsh, le fichier de configuration se nomme .zshrc, pour modifier votre shell zsh, vous devez donc modifier ce fichier.
 ---
 
 
 "export PROMPT="Nouveau prompt""
 
 
-### * Pour modifier le prompt, zsh utilise la variable PROMPT, vous devez écrire à la fin du fichier.zshrc :
+###  Pour modifier le prompt, zsh utilise la variable PROMPT, vous devez écrire à la fin du fichier.zshrc :
 ---
 
 
@@ -196,7 +196,7 @@
 
     * %t% -> heure.
 
-### * Si vous voulez plus d'information et de possibilité sur la customization prompt avec zsh -> Cliquez ici.
+###  Si vous voulez plus d'information et de possibilité sur la customization prompt avec zsh -> Cliquez ici.
 ---
 
 
@@ -212,7 +212,7 @@
 ---
 
 
-### * Pour installer oh-my-zsh vous devez installer les paquets
+###  Pour installer oh-my-zsh vous devez installer les paquets
 
 
     * curl -> sudo apt install curl .
@@ -221,13 +221,13 @@
 ---
 
 
-### * Ensuite vous allez devoir vous rendre dans votre home directory et lancer la commande :
+###  Ensuite vous allez devoir vous rendre dans votre home directory et lancer la commande :
 
 
 "sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)""
 
 
-### * Cette commande va voustélécharger le repository git Oh-my-zsh et lancer automatiquement la configuration de Oh-my-zsh qui va modifier automatiquement votre fichier .zshrc pour commencer la customization de votre shell.
+###  Cette commande va voustélécharger le repository git Oh-my-zsh et lancer automatiquement la configuration de Oh-my-zsh qui va modifier automatiquement votre fichier .zshrc pour commencer la customization de votre shell.
 ---
 
 
@@ -243,13 +243,13 @@
 
 ---
 
-### * C'est dans cette chaine de caractère que vous pouvezmodifier le nom du thème que vous voulez utiliser.
+###  C'est dans cette chaine de caractère que vous pouvezmodifier le nom du thème que vous voulez utiliser.
 ---
 
-### * Pour retrouver la liste des thèmes vous pouvez vous rendre dans votre explorateur de fichier dans votre home directory, chercher ensuite le dossier .oh-my-zsh/themes , vous aurez toute la liste des thèmes disponibles.
+###  Pour retrouver la liste des thèmes vous pouvez vous rendre dans votre explorateur de fichier dans votre home directory, chercher ensuite le dossier .oh-my-zsh/themes , vous aurez toute la liste des thèmes disponibles.
 ---
 
-### * Vous pouvez également utiliser random pour qu'à chaque ouverture du terminal votre theme change.
+###  Vous pouvez également utiliser random pour qu'à chaque ouverture du terminal votre theme change.
 ---
 
 ## **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande**
@@ -259,7 +259,7 @@
 "source .zshrc"
 
 
-### * Qui va relire le fichier de config et faire la modification de votre shell si besoin.
+###  Qui va relire le fichier de config et faire la modification de votre shell si besoin.
 ---
 
 
@@ -267,13 +267,13 @@
 ---
 
 
-### * Avec Oh-my-Zsh, vous pouvez utiliser des plugins qui peuvent être très pratique pour vous aider à l'utilisation de votre terminal.
+###  Avec Oh-my-Zsh, vous pouvez utiliser des plugins qui peuvent être très pratique pour vous aider à l'utilisation de votre terminal.
 
 
-### * Chercher la ligne plugins=( , c'est dans les parenthèse que vous allez pouvoir ajouter des plugins.
+###  Chercher la ligne plugins=( , c'est dans les parenthèse que vous allez pouvoir ajouter des plugins.
 
 
-### * Pour avoir la liste complète des plugins disponible, allez dans le dossier .oh-my-zsh/plugins vous aurez tous les dossier contenant les différents pluginsdisponible, dans chaque dossier vous pourrez retrouver un fichier README.md qui vous expliquera le fonctionnement de chaque plugin et son utilisation.
+###  Pour avoir la liste complète des plugins disponible, allez dans le dossier .oh-my-zsh/plugins vous aurez tous les dossier contenant les différents pluginsdisponible, dans chaque dossier vous pourrez retrouver un fichier README.md qui vous expliquera le fonctionnement de chaque plugin et son utilisation.
 ---
 
 
@@ -281,7 +281,7 @@
 ---
 
 
-### * Certain plugins ne sont pas fournit par défaut avec l'installation de oh my zsh, mais vous pouvez télécharger de nouveau plugins en vous rendant avec votre terminal dans le dossier .oh-my-zsh/plugins et ensuite télécharger de nouveau plugins.
+###  Certain plugins ne sont pas fournit par défaut avec l'installation de oh my zsh, mais vous pouvez télécharger de nouveau plugins en vous rendant avec votre terminal dans le dossier .oh-my-zsh/plugins et ensuite télécharger de nouveau plugins.
 
 
 ## **Nous allons en voir 2 qui sont extrêmement pratique pour l'utilisation de votre terminal**
@@ -308,7 +308,7 @@
 ---
 
 
-### * Une fois que vous avez télécharger les nouveaux plugins, vous devez éditer le fichier.zshrc :
+###  Une fois que vous avez télécharger les nouveaux plugins, vous devez éditer le fichier.zshrc :
 
 
         "plugins=(zsh-autosuggestions zsh-syntax-highlighting)"
@@ -367,5 +367,5 @@
 ### **Va changer de dossier en partant duhome directory et va aller dans le dossier Documents.**
 
 
-### * Vous pouvez utiliser n'importe quelles variables d'environnement pour rendre vos commande dynamique et réutilisable sur n'importe quel système ainsi qu'avec n'importe quel utilisateur connecté.
+###  Vous pouvez utiliser n'importe quelles variables d'environnement pour rendre vos commande dynamique et réutilisable sur n'importe quel système ainsi qu'avec n'importe quel utilisateur connecté.
 ---

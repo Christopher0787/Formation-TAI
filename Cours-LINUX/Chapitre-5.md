@@ -160,3 +160,39 @@
 
 # **htop**
 ---
+
+
+    "sudo apt install htop"
+
+
+**Installer htop.**
+
+---
+
+
+    "htop"
+
+
+**Utiliser htop.**
+
+---
+
+
+# **btop**
+---
+
+
+    "sudo apt install btop"
+
+
+**Installer btop.**
+
+---
+
+
+    "btop"
+
+
+**Utiliser btop.**
+
+---

@@ -40,3 +40,7 @@ Dans ce cours, nous utiliserons bash, mais si vous souhaitez utilisez un autre s
 par #!/bin/sh.
 
 ---
+
+
+# **Rendre le script exécutable**
+---

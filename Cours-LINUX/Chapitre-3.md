@@ -261,3 +261,7 @@
 
 ### * Qui va relire le fichier de config et faire la modification de votre shell si besoin.
 ---
+
+
+## **Plugins**
+---

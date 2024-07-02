@@ -366,3 +366,7 @@ Ici, la commande read permet de demander à l'utilisateur de définir le contenu
 manuellement le contenu d'une variable !
 
 ---
+
+
+# **Les boucles**
+---

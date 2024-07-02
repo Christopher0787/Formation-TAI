@@ -169,3 +169,27 @@
 
 # **Exécuter un script toute les deux heures :**
 ---
+
+
+    "0 */2 * * * /chemin/vers/votre/script.sh"
+
+
+**Dans cette configuration, */2 dans le champ des heures signifie que la tâche sera exécutée toutes les 2 heures.**
+
+---
+
+
+# **Supprimer le cache du systeme tout les lundi à trois heures du matin :**
+---
+
+
+- Pour pouvoir effectuer des tâches planifier au niveau système, vous devez exécuter la commande suivante pour pouvoir créer une tâche planifiée avec les droits root 
+
+
+    "sudo crontab -e"
+---
+
+    "0 3 * * 1 /bin/rm -rf /tmp/*"
+
+
+- Ici, le script s'exécutera tout les lundi ( 1 ) à trois heure du matin ( 3 ) à la minute 0 .

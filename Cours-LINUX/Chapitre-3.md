@@ -2,7 +2,7 @@
 ---
 
 
-## **Les Shells**
+# **Les Shells**
 ---
 
 
@@ -25,7 +25,7 @@
 ---
 
 
-### **Bash**
+# **Bash**
 ---
 
 
@@ -38,11 +38,11 @@
 "nano .bashrc"
 
 
-### **Vous allez ouvrir un éditeur en ligne de commande (nano) avec le fichier.bashrc que vous pouvez modifier.**
+## **Vous allez ouvrir un éditeur en ligne de commande (nano) avec le fichier.bashrc que vous pouvez modifier.**
 ---
 
 
-### **Modifier le prompt**
+# **Modifier le prompt**
 
 
 ### * Le prompt est l'invite de commande (le texte qui s'affiche avec de lancer chaque commande). Si vous souhaitez le modifier, allez à la fin du fichier .bashrc et écrivez :
@@ -51,11 +51,11 @@
 "export PS1="nouveau prompt $ ""
 
 
-### **La variable PS1 est utilisé par bash pour afficher le prompt, vous pouvez donc modifier votre prompt en la redéfinissant.**
+## **La variable PS1 est utilisé par bash pour afficher le prompt, vous pouvez donc modifier votre prompt en la redéfinissant.**
 ---
 
 
-### **Les variables d'affichage**
+## **Les variables d'affichage**
 ---
 
 
@@ -74,18 +74,18 @@
 "export PS1="\u@\h \t \w $ ""
 
 
-### **Vous pouvez les afficher dans votre prompt comme ceci :**
+## **Vous pouvez les afficher dans votre prompt comme ceci :**
 ---
 
 
 "nathan@ubuntu 12:15:48 ~ $"
 
 
-### **qui vous donnera :**
+## **qui vous donnera :**
 ---
 
 
-## **Les Alias**
+# **Les Alias**
 
 
 ### * Les alias permettent de créer des raccourcies vers des commandes. Il dois être déclaré dans le fichier de configuration du shell (.bashrc pour Bash).
@@ -94,7 +94,7 @@
 "alias ll="ls -al""
 
 
-### **cette alias permet d'exécuter la commande ls -al lorque l'on écrit ll et renverra donc :**
+## **cette alias permet d'exécuter la commande ls -al lorque l'on écrit ll et renverra donc :**
 ---
 
 
@@ -146,21 +146,21 @@
 "zsh"
 
 
-### **Pour zsh :**
+## **Pour zsh :**
 ---
 
 
 "bash"
 
 
-### **Pour bash :**
+## **Pour bash :**
 ---
 
 
 "chsh"
 
 
-### **Changer le shell par défaut (au lancement du terminal) :**
+## **Changer le shell par défaut (au lancement du terminal) :**
 ---
 
 
@@ -186,7 +186,7 @@
 ---
 
 
-### **Les variables dynamiques :**
+# **Les variables dynamiques :**
 ---
 
 
@@ -204,11 +204,11 @@
 ---
 
 
-### **Oh-my-Zsh est unplugins de customization poussé de votre shell zsh, il va grandement faciliter la customization de votre shell et vous donner la possibilité d'utiliserdes plugins pour vous aider dans l'utilisation de votre terminal.**
+## **Oh-my-Zsh est unplugins de customization poussé de votre shell zsh, il va grandement faciliter la customization de votre shell et vous donner la possibilité d'utiliserdes plugins pour vous aider dans l'utilisation de votre terminal.**
 ---
 
 
-## **Installation**
+# **Installation**
 ---
 
 
@@ -231,11 +231,11 @@
 ---
 
 
-## **Themes**
+# **Themes**
 ---
 
 
-### **Grâce à oh-my-zsh, vous pouvez installer un theme sur votre shell de manière très simple, ouvrez votre fichier .zshrc avec nano et chercher la ligne :**
+## **Grâce à oh-my-zsh, vous pouvez installer un theme sur votre shell de manière très simple, ouvrez votre fichier .zshrc avec nano et chercher la ligne :**
 ---
 
 
@@ -252,7 +252,7 @@
 ### * Vous pouvez également utiliser random pour qu'à chaque ouverture du terminal votre theme change.
 ---
 
-### **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande**
+## **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande**
 ---
 
 
@@ -263,7 +263,7 @@
 ---
 
 
-## **Plugins**
+# **Plugins**
 ---
 
 
@@ -277,14 +277,14 @@
 ---
 
 
-## **Ajouter un plugin**
+# **Ajouter un plugin**
 ---
 
 
 ### * Certain plugins ne sont pas fournit par défaut avec l'installation de oh my zsh, mais vous pouvez télécharger de nouveau plugins en vous rendant avec votre terminal dans le dossier .oh-my-zsh/plugins et ensuite télécharger de nouveau plugins.
 
 
-### **Nous allons en voir 2 qui sont extrêmement pratique pour l'utilisation de votre terminal**
+## **Nous allons en voir 2 qui sont extrêmement pratique pour l'utilisation de votre terminal**
 ---
 
 
@@ -294,7 +294,7 @@
         "git clone https://github.com/zsh-users/zsh-autosuggestions"
 
 
-### **Va vous télécharger le plugins d'autocomplétion.**
+## **Va vous télécharger le plugins d'autocomplétion.**
 ---
 
 
@@ -304,7 +304,7 @@
         "git clone https://github.com/zsh-users/zsh-syntax-highlighting.git"
 
 
-### **Va vous télécharger le plugins de coloration syntaxique**
+## **Va vous télécharger le plugins de coloration syntaxique**
 ---
 
 
@@ -314,7 +314,7 @@
         "plugins=(zsh-autosuggestions zsh-syntax-highlighting)"
 
 
-### **Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.**
+## **Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.**
 ---
 
 

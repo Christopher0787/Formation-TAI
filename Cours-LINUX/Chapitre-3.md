@@ -233,3 +233,31 @@
 
 ## **Themes**
 ---
+
+
+### **Grâce à oh-my-zsh, vous pouvez installer un theme sur votre shell de manière très simple, ouvrez votre fichier .zshrc avec nano et chercher la ligne :**
+---
+
+
+"ZSH_THEME="robyrussel""
+
+---
+
+### * C'est dans cette chaine de caractère que vous pouvezmodifier le nom du thème que vous voulez utiliser.
+---
+
+### * Pour retrouver la liste des thèmes vous pouvez vous rendre dans votre explorateur de fichier dans votre home directory, chercher ensuite le dossier .oh-my-zsh/themes , vous aurez toute la liste des thèmes disponibles.
+---
+
+### * Vous pouvez également utiliser random pour qu'à chaque ouverture du terminal votre theme change.
+---
+
+### **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande :**
+---
+
+
+"source .zshrc"
+
+
+### * Qui va relire le fichier de config et faire la modification de votre shell si besoin.
+---

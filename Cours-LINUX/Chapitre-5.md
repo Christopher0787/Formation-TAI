@@ -36,3 +36,27 @@
 
 ## **Vérification de l'état d'un service**
 ---
+
+
+    "systemctl is-active nomDuService"
+
+
+**Afficher le status d'un services.**
+
+---
+
+
+    "systemctl status nomDuService"
+
+
+**Afficher plus d'informations sur un service.**
+
+---
+
+
+    "systemctl list-units --type=service"
+
+
+**Afficher la liste des servicesactifs.**
+
+---

@@ -116,3 +116,23 @@
 
 ## **Filtrer par Plage de Temps**
 ---
+
+
+    "journalctl --since "YYYY-MM-DD HH:MM:SS""
+
+
+**Afficher les logs depuis un certain temps.**
+
+---
+
+
+    "journalctl --until "YYYY-MM-DD HH:MM:SS""
+
+
+**Afficher les logs jusqu'à un certain temps.**
+
+---
+
+
+## **Options de Formatage**
+---

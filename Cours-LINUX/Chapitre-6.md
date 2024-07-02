@@ -67,3 +67,26 @@
 
     * Cela peut potentiellement poser des problèmes de sécurité si plusieurs utilisateurs partagent le même répertoire et que la suppression ou le renommage de fichiers par d'autres utilisateurs n'est pas souhaitable.
 ---
+
+
+- Pour éditer le fichier crontab de l'utilisateur actuel, utilisez la commande :
+
+
+    "crontab -e"
+---
+
+
+- Si c'est la premiére fois que vous ouvrez le crontab, ce dernier vous demandera quel éditeur en ligne de commande souhaitez-vous utiliser :
+---
+
+
+    - Select an editor. To change later, run 'select-editor'.
+
+        1. /bin/nano <---- easiest
+        2. /usr/bin/vim.basic
+        3. /usr/bin/nvim
+        4. /usr/bin/vim.tiny
+        5. /bin/ed
+
+    Choose 1-5 [1]:
+---

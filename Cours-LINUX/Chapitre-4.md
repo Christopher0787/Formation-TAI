@@ -70,3 +70,54 @@
 
 ## **Utilisation des clés SSH ( Serveur )**
 ---
+
+
+* **Pour préparer la connexion par clés, vous devezpréparer votre hôte distant.**
+
+
+    "mkdir ~/.ssh"
+---
+
+
+* **Créez un dossier nommé .ssh dans votre home directory.**
+
+
+    "chmod 700 ~/.ssh"
+---
+
+
+**Modifiez les permissions du dossier, 700 corréspond à :**
+
+
+* Utilisateur : Lecture (4) + Écriture (2) + Exécution (1) = 7.
+
+* Groupe : Aucune permission (0).
+
+* Autres : Aucune permission (0).
+---
+
+
+    "cd ~/.ssh"
+
+
+**Entrez dans le dossier**
+
+    "touch authorized_keys"
+
+
+**Créez le fichier qui contiendra lesclés publiques autorisées à se connecter à l'hôte distant.**
+
+
+    "chmod 600 authorized_keys"
+---
+
+
+**Pour terminer, modifiez les permissions du fichier, 600 corréspond à :**
+
+
+* Utilisateur : Lecture (4) + Écriture (2) = 6.
+
+* Groupe : Aucune permission (0).
+
+* Autres : Aucune permission (0).   
+---

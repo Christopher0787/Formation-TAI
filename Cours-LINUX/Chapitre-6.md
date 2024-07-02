@@ -137,3 +137,7 @@
 **Supprimer toutes les tâches planifiées.**
 
 ---
+
+
+# **Exemples pratiques**
+---

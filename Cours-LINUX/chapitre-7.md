@@ -145,3 +145,31 @@ Dans cette exemple, Bash a exécuté la commande hostname qui permet de retourne
 
 # **Les conditions**
 ---
+
+
+En bash comme dans n’importe quel langage de programmation, on retrouvera des conditions que l’on pourra utiliser dans nos scripts.
+
+
+**Commençons par la plus simple, à savoir la condition if (si en français) :**
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+    "hote=`hostname`"
+
+
+    "if [ $prenom = "Nathan" ]; then"
+
+
+        "echo "Bonjour $prenom ! Tu as $age ans""
+
+        "echo "Je suis $hote, ta machine !""
+
+
+    "fi"
+---

@@ -216,6 +216,7 @@
 
 
     * curl -> sudo apt install curl .
+
     * git -> sudo apt install git .
 ---
 
@@ -227,4 +228,8 @@
 
 
 ### * Cette commande va voustélécharger le repository git Oh-my-zsh et lancer automatiquement la configuration de Oh-my-zsh qui va modifier automatiquement votre fichier .zshrc pour commencer la customization de votre shell.
+---
+
+
+## **Themes**
 ---

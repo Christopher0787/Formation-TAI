@@ -309,3 +309,25 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
     "fi"
 ---
+
+
+**Ici, si la variable $prenom est égale à Nathan , alors on écrit :**
+
+
+    "Bonjour Nathan ! Tu as 21 ans"
+
+    "Je suis Ubuntu, ta machine !"
+
+
+**Sinon si la variable $prenom est égale à Anonyme , alors on écrit :**
+
+
+    "Vous êtes malin.."
+---
+
+
+**Sinon, on écrit :**
+
+
+    "Vous êtes qui ?!"
+---

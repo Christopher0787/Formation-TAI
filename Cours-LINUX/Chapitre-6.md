@@ -76,11 +76,11 @@
 ---
 
 
-- Si c'est la premiére fois que vous ouvrez le crontab, ce dernier vous demandera quel éditeur en ligne de commande souhaitez-vous utiliser :
+- Si c'est la premiére fois que vous ouvrez le crontab, ce dernier vous demandera quel éditeur en ligne de commande souhaitez-vous utiliser 
 ---
 
 
-    - Select an editor. To change later, run 'select-editor'.
+    * Select an editor. To change later, run 'select-editor'.
 
         1. /bin/nano <---- easiest
         2. /usr/bin/vim.basic

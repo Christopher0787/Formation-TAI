@@ -265,3 +265,54 @@
 
 ## **Plugins**
 ---
+
+
+### * Avec Oh-my-Zsh, vous pouvez utiliser des plugins qui peuvent être très pratique pour vous aider à l'utilisation de votre terminal.
+
+
+### * Chercher la ligne plugins=( , c'est dans les parenthèse que vous allez pouvoir ajouter des plugins.
+
+
+### * Pour avoir la liste complète des plugins disponible, allez dans le dossier .oh-my-zsh/plugins vous aurez tous les dossier contenant les différents pluginsdisponible, dans chaque dossier vous pourrez retrouver un fichier README.md qui vous expliquera le fonctionnement de chaque plugin et son utilisation.
+---
+
+
+## **Ajouter un plugin**
+---
+
+
+### * Certain plugins ne sont pas fournit par défaut avec l'installation de oh my zsh, mais vous pouvez télécharger de nouveau plugins en vous rendant avec votre terminal dans le dossier .oh-my-zsh/plugins et ensuite télécharger de nouveau plugins.
+
+
+### **Nous allons en voir 2 qui sont extrêmement pratique pour l'utilisation de votre terminal**
+---
+
+
+    * Auto suggestions :
+
+
+        "git clone https://github.com/zsh-users/zsh-autosuggestions"
+
+
+### * Va vous télécharger le plugins d'autocomplétion.
+---
+
+
+    * Highlighting syntax :
+
+
+        "git clone https://github.com/zsh-users/zsh-syntax-highlighting.git"
+
+
+### * Va vous télécharger le plugins de coloration syntaxique
+---
+
+
+### * Une fois que vous avez télécharger les nouveaux plugins, vous devez éditer le fichier.zshrc :
+
+
+        "plugins=(zsh-autosuggestions zsh-syntax-highlighting)"
+
+
+### * Quand vous allez enregistrer et mettre à jour la configuration vous aurez ces 2 nouveaux plugins.
+---

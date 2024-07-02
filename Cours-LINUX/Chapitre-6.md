@@ -145,3 +145,23 @@
 
 ## **Planifier l'écriture dans un fichier avec un intervalle de 5 min**
 ---
+
+
+    "*/5 * * * * echo "Bonjour !" >> /chemin/vers/mon/fichier.txt"
+
+
+**Attention à ne pas écrire :**
+
+
+    "5 * * * * echo "Bonjour !" >> /chemin/vers/mon/fichier.txt"
+---
+
+
+**En effet, il y à une grosse différence entre écrire 5 au lieu de */5 :**
+
+
+    - La première notation */5 indique un intervalle régulier de 5 minutes.
+
+
+    - La deuxième notation 5 indique une exécution spécifique à la cinquième minute de chaque heure.
+---

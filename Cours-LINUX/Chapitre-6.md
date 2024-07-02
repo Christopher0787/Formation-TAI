@@ -94,3 +94,26 @@
 
 # **Exemple de planification**
 ---
+
+
+    "0 0 * * * commande"
+
+
+**Exécuter tous les jours à minuit.**
+
+---
+
+    "30 8 * * 1 commande"
+
+
+**Exécuter tous les lundis à 8h30.**
+
+---
+
+
+    "0 * * * * commande"
+
+
+**Exécuter chaque heure.**
+
+---

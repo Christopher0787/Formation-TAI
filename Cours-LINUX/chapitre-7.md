@@ -214,3 +214,40 @@ deux espaces (avant/après). Il n’est pas nécessaire de faire un espace ou un
 
     "fi"
 ---
+
+
+On enlève simplement le « ; » et on place le then sur la ligne en dessous. Certains aiment moins, d’autres préfèrent... le résultat est cependant lemême.
+
+
+**Passons ensuite à la condition else (sinon en français) :**
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+    "hote=`hostname`"
+
+
+    "if [ $prenom = "Nathan" ]"
+
+
+    "then"
+
+
+        "echo "Bonjour $prenom ! Tu as $age ans""
+
+        "echo "Je suis $hote, ta machine !""
+
+
+    "else"
+
+    
+        "echo "Vous êtes qui ?!""
+
+
+    "fi"
+---

@@ -251,3 +251,61 @@ On enlève simplement le « ; » et on place le then sur la ligne en dessous. Ce
 
     "fi"
 ---
+
+
+**Ici, si la variable $prenom est égale à Nathan , alors on écrit :**
+
+
+    "Bonjour Nathan ! Tu as 21 ans"
+    "Je suis Ubuntu, ta machine !"
+---
+
+
+**Sinon, on écrit :**
+
+
+    "Vous êtes qui ?"
+---
+
+
+Et enfin la dernière condition que nous verrons, c’est la condition elif (sinon si en français). Globalement, rien de nouveau, on reprend la condition ci-dessus, mais on la modifie pour rendre le tout cohérent :
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+    "hote=`hostname`"
+
+
+    "if [ $prenom = "Nathan" ]"
+
+
+    "then"
+
+
+        "echo "Bonjour $prenom ! Tu as $age ans""
+
+        "echo "Je suis $hote, ta machine !""
+
+
+    "elif [ $prenom = "Anonyme" ]"
+
+
+    "then"
+
+
+        "echo "Vous êtes malin..""
+
+
+    "else"
+
+
+        "echo "Vous êtes qui ?!""
+
+
+    "fi"
+---

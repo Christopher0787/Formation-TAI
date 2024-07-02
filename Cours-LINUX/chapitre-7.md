@@ -359,6 +359,7 @@ Nous allons maintenant voire comment rendre nos script plus « Autonome ».
 
 
     "fi"
+---
 
 
 Ici, la commande read permet de demander à l'utilisateur de définir le contenu de la variable prenom. Grâce à cette commande, il n'est plus nécessaire de changer

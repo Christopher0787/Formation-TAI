@@ -155,3 +155,28 @@
 
     "Get-Content $HOME\.ssh\id_rsa.pub | ssh ubuntu@192.168.1.42 "cat >> .ssh/authorized_keys""
 ---
+
+
+## **SFTP (Secure File Transfer Protocol)**
+---
+
+
+**SFTP est unprotocole de transfert de fichiers qui permet de copier des fichiers d'un ordinateur à un serveur distant ou vice versa. C'est une version sécurisée de FTP qui utilise SSH :**
+
+
+    "sftp nomUtilisateur@adresseIp"
+---
+
+
+## **Télécharger un fichier (hôte distant -> client)**
+
+
+    "get cheminDuFichier"
+---
+
+
+## **Téléverser un fichier (client -> hôte distant)**
+
+
+    "put cheminDuFichier"
+---

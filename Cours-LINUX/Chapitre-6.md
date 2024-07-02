@@ -121,3 +121,19 @@
 
 # **Commandes Utiles pour Crontab**
 ---
+
+
+    "crontab -l"
+
+
+**Lister les tâches planifiées.**
+
+---
+
+
+    "crontab -r"
+
+
+**Supprimer toutes les tâches planifiées.**
+
+---

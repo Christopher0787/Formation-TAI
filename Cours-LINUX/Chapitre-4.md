@@ -20,3 +20,21 @@
 
 ## **Installation du serveur SSH**
 ---
+
+
+* Pour pouvoir se connecter à un hôte distant, il faut que ce dernier possède un serveur ssh :
+
+    "sudo apt install openssh-server"
+
+
+* Vous devez également connaître l'adresse Ipv4 OU Ipv6 de l'hôte distant :
+
+    "ifconfig"
+
+
+* Cette commande permet d'afficher la configuration réseau. Il est possible qu'elle ne soit pas installé de base, il faut l'installer avec sudo apt install net-tools
+
+* Une fois la commande if config exécutée, l'adresse ip se trouve ici :
+
+    "inet 192.168.1.42"
+---

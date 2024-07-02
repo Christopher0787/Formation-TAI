@@ -160,8 +160,8 @@
 **En effet, il y à une grosse différence entre écrire 5 au lieu de */5 :**
 
 
-    - La première notation */5 indique un intervalle régulier de 5 minutes.
+    * La première notation */5 indique un intervalle régulier de 5 minutes.
 
 
-    - La deuxième notation 5 indique une exécution spécifique à la cinquième minute de chaque heure.
+    * La deuxième notation 5 indique une exécution spécifique à la cinquième minute de chaque heure.
 ---

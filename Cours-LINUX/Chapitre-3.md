@@ -252,7 +252,7 @@
 ### * Vous pouvez également utiliser random pour qu'à chaque ouverture du terminal votre theme change.
 ---
 
-### **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande :**
+### **Une fois que vous avez modifier le fichier .zshrc, vous pouvez soit relancer le terminal, soit rentrer la commande**
 ---
 
 

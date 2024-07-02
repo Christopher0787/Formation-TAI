@@ -32,3 +32,7 @@
 **Redémarrer un service.**
 
 ---
+
+
+## **Vérification de l'état d'un service**
+---

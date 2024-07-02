@@ -141,3 +141,7 @@ Dans cette exemple, Bash a exécuté la commande hostname qui permet de retourne
 
     "Je suis Ubuntu, ta machine !"
 ---
+
+
+# **Les conditions**
+---

@@ -210,3 +210,21 @@
 
 ## **Installation**
 ---
+
+
+### * Pour installer oh-my-zsh vous devez installer les paquets
+
+
+    * curl -> sudo apt install curl .
+    * git -> sudo apt install git .
+---
+
+
+### * Ensuite vous allez devoir vous rendre dans votre home directory et lancer la commande :
+
+
+"sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)""
+
+
+### * Cette commande va voustélécharger le repository git Oh-my-zsh et lancer automatiquement la configuration de Oh-my-zsh qui va modifier automatiquement votre fichier .zshrc pour commencer la customization de votre shell.
+---

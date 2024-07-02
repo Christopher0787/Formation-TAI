@@ -112,3 +112,7 @@
 **Filtrer les logs par priorité.**
 
 ---
+
+
+## **Filtrer par Plage de Temps**
+---

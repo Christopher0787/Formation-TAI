@@ -34,7 +34,7 @@
 ---
 
 
-* **Cette commande permet d'afficher la configuration réseau. Il est possible qu'elle ne soit pas installé de base, il faut l'installer avec sudo apt install net-tools**
+**Cette commande permet d'afficher la configuration réseau. Il est possible qu'elle ne soit pas installé de base, il faut l'installer avec sudo apt install net-tools**
 ---
 
 
@@ -60,8 +60,8 @@
 ---
 
 
-* **L'option -p 22 permet de définir le port de connexion SSH.**
----
+**L'option -p 22 permet de définir le port de connexion SSH.**
 
-* **Une fois connecté, le shell de votre hôte distant apparaitra.**
+
+**Une fois connecté, le shell de votre hôte distant apparaitra.**
 ---

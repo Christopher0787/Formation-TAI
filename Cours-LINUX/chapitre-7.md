@@ -44,3 +44,37 @@ par #!/bin/sh.
 
 # **Rendre le script exécutable**
 ---
+
+
+    "nano script.sh"
+---
+
+**Créer et ouvrir le script.**
+
+
+    "#!/bin/bash"
+
+
+    "echo "Bonjour !""
+---
+
+
+**Déclaration du shebang et ajout de la commande echo "Bonjour" .**
+
+
+    "chmod +x script.sh"
+---
+
+
+**Ajout de la permission d'exécution sur le script.**
+
+
+    "./script.sh"
+---
+
+
+Exécution du script.
+
+Maintenant, le script s’exécute correctement et nous affiche bien « Bonjour ! ». On va pouvoir s’attaquer à la partie algorithmie de Bash 
+
+---

@@ -78,3 +78,7 @@ Exécution du script.
 Maintenant, le script s’exécute correctement et nous affiche bien « Bonjour ! ». On va pouvoir s’attaquer à la partie algorithmie de Bash 
 
 ---
+
+
+# **Les variables**
+---

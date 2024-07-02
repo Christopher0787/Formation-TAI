@@ -64,3 +64,19 @@
 
 ## **Configuration au démarrage**
 ---
+
+
+    "systemctl enable nomDuService"
+
+
+**Activer un service au démarrage.**
+
+---
+
+
+    "systemctl disable nomDuService"
+
+
+**Désactiver un service au démarrage.**
+
+---

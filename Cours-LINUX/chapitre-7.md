@@ -315,7 +315,6 @@ Et enfin la dernière condition que nous verrons, c’est la condition elif (sin
 
 
     "Bonjour Nathan ! Tu as 21 ans"
-
     "Je suis Ubuntu, ta machine !"
 
 

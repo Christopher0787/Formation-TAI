@@ -38,3 +38,7 @@
 
     "inet 192.168.1.42"
 ---
+
+
+## **Connexion à un hôte distant**
+---

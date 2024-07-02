@@ -82,3 +82,62 @@ Maintenant, le script s’exécute correctement et nous affiche bien « Bonjour 
 
 # **Les variables**
 ---
+
+
+La première chose que vous allez apprendre ici est comment créer des variables et leur attribuer des valeurs.
+
+Réouvrez votre script avec nano script.sh et commencez simplement par créer deux variables :
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+
+    "echo "Bonjour $prenom ! Tu as $age ans""
+---
+
+
+Une fois enregistrer et exécuter, le script retournera :
+
+
+    "Bonjour Nathan ! Tu as 21 ans"
+
+
+⚠ Attention, Vous devez englober votre message avec des doubles quotes " " car si vous utilisez des simples quotes ' ' , Bash considèrera vos variables comme
+du simple texte et renverra ceci :
+
+
+    "Bonjour $prenom ! Tu as $age ans"
+
+
+Avant de clôturer ce chapitre sur les variables, il faut savoir qu'il existe une troisième sorte de quotes, appelé les back quotes, qui sont des accents graves ` ` .
+
+Ces back quotes sont un peu spéciales, elles permettent de dire à Bash d'exécuter ce qui se trouve à l'intérieur :
+
+
+    "#!/bin/bash"
+
+
+    "prenom="Nathan""
+
+    "age=21"
+
+    "hote=`hostname`"
+
+
+    "echo "Bonjour $prenom ! Tu as $age ans""
+
+    "echo "Je suis $hote, ta machine !""
+---
+
+
+Dans cette exemple, Bash a exécuté la commande hostname qui permet de retourner le nom de l'hôte, d'où le resultat Ubuntu 
+
+    "Bonjour Nathan ! Tu as 21 ans"
+
+    "Je suis Ubuntu, ta machine !"
+---

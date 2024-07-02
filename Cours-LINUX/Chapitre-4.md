@@ -22,7 +22,7 @@
 ---
 
 
-* Pour pouvoir se connecter à un hôte distant, il faut que ce dernier possède un serveur ssh :
+* **Pour pouvoir se connecter à un hôte distant, il faut que ce dernier possède un serveur ssh :**
 
     "sudo apt install openssh-server"
 

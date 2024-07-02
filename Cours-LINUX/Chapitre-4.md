@@ -125,3 +125,33 @@
 
 ## **Utilisation des clés SSH ( Client )**
 ---
+
+
+**Les clés SSH offrent une méthode d'authentification sans mot de passe, améliorant ainsi la sécurité.**
+
+
+## **Génération de la paire de clés SSH**
+
+
+**Ouvrez un terminal sur votre client et exécutez la commande suivante pour générer une paire de clés SSH (publique et privée) :**
+
+
+    "ssh-keygen"
+---
+
+
+## **Copie de la clé publique sur l'hôte distant**
+
+
+**Si vous êtes sur Linux :**
+
+
+    "ssh-copy-id nomUtilisateur@adresseIp"
+---
+
+
+**Pour Windows (PowerShell), la commande ssh-copy-id n'existe pas par défaut, vous devez donc envoyer manuellement votre clé dans le fichier authorized_keys de votre hôte distant :**
+
+
+    "Get-Content $HOME\.ssh\id_rsa.pub | ssh ubuntu@192.168.1.42 "cat >> .ssh/authorized_keys""
+---

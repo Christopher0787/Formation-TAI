@@ -320,3 +320,52 @@
 
 # **Les variables d'environnements**
 ---
+
+
+### **Sur votre système, vous avez des variables d'environnement qui sont propre à chaque utilisateur, vous pouvez les utiliser dans vos commande pour faciliter le développement de vos scripts, ou les rendre utilisable sur n'importe quel environnement.**
+---
+
+
+## **Afficher les variables d'environnement**
+
+
+    "printenv"
+---
+
+
+## **Appeler une variable d'environnement**
+
+
+    "echo $HOME"
+---
+
+
+### **Va afficher le chemin d'accès vers lehome directory.**
+
+
+    "echo $USER"
+---
+
+
+### **Va afficher le nom de l'utilisateur connecté.**
+
+
+    "echo $PROMPT OU echo $PS1"
+---
+
+
+### **Va afficher le prompt sur zsh OU sur bash.**
+---
+
+
+## **Utiliser des variables d'environnements dans vos commandes ou scripts**
+
+
+    "cd $HOME/Documents"
+---
+
+### **Va changer de dossier en partant duhome directory et va aller dans le dossier Documents.**
+
+
+### * Vous pouvez utiliser n'importe quelles variables d'environnement pour rendre vos commande dynamique et réutilisable sur n'importe quel système ainsi qu'avec n'importe quel utilisateur connecté.
+---

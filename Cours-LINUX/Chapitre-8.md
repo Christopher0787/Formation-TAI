@@ -56,3 +56,7 @@
 
     "Ctrl + Shift + V"
 ---
+
+
+# **Raccourcis pour la Navigation dans le Terminal**
+---

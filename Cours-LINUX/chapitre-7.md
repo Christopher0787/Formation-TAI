@@ -426,10 +426,14 @@ manuellement le contenu d'une variable !
     * -ne = n'est pas égal à
 
     * -gt = est plus grand que
-    
+
     * -ge = est plus grand ou égal à
 
     * -lt = est plus petit que
 
     * -le = est plus petit ou égal à
+---
+
+
+# **La boucle For**
 ---

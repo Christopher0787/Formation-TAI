@@ -789,3 +789,47 @@ manuellement le contenu d'une variable !
 
     "echo "L'utilisateur $username a été créé avec succès.""
 ---
+
+
+## **Exercices pratique**
+---
+
+
+**Liste des comparaisons numériques :**
+
+
+    * -eq = est égal à
+    * -ne = n'est pas égal à
+    * -gt = est plus grand que
+    * -ge = est plus grand ou égal à
+    * -lt = est plus petit que
+    * -le = est plus petit ou égal à
+---
+
+
+**Liste des opérateurs de test de fichiers :**
+
+
+    * -d : Teste si le chemin existe et est un répertoire.
+    * -f : Teste si le chemin existe et est un fichier régulier.
+    * -e : Teste si le chemin existe.
+    * -s : Teste si le fichier a une taille supérieure à zéro (non vide).
+    * -r : Teste si le fichier est lisible.
+    * -w : Teste si le fichier est modifiable (inscriptible).
+    * -x : Teste si le fichier est exécutable.
+---
+
+
+### **Exercices 1 : les notes**
+---
+
+
+**Écrire un script qui demande à l'utilisateur de saisir une note et qui affiche un message en fonction de cette note :**
+
+
+    * "très bien" si la note est entre 16 et 20.
+    * "bien" lorsqu'elle est entre 14 et 16.
+    * "assez bien" si la note est entre 12 et 14.
+    * "moyen" si la note est entre 10 et 12.
+    * "insuffisant" si la note est inférieur à 10.
+---

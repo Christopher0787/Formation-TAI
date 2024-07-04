@@ -405,3 +405,24 @@ manuellement le contenu d'une variable !
 
     "done"
 ---
+
+
+**Ici, tant que la variable compteur est inférieur ou égale à 5, alors :**
+
+
+    * On créer un fichier portant le numéro du compteur.
+    * On écrit fichier $compteur crée .
+    * On incrémente la variable compteur de 1.
+---
+
+
+**Voici la liste des comparaisons numériques :**
+
+
+    * -eq = est égal à
+    * -ne = n'est pas égal à
+    * -gt = est plus grand que
+    * -ge = est plus grand ou égal à
+    * -lt = est plus petit que
+    * -le = est plus petit ou égal à
+---

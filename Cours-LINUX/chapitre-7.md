@@ -451,7 +451,7 @@ manuellement le contenu d'une variable !
 ---
 
 
-## **Exemple :**
+**Exemple :**
 
 
     "#!bin/bash"
@@ -472,4 +472,8 @@ manuellement le contenu d'une variable !
 
 
     " On écrit le nom du dossier contenu dans le tableau.
+---
+
+
+## **Exemple pratique 1 :**
 ---

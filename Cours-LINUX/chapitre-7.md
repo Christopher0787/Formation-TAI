@@ -513,3 +513,24 @@ manuellement le contenu d'une variable !
 
 ## **Exemple pratique 2 :**
 ---
+
+
+    "#!/bin/bash"
+
+    "for ((i=1; i<=5; i++))"
+
+    "do"
+
+        "mv fichier_$i.txt nouveau_fichier_$i.txt"
+        
+    "done"
+---
+
+
+**Ici, la variable i est égale à 1, tant que i est inférieur ou égale à 5, j'incrémente i de 1 et je renomme le fichier.**
+
+---
+
+**Pour faire simple, le script continuera de boucler tant que la variable i ne sera pas supérieur à 5 ! Facile, non ?**
+
+---

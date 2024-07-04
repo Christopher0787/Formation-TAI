@@ -680,3 +680,28 @@ manuellement le contenu d'une variable !
 
 ## **Exemple de scripts**
 ---
+
+
+### **Vérifier l'âge de l'utilisateur**
+
+
+    "#!/bin/bash"
+
+
+    "valider_age() {
+        "if [ $1 -ge 18 ]; then
+            "echo "Accès autorisé."
+        "else
+            "echo "Accès refusé. Vous devez avoir au moins 18 ans."
+        "fi
+    }"
+
+
+    "# Demander l'âge à l'utilisateur"
+    "echo -n "Entrez votre âge : ""
+    "read age"
+
+
+    "# Appel de la fonction de validation"
+    "valider_age $age"
+---

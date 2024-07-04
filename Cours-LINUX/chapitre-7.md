@@ -437,3 +437,39 @@ manuellement le contenu d'une variable !
 
 # **La boucle For**
 ---
+
+
+**La boucle for itère sur une séquence d'éléments.**
+
+    "for variable in liste"
+
+    "do"
+
+        "# Instructions à répéter pour chaque élément"
+
+    "done"
+---
+
+
+## **Exemple :**
+
+
+    "#!bin/bash"
+
+    "dossiers=("Bureau" "Musique" "Video" "Téléchargement")"
+
+    "for dossier in "${dossiers[@]}""
+
+    "do"
+
+        "echo $dossier"
+
+    "done"
+---
+
+
+**Ici, pour chaque élément dossier dans le tableau dossiers :**
+
+
+    " On écrit le nom du dossier contenu dans le tableau.
+---

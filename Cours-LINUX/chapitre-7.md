@@ -799,10 +799,15 @@ manuellement le contenu d'une variable !
 
 
     * -eq = est égal à
+
     * -ne = n'est pas égal à
+
     * -gt = est plus grand que
+
     * -ge = est plus grand ou égal à
+
     * -lt = est plus petit que
+
     * -le = est plus petit ou égal à
 ---
 
@@ -811,11 +816,17 @@ manuellement le contenu d'une variable !
 
 
     * -d : Teste si le chemin existe et est un répertoire.
+
     * -f : Teste si le chemin existe et est un fichier régulier.
+
     * -e : Teste si le chemin existe.
+
     * -s : Teste si le fichier a une taille supérieure à zéro (non vide).
+
     * -r : Teste si le fichier est lisible.
+
     * -w : Teste si le fichier est modifiable (inscriptible).
+
     * -x : Teste si le fichier est exécutable.
 ---
 
@@ -828,8 +839,12 @@ manuellement le contenu d'une variable !
 
 
     * "très bien" si la note est entre 16 et 20.
+
     * "bien" lorsqu'elle est entre 14 et 16.
+
     * "assez bien" si la note est entre 12 et 14.
+
     * "moyen" si la note est entre 10 et 12.
+    
     * "insuffisant" si la note est inférieur à 10.
 ---

@@ -100,3 +100,51 @@
 
 # **Autes raccourcis importants**
 ---
+
+
+### **Fermer la fenêtre actuelle**
+
+    "ALT + F4"
+---
+
+
+### **Changer de fenêtre**
+
+    "ALT + TAB"
+---
+
+
+### **Se déconnecter**
+
+    "CTRL + ALT + SUPPR"
+---
+
+
+### **Exécuter une commande**
+
+    "ALT + F2"
+---
+
+
+### **Ouvrir le terminal**
+
+    "CTRL + ALT + T"
+---
+
+
+### **Déplacer facilement une fenêtre**
+
+    "WINDOWS + SOURISGAUCHE"
+---
+
+
+### **Dupliquer la fenêtre actuelle**
+
+    "CTRL + N"
+---
+
+
+### **Ouvrir l'utilitaire de capture d'écran**
+
+    "PrtSc (ou IMPECR)"
+---

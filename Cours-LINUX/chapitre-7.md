@@ -562,3 +562,79 @@ manuellement le contenu d'une variable !
         # Instructions de la fonction
     }"
 ---
+
+
+## **Syntaxe d'Appel**
+---
+
+    "nomDeLaFonction"
+---
+
+
+## **Exemple fonction simple :**
+---
+
+
+    "#!/bin/bash"
+
+    "bonjour() {
+
+        "echo "Bonjour !"
+    }"
+
+    "bonjour"
+---
+
+
+**Dans cet exemple, la fonction bonjour affiche un message simple. Lorsque la fonction est appelée, le message est affiché. Une fois exécuté :**
+
+
+    "Bonjour !"
+---
+
+
+## **Exemple fonction avec paramètres**
+---
+
+
+    "#!/bin/bash"
+
+    "bonjour() {
+
+        "echo "Bonjour $1 !"
+    }"
+
+
+    "bonjour "Nathan""
+---
+
+
+**Dans cet exemple, la fonction bonjour prend un paramètre (ici, "Nathan") et affiche un message personnalisé. Une fois exécuté :**
+
+    "Bonjour Nathan !"
+---
+
+
+**Il est également possible de passer plusieurs paramètres à la fonction :**
+
+
+    "#!/bin/bash"
+
+    "bonjour() {
+
+        "echo "Bonjour $1 ! Tu as $2 ans !"
+    }"
+
+    "bonjour "Nathan" 21"
+---
+
+
+**Une fois exécuté :**
+
+    "Bonjour Nathan ! Tu as 21 ans !"
+---
+
+
+**Vous l'aurez compris, si vous souhaitez par exemple rajouter un troisième paramètre, il suffira de le déclarer dans la fonction avec la variable $3 , et ainsi de suite !**
+
+---

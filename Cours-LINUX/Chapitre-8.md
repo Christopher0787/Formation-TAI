@@ -6,7 +6,7 @@
 ---
 
 
-# **Raccourcis du Terminal**
+# **Raccourcis du Terminal :**
 ---
 
 
@@ -58,7 +58,7 @@
 ---
 
 
-# **Raccourcis pour la Navigation dans le Terminal**
+# **Raccourcis pour la Navigation dans le Terminal :**
 ---
 
 
@@ -98,7 +98,7 @@
 ---
 
 
-# **Autes raccourcis importants**
+# **Autes raccourcis importants :**
 ---
 
 

@@ -709,3 +709,83 @@ manuellement le contenu d'une variable !
 
 ## **Sauvegarder un dossier**
 ---
+
+
+    "#!/bin/bash"
+
+
+    "# Demander le chemin du dossier à sauvegarder"
+    "read -p "Entrez le chemin du dossier à sauvegarder : " folder_path"
+
+
+    "# Vérifier si le dossier existe"
+    "if [ ! -d "$folder_path" ]; then"
+        "echo "Le dossier spécifié n'existe pas.""
+        "exit 1"
+    "fi"
+
+
+    "# Extraire le nom du dossier à partir du chemin"
+    "folder_name=$(basename "$folder_path")"
+
+
+    "# Créer un nom de fichier unique pour la sauvegarde"
+    "backup_file="$folder_name-$(date +%Y%m%d%H%M%S).zip""
+
+
+    "# Créer la sauvegarde au format ZIP"
+    "zip -r "$backup_file" "$folder_path""
+
+    "echo "La sauvegarde a été créée avec succès : $backup_file""
+---
+
+
+## **Créer un utilisateur**
+---
+
+
+    "#!/bin/bash"
+
+
+    "# Vérifier si l'utilisateur exécute le script en tant que root"
+    "# $EUID est l'identifiant d'utilisateur effectif, 0 correspond aux privilèges administrateur"
+    "if [ "$EUID" -ne 0 ]; then"
+        "echo "Ce script doit être exécuté en tant que root. Utilisez sudo.""
+        "exit 1"
+    "fi"
+
+
+    "# Demander le nom d'utilisateur"
+    "read -p "Entrez le nom d'utilisateur : " username"
+
+
+    "# Vérifier si l'utilisateur existe déjà"
+    "# 2>&1 permet de rediriger la sortie d'erreur"
+    "if id "$username" >/dev/null 2>&1; then"
+        "echo "L'utilisateur $username existe déjà.""
+        "exit 1"
+    "fi"
+
+
+    "# Demander le nom complet de l'utilisateur"
+    "# -p permet d'afficher un message personnalisé"
+    "read -p "Entrez le nom complet de l'utilisateur : " full_name"
+
+
+    "# Demander le mot de passe de l'utilisateur"
+    "# -s permet d'ajouter une saisie silencieuse"
+    "read -sp "Entrez le mot de passe de l'utilisateur : " password"
+
+
+    "# Créer l'utilisateur"
+    "# -m permet de créer automatiquement le répertoire du nouvel utilisateur"
+    "useradd -m "$username""
+
+
+    "# Définir le mot de passe pour l'utilisateur"
+    "# chpasswd est utilisé pour modifier le mot de passe d'un utilisateur"
+    "echo "$username:$password" | chpasswd"
+
+
+    "echo "L'utilisateur $username a été créé avec succès.""
+---

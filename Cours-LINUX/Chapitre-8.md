@@ -60,3 +60,39 @@
 
 # **Raccourcis pour la Navigation dans le Terminal**
 ---
+
+
+### **Déplacez le curseur au début de la ligne**
+
+    "Ctrl + A"
+---
+
+
+### **Déplacez le curseur à la fin de la ligne**
+
+    "Ctrl + E"
+---
+
+
+### **Déplacez le curseur vers l'arrière**
+
+    "Ctrl + B"
+---
+
+
+### **Déplacez le curseur vers l'avant**
+
+    "Ctrl + F"
+---
+
+
+### **Supprime tout à gauche du curseur (ou tout en fonction du terminal)**
+
+    "Ctrl + U"
+---
+
+
+### **Supprime tout à droite du curseur**
+
+    "Ctrl + W"
+---

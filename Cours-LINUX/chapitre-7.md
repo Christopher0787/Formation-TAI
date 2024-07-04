@@ -547,3 +547,18 @@ manuellement le contenu d'une variable !
 
 # **Les fonctions**
 ---
+
+
+**Les fonctions permettent de regrouper des blocs de code réutilisables, facilitant ainsi la modularité et la maintenance des scripts.**
+
+---
+
+
+## **Syntaxe de Déclaration**
+---
+
+
+    "nomDeLaFonction() {
+        # Instructions de la fonction
+    }"
+---

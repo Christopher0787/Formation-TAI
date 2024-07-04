@@ -638,3 +638,41 @@ manuellement le contenu d'une variable !
 **Vous l'aurez compris, si vous souhaitez par exemple rajouter un troisième paramètre, il suffira de le déclarer dans la fonction avec la variable $3 , et ainsi de suite !**
 
 ---
+
+
+## **Exemple fonction avec retour de valeur**
+---
+
+
+**Les fonctions peuvent également retourner des valeurs !**
+
+
+    "#!/bin/bash"
+
+    "addition() {
+
+        "local resultat=$(( $1 + $1 ))
+        "echo $resultat
+
+    }"
+
+    "calcul=$(addition 5)
+    "echo "Résultat du calcul : $calcul"
+---
+
+
+**Une fois exécuté :**
+
+    "Résultat du calcul : 10"
+---
+
+
+**Dans cet exemple, vous avez découvert de nouveaux principes :**
+
+
+    * La commande local . elle permet de déclarer une variable avec une portée locale à la fonction. Cela signifie que la variable ne sera accessible qu'à l'intérieur de la fonction où elle est déclarée, et ne modifiera pas une variable portant le même nom en dehors de la fonction.
+
+    * La substitution arithmétique $(( )) . Utilisé pour effectuer des opérations mathématiques.
+
+    * La commande de substitution $( ) . Utilisé pour exécuter une commande et utiliser son résultat.
+---

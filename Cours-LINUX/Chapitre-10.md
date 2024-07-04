@@ -306,7 +306,9 @@ Le changement du port par défaut (22) auquel le service SSH écoute peut être 
 
 
     "# Port 22 (remplacez-le par un port non standard)"
+
     "Port 2222"
+
 
 La liste des ports logiciels est disponible ICI.
 
@@ -320,6 +322,7 @@ uniquement accessible en local et utiliser en cas de besoins.
 
 
     "# PermitRootLogin no"
+
     "PermitRootLogin no"
 
 ---
@@ -332,7 +335,9 @@ passe.
 
 
     "# PasswordAuthentication no"
+
     "PasswordAuthentication no"
+
 
 Pour que les nouveaux paramètres soient pris en compte, il suffit de redémarrer le serveur SSH :
 

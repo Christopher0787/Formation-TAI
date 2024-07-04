@@ -480,10 +480,15 @@ manuellement le contenu d'une variable !
 
 
     "#!/bin/bash"
+
     "repertoire="/home/ubuntu""
+
     "for element in "$repertoire"/*"
+
     "do"
+
         "echo $element"
+        
     "done"
 ---
 
@@ -499,9 +504,13 @@ manuellement le contenu d'une variable !
 
 
     "#!/bin/bash"
+
     "for ((initialisation; condition; itération))"
+
     "do"
+
         "# Instructions à répéter"
+
     "done"
 ---
 
@@ -522,7 +531,7 @@ manuellement le contenu d'une variable !
     "do"
 
         "mv fichier_$i.txt nouveau_fichier_$i.txt"
-        
+
     "done"
 ---
 

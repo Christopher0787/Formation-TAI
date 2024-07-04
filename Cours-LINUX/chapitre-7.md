@@ -477,3 +477,39 @@ manuellement le contenu d'une variable !
 
 ## **Exemple pratique 1 :**
 ---
+
+
+    "#!/bin/bash"
+    "repertoire="/home/ubuntu""
+    "for element in "$repertoire"/*"
+    "do"
+        "echo $element"
+    "done"
+---
+
+
+***Ici, pour chaque élément element dans le répertoire repertoire/* :**
+
+    * On écrit le nom du dossier ou fichier contenu dans le répertoire.
+
+
+**Avant de passer à la prochaine partie, il faut savoir qu'il existe un autre type de boucle for, appelée la boucle for arithmétique !**
+
+**Elle est utilisée pour effectuer des itérations numériques et est particulièrement utile lorsque vous avez besoin de compter de manière arithmétique, par exemple, pour itérer sur un certain nombre de fois :**
+
+
+    "#!/bin/bash"
+    "for ((initialisation; condition; itération))"
+    "do"
+        "# Instructions à répéter"
+    "done"
+---
+
+
+**Vous vous rappelez des fichiers que vous avez générés avec la boucle while un peu plus haut dans le cours ? Et bien grâce à la boucle for arithmétique, nous allons les renommer !**
+
+---
+
+
+## **Exemple pratique 2 :**
+---

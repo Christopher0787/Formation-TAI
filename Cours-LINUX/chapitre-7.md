@@ -488,7 +488,7 @@ manuellement le contenu d'une variable !
     "do"
 
         "echo $element"
-        
+
     "done"
 ---
 
@@ -542,4 +542,8 @@ manuellement le contenu d'une variable !
 
 **Pour faire simple, le script continuera de boucler tant que la variable i ne sera pas supérieur à 5 ! Facile, non ?**
 
+---
+
+
+# **Les fonctions**
 ---

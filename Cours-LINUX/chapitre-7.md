@@ -676,3 +676,7 @@ manuellement le contenu d'une variable !
 
     * La commande de substitution $( ) . Utilisé pour exécuter une commande et utiliser son résultat.
 ---
+
+
+## **Exemple de scripts**
+---

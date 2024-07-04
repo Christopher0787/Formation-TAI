@@ -370,3 +370,16 @@ manuellement le contenu d'une variable !
 
 # **Les boucles**
 ---
+
+
+**La boucle while répète un ensemble d'instructions tant qu'une condition est vraie :**
+
+
+    "while [ condition ]"
+
+    "do"
+
+        "# Instructions à répéter"
+
+    "done"
+---

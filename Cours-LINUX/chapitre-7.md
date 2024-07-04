@@ -383,3 +383,9 @@ manuellement le contenu d'une variable !
 
     "done"
 ---
+
+
+## **Exemple pratique :**
+---
+
+

@@ -389,3 +389,19 @@ manuellement le contenu d'une variable !
 ---
 
 
+    "#!/bin/bash"
+
+    "compteur=1"
+
+    "while [ $compteur -le 5 ]"
+
+    "do"
+
+
+        "touch fichier_$compteur.txt"
+        "echo "fichier $compteur crée""
+        "((compteur++))"
+
+
+    "done"
+---
